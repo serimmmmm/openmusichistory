@@ -98,7 +98,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
 
 ### Sergei Prokofiev
-- [Piano Sonata No.2 in d minor, Op.14](prokofiev-sonata-no.2.md) by [Middaa](https://github.com/Middaa)
+- [Piano Sonata No.2 in d minor, Op.14](prokofiev-sonata-no-2.md) by [Middaa](https://github.com/Middaa)
 
   
 ---
