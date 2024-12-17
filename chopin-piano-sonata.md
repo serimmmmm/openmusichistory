@@ -70,6 +70,6 @@ For a complete experience, observe how these movements interact to form a dramat
 <img src="Chopin2.png" width="400" height="400">
 </div>
 
-<img src="chopin_sonata.png">
+<img src="chopin-sonata.png">
 
 
