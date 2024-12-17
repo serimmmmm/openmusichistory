@@ -71,8 +71,3 @@ The Jupiter Symphony stands as one of Mozart’s crowning achievements, represen
 Explore the background of Mozart’s final symphonies and their context in his life.
 Resource: [Mozart's Symphonies - Britannica](https://www.britannica.com/art/symphony-music)
 
-wow~ what a nice text.
-
-Comment: I wish Mozart's picture was a little bigger. But the content is good!
-
-***I think the 'a.mozart' on the top line can be removed. The full name written below seems better.***
