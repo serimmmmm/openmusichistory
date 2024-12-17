@@ -105,7 +105,7 @@ Gould plays with clear, almost detached articulation that emphasizes clarity ove
 
 ---
 
-## Questions-for Review
+## Questions for Review
 - How does Haydn incorporate elements of surprise and humor into the sonata, particularly in the finale?
 
   Haydn frequent use of unexpected harmonic shifts and contrasting dynamics creates a sense of playfulness and unpredictability, a hallmark of Haydn’s wit. These moments of surprise keep the listener engaged and add a lighthearted, humorous character to the movement.
