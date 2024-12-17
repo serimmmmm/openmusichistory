@@ -222,9 +222,3 @@ This guide will help you efficiently study the key elements of the "Waldstein" S
 
 
 
----
-
-
-That's cool. 
-
-It's a great textbook.
