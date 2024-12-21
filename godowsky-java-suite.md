@@ -116,13 +116,19 @@ Seelig: Javanese Rhapsody
 
 ![Hari Besar 1-1](https://github.com/user-attachments/assets/5f1ae06b-716f-43a0-ac84-ae2abb543d1f)
 
+https://github.com/user-attachments/assets/64ae1873-cbc1-4c0b-b9c7-019a725bcc1e
+
 Use of Javanese Rhapsody in Hari Besar, m. 14
 
 ![krawita](https://github.com/user-attachments/assets/f21e0109-9564-40fc-b5c1-55646b535669)
 
+https://github.com/user-attachments/assets/6249ec2a-a84b-4ea1-aee2-8ec0dd8843b7
+
 Krawita
 
 ![hari besar krawita-1](https://github.com/user-attachments/assets/24146460-7790-44e0-9a60-6ba75b9d1ebe)
+
+https://github.com/user-attachments/assets/cca07c5b-4962-453a-8dac-ece9847b00b9
 
 Use of Krawita in Hari Besar, m. 15-16
 
