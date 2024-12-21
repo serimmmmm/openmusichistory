@@ -132,6 +132,8 @@ Kanjut
 
 ![hari besar kanjut](https://github.com/user-attachments/assets/e42fc285-c507-4bb4-8260-fbac25f065b6)
 
+https://github.com/user-attachments/assets/e7166239-62ba-4695-bb87-4d7ce9bc4f16
+
 Use of Kanjut in Hari Besar, m. 20-21
 
 Godowsky's use of pentatonic scale and ostinato patterns represents the sonority of gamelan pointed out by gongs. Not only that, the ostinato patterns in the left hand also suggest continuous motion and movement of people and things in the festival, meanwhile the right hand depicts sparkling themes that rise and fall like fireworks in the night sky. 
