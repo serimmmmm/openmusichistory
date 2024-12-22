@@ -114,6 +114,8 @@ In this movement, Godowsky took inspirations from Seelig's Javanese Rhapsody for
 
 Seelig: Javanese Rhapsody
 
+https://github.com/user-attachments/assets/2bcb94df-3dbe-4943-99b2-7b7e77a1e6f8
+
 ![Hari Besar 1-1](https://github.com/user-attachments/assets/5f1ae06b-716f-43a0-ac84-ae2abb543d1f)
 
 https://github.com/user-attachments/assets/64ae1873-cbc1-4c0b-b9c7-019a725bcc1e
