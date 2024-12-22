@@ -136,6 +136,8 @@ Use of Krawita in Hari Besar, m. 15-16
 
 ![kanjut](https://github.com/user-attachments/assets/7f9db9bb-1808-4396-a467-b9edc9492edd)
 
+https://github.com/user-attachments/assets/a6003b44-f061-4612-8285-5605ab9d1549
+
 Kanjut
 
 ![hari besar kanjut](https://github.com/user-attachments/assets/e42fc285-c507-4bb4-8260-fbac25f065b6)
