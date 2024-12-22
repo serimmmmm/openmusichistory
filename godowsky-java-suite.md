@@ -112,9 +112,9 @@ In this movement, Godowsky took inspirations from Seelig's Javanese Rhapsody for
 
 ![Theme of Javanese Rhapsody for Orchestra-1](https://github.com/user-attachments/assets/c9b91b73-fc30-41cf-9f2c-938b0cf27a07)
 
-Seelig: Javanese Rhapsody
-
 https://github.com/user-attachments/assets/2bcb94df-3dbe-4943-99b2-7b7e77a1e6f8
+
+Seelig: Javanese Rhapsody
 
 ![Hari Besar 1-1](https://github.com/user-attachments/assets/5f1ae06b-716f-43a0-ac84-ae2abb543d1f)
 
