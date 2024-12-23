@@ -75,4 +75,4 @@ Observe how the movement avoids a clear melodic theme, instead creating a sense 
 <img src="Chopin2.png" width="400" height="400">
 </div>
 
-<img src="chopin_sonata.png">
+<img src="chopin-sonata.png">
