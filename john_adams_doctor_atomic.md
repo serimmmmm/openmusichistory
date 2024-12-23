@@ -89,7 +89,7 @@ In the opera, the aria occurs at a climactic moment, reflecting Oppenheimer's in
 
 ---
 
-## Questions-for Review
+## Questions for Review
 - Do you think operas like John Adams’s are more effective at addressing contemporary issues than traditional operas?
 
   Operas like those by John Adams are often more effective at addressing contemporary issues than traditional operas due to their direct engagement with modern political, ethical, and scientific themes. For instance, Doctor Atomic confronts the moral dilemmas surrounding the atomic bomb, while Nixon in China deals with the complex geopolitical tensions of the late 20th century. These works use minimalist techniques and contemporary settings to make their themes more immediate and relatable to modern audiences, compared to the often historical or mythological subjects of traditional operas. Adams's operas engage with the world in real-time, allowing them to reflect current issues more dynamically.
