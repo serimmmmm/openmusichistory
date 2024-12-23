@@ -13,6 +13,8 @@ He is well-known for his delicate expressiveness and emotional compositions, par
 - [About Hoffmann](#about-hoffmann)
 - [A brief description of each piece](#a-brief-description-of-each-piece)
 - [The Background of Kreisleriana’s Composition](#the-background-of-kreislerianas-composition)
+- [Questions for Review](#questions-for-review)
+- [Guides for Further Studies](#guides-for-further-studies)
 
 ## Timeline
 
@@ -97,5 +99,19 @@ Kreisleriana is also a reflection of Schumann’s inner psychological landscape.
 
 More than just a piano work, Kreisleriana represents one of Schumann’s most personal and expressive compositions, a musical drama of his life and emotions woven into sound. This piece stands as a testament to Schumann’s artistic spirit and serves as a vivid portrayal of his inner battles during this challenging time.
 
+## Questions for Review
+1. What inspired the title Kreisleriana?
+
+2. Which two personas does Schumann explore in Kreisleriana?
+
+Answer.
+1. The character "Johannes Kreisler" from E.T.A. Hoffmann’s literary works.
+2. Florestan  and Eusebius
+
+   
+## Guides for Further Studies
+Explore Schumann’s Letters to Clara:
+Read Schumann's personal letters to Clara Wieck to gain a deeper understanding of the emotional context behind Kreisleriana.
+https://www.schumann-portal.de/schumann-letters-edition.html
 
 ### Now, step into Schumann’s musical world through this remarkable work. Join us in exploring the beauty of Kreisleriana and immersing yourself in the complex emotions it holds. Why not experience the messages and sentiments Schumann sought to convey? 
