@@ -107,7 +107,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 - [Symphony No. 41 in C major, K. 551](mozart-symphony.md) by [hobin2788](https://github.com/hobin2788)
 
 ### Sergei Prokofiev
-- [Piano Sonata No. 2 in D minor, Op. 14](prokofiev_sonata_no.2.md) by [Midda](https://github.com/Midda)
+- [Piano Sonata No. 2 in D minor, Op. 14](prokofiev-sonata-no.2.md) by [Midda](https://github.com/Midda)
   
 ### Arnold Schönberg
 - [*Pierrot lunaire*, Op. 21](schonberg-pierro-lunaire.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
@@ -145,9 +145,6 @@ As we explore these compositions, we invite readers to experience the varied sou
 - [Andante spianato et Grande polonaise brillante in E-flat major, Op. 22](chopin-polonaise.md) by [hobin2788](https://github.com/hobin2788)
 - [Piano Sonata No. 2 in B-flat minor, Op. 35](chopin-piano-sonata.md) by [Yunseungju](https://github.com/Yunseungju)
 
-### Leopold Godowsky
-- [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
-
 ### Robert Schumann
 - [*Fantasie* in C major, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
 - [*Fantasie* in C major, Op. 17](schumann_fantasie_op17.md) by [xogus1194](https://github.com/xogus1194)
@@ -159,21 +156,24 @@ As we explore these compositions, we invite readers to experience the varied sou
 ### Ferruccio Busoni (Sample)
 - [Piano Sonata in F minor, BV 204](sample-busoni-piano-sonata.md) by [kyeser](https://github.com/kyeser)
 
+### Leopold Godowsky
+- [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
+
 ---
 
 ### _20th Century_
 
-### John Adams
-- [*Doctor Atomic*](john_adams_doctor_atomic.md) by [eunhwan00](https://github.com/eunhwan00)
+### Arnold Schönberg
+- [*Pierrot lunaire*, Op. 21](schonberg-pierro-lunaire.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
 
+### Sergei Prokofiev
+- [Piano Sonata No. 2 in D minor, Op. 14](prokofiev-sonata-no.2.md) by [Midda](https://github.com/Midda)
+  
 ### György Ligeti
 - [Études pour le piano](Ligeti-etudes.md) by [ziwonnnn](https://github.com/ziwonnnn)
 
-### Sergei Prokofiev
-- [Piano Sonata No. 2 in D minor, Op. 14](prokofiev_sonata_no.2.md) by [Midda](https://github.com/Midda)
-  
-### Arnold Schönberg
-- [*Pierrot lunaire*, Op. 21](schonberg-pierro-lunaire.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
+### John Adams
+- [*Doctor Atomic*](john_adams_doctor_atomic.md) by [eunhwan00](https://github.com/eunhwan00)
 
 ---
 
