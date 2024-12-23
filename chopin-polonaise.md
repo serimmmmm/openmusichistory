@@ -18,9 +18,6 @@ Despite his short life, Chopin left an indelible mark on music, influencing coun
 - [Timeline](#timeline)
 - [Andante Spianato and Grande Polonaise Brillante in E flat major Op. 22](#andante-spianato-and-grande-polonaise-brillante-in-e-flat-major-op-22)
 - [Overview of the Work](#overview-of-the-work)
-- [1. Andante Spianato](#1-andante-spianato)
-- [2. Grande Polonaise Brillante](#2-grande-polonaise-brillante)
-- [3. Combination of the Two](#3-combination-of-the-two)
 - [Background of the Work](#background-of-the-work)
 - [Musical Features](musical-features)
 - [Performance and Legacy](#performance-and-legacy)
@@ -82,7 +79,23 @@ Chopin's reimagining of the traditional Polish polonaise in his unique style is 
 The Andante Spianato and Grande Polonaise Brillante remains a shining example of Chopin’s genius, blending the intimate and the grand in a way that continues to captivate audiences worldwide.
 
 ### Questions for Review
+1. What is the historical and musical significance of Chopin's Grande Polonaise Brillante in the context of Romantic piano repertoire?
+2. How does Op. 22 reflect Chopin’s Polish heritage and his connection to the polonaise as a dance form?
+3. In what year was Chopin's Op. 22 composed, and how does it fit into his broader compositional timeline?
+4. How is the work structured? What are the main sections of the Andante spianato et Grande Polonaise Brillante?
+5. How does Chopin combine lyrical and virtuosic elements in this piece?
+6. What is the role of the Andante spianato as an introduction to the Grande Polonaise Brillante? How does it set the mood for the work?
+7. What compositional techniques does Chopin use to highlight the brilliance and grandeur of the Grande Polonaise?
+8. How does the orchestral accompaniment interact with the piano in this piece?
+9. In what ways does the work showcase Chopin’s innovations in pianistic texture and figuration?
+10. What challenges does the piece pose for pianists, both technically and interpretatively?
+11. How might a performer balance the contrasting characters of the Andante spianato and the Grande Polonaise Brillante?
+12. How has this work been received by audiences and critics over time, and how might this influence its performance today?
 
 
 ### Guides for Further Studies
+1. In-Depth Video Analysis:
+Chopin's Op. 22 In-Depth: Andante spianato et Grande Polonaise Brillante: This video provides a comprehensive walkthrough of the piece, discussing its structure, themes, and performance aspects. [link](https://youtu.be/VayFGI-hnOE?si=ry6mA5rWz0oVyafE)
+2. Sheet Music and Scores:
+IMSLP - International Music Score Library Project: Provides free access to various editions of the score, including original manuscripts and critical editions. [link](https://imslp.org/wiki/Andante_spianato_et_Grande_polonaise_brillante%2C_Op.22_%28Chopin%2C_Fr%C3%A9d%C3%A9ric%29?utm_source=chatgpt.com)
 
