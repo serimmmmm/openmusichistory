@@ -21,7 +21,6 @@ Also, this sonata was one of my performance pieces. Originally, I didn't particu
  -[II. Scherzo: Allegro marcato](#ii-scherzo-allegro-marcato)
  -[III. Andante](#iii-andante)
  -[IV. Vivace](#iv-vivace)
-- [Musical Significance](#musical-significance)
 - [Conclusion](#conclusion)
 - [Influences](#influences)
 - [Significance](#significance)
@@ -95,15 +94,7 @@ The final movement is a vigorous and high-energy conclusion to the sonata. Marke
 
 ---
 
-# Musical Significance 
 
-Sergei Prokofiev’s **Piano Sonata No. 2**, Op. 14, follows a classical sonata form while introducing innovative modern harmonies and rhythms, pushing the boundaries of traditional music. This piece reflects the experimental and progressive trends of early 20th-century music. Each movement has its own distinct emotional character: the first movement conveys intense energy and tension, the second brings humor and lightness, the third is lyrical and emotional, and the final movement concludes with a lively and energetic finale, resolving all the emotional tensions.
-
-The sonata demands high technical skill from the performer, but this virtuosity is used not for display but as a means to enhance musical expression. Fast, complex rhythms, irregular time signatures, and unstable harmonies require a deep understanding and nuanced interpretation to convey the emotional subtleties of the music. Prokofiev uses this work to explore new possibilities in harmony and rhythm, marking a departure from the conventions of his time and showcasing his musical innovation.
-
-**Piano Sonata No. 2** is not just a technical challenge but a landmark in early 20th-century music, demonstrating how Prokofiev expanded his musical language. The work respects the traditions of classical music while presenting new possibilities, making it a significant milestone in the development of modern music.
-
----
 
 # Conclusion
 
@@ -119,7 +110,14 @@ The sonata demands high technical skill from the performer, but this virtuosity 
 
 ## Significance
 
-**Prokofiev's Piano Sonata No. 2** is a highly significant work in his early career, as it represents a key moment in the development of his unique compositional voice. The piece blends elements of Russian folk music with the emotional intensity of late Romanticism, while simultaneously embracing the experimental approaches of early 20th-century modernism. By incorporating dissonance, unconventional harmonies, and unpredictable structural elements, Prokofiev pushes the boundaries of traditional sonata form, establishing a new musical language. This work not only reflects his diverse influences but also marks a turning point in his transition from the Romantic traditions to a more modern, innovative style, making it an important milestone in his artistic journey.
+**Sergei Prokofiev’s Piano Sonata No. 2**, Op. 14, follows a classical sonata form while introducing innovative modern harmonies and rhythms, pushing the boundaries of traditional music. This piece reflects the experimental and progressive trends of early 20th-century music. Each movement has its own distinct emotional character: the first movement conveys intense energy and tension, the second brings humor and lightness, the third is lyrical and emotional, and the final movement concludes with a lively and energetic finale, resolving all the emotional tensions.
+
+The sonata demands high technical skill from the performer, but this virtuosity is used not for display but as a means to enhance musical expression. Fast, complex rhythms, irregular time signatures, and unstable harmonies require a deep understanding and nuanced interpretation to convey the emotional subtleties of the music. Prokofiev uses this work to explore new possibilities in harmony and rhythm, marking a departure from the conventions of his time and showcasing his musical innovation.
+
+**Piano Sonata No. 2** is not just a technical challenge but a landmark in early 20th-century music, demonstrating how Prokofiev expanded his musical language. The work respects the traditions of classical music while presenting new possibilities, making it a significant milestone in the development of modern music.
+
+---
+
 
 ## Performance and Reception
 
@@ -161,4 +159,4 @@ These questions will help facilitate a deeper analysis and understanding of Prok
 
 ## Guides for Further Studies
 
-To study Prokofiev's Piano Sonata No. 2 in depth, it is helpful to start with sheet music and practice materials. Musopen offers free sheet music, and the Piano Street forum provides discussions sharing various performances and interpretations of the piece. Additionally, books like *Prokofiev's Piano Sonatas: A Guide for the Listener and the Performer* and papers such as *Cadences in Prokofiev's Piano Sonatas* offer in-depth analysis. Moreover, you can listen to actual performances and experience different interpretations by accessing free MP3 files available on Musopen.
+To study Prokofiev's Piano Sonata No. 2 in depth, it is helpful to start with sheet music and practice materials. Musopen offers free sheet music, and the Piano Street forum provides discussions sharing various performances and interpretations of the piece. Additionally, books like *Prokofiev's Piano Sonatas: A Guide for the Listener and the Performer* and papers such as *Cadences in Prokofiev's Piano Sonatas* offer in-depth analysis. Moreover, you can listen to actual performances and experience different interpretations by accessing free MP3 files available on Musopen. [Link](https://youtu.be/-932ToL2gNs?si=g4dlJxWc7uqYrRqN)
