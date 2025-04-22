@@ -1,6 +1,6 @@
 # Henry Purcell (1659-1695)
 
-Henry Purcell is British composer. Henry Purcell Britishized elements of Italian and French music to create his own creative original works. I want to create my own original music world like Hnery Purcell. 
+Henry Purcell is British composer. Henry Purcell Britishized elements of Italian and French music to create his own creative original works. I want to create my own original music world like Henry Purcell. 
 
 ## List of Important Works
 
