@@ -6,7 +6,7 @@ Wilhelm Fireman Bach(1710-1784) is a German composer. He is one of the many memb
 | Year | Works | YouTube |
 | ---- | ----- | ------- |
 | 17xx | Trio sonata in C major | [listen](https://www.youtube.com/watch?v=OLBvnDDBx8Y) |
-| 17xx | Keyboard Sonata in C major | Links |
-| 17xx |Sonata for two harpsichords in D major | Links |
-| 17xx | Concerto for two harpsichords in F major | Links |
-| 17xx | Trio in A minor | Links |
+| 17xx | Sinfonia in D minor | [listen](https://www.youtube.com/watch?v=WIMSczECPQI) |
+| 17xx | Concerto for two Harpsichords in E flat Major | [Listen](https://www.youtube.com/watch?v=q-mZxJkj4Sk) |
+| 17xx | 3 Viola Duets | [Listen](https://www.youtube.com/watch?v=6b6BgNSQx3U) |
+| 17xx |  Fugue in F Minor | [Listen](https://www.youtube.com/watch?v=i7Y1na7cflg) |
