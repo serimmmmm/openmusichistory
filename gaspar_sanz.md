@@ -1,6 +1,6 @@
 # Gaspar Sanz (Francisco Bartolome Sanz Celma, 1640-1710)
 
-![portrait](./gaspar_sanz_portrain.jpg)
+![portrait](./gaspar_sanz_portrait.jpg)
 
 Spanish composer, baroque guitarist, and preist
 
