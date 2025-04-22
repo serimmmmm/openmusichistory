@@ -7,8 +7,6 @@ Spanish composer, baroque guitarist, and preist
 | Year | Works | Youtube | 
 | ---- | ----- | ------- |
 | 1674 | Instrucción de Música sobre la Guitarra Española | [Listen](https://youtu.be/MOcsy1Ewj6M?feature=shared) |
-| 1674 | Jácaras (from Instrucción de Música sobre la Guitarra Española) | [Listen]() |
-| 1674 | Zarabanda (from Instrucción de Música sobre la Guitarra Española) | [Listen]() |
 | 1675 | Libro Segundo de cifras sobre la guitarra española | [Listen]() |
 | 1697 | Libro tercero de mùsica de cifras sobre la guitarra española | [Listen]() |
 
