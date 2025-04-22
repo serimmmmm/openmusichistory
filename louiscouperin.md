@@ -1,4 +1,4 @@
-# Louis Couperin
+# Louis Couperin (1626-1661)
 
 Louis Couperin is a French composer and performer. He invented the genre of the unmeasured prelude. He is the first historically important member of the Couperin family.
 
