@@ -1,6 +1,6 @@
 # Aaron copland (1900-1990)
 
- America composer
+a contemporary American composer. He is called the father of contemporary American music by adopting popular music to cl assical music.
 
 ## List of important works
 
