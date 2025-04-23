@@ -1,6 +1,6 @@
 # Elisabeth Jacquet De La Guerre (1665-1729)
 
-Elisabeth Jacquet De La Guerre (1665-1729) is French composer.
+Elisabeth Jacquet De La Guerre (1665-1729) is a French composer.
 
 ## List of works in table
 
