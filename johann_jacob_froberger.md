@@ -8,8 +8,8 @@ He absorbed both styles between Italy and France, and combined them with German 
 | Year | Works                                                                | YouTube |  
 | ---- | -------------------------------------------------------------------- | ------- |
 | 1654 | Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV | [Listen](https://youtu.be/CDEvG1hfvt4) |  
-| XXXX | Work                                                                 | Links   |  
-| XXXX | Work                                                                 | Links   |  
+| XXXX | Toccata in a minor, FbWV 101                                         | [Listen](https://www.youtube.com/watch?v=nKDr0a3AmIM)   |  
+| XXXX | Ricercar in d minor, FbWV 407                                                                 | [Listen](https://www.youtube.com/watch?v=urRrLrCy-EA)   |  
 | XXXX | Work                                                                 | Links   |  
 | XXXX | Work                                                                 | Links   |  
 | XXXX | Work                                                                 | Links   |  
