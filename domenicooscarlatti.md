@@ -1,11 +1,15 @@
-# Alexandro Scarlatti (1660~1725)
+# Alessandro Scarlatti 
 
 Italian Composer
+Alessandro Scarlatti (1660-1725) was a highly influential Italian composer known for his contributions to the development of opera and cantata during the late Baroque period. 
+He is particularly recognized for establishing the Neapolitan school of opera and the Italian form of the opera overture.
 
-Alexandro Scarlatti (1660-1725) was a highly influential Italian Baroque composer, known for his operatic works and the development of the Italian opera overture.
-He is considered a crucial figure in establishing the Neapolitan school of opera and is also celebrated for his prolific output of cantatas.
+## List of Important Works
 
-| Year | Composition | Youtube|
- 1720    Keyboard Sonata K.141 https://www.youtube.com/watch?v=Gh9WX7TKfkI
- not known Keyboard Sonata K.208 https://www.youtube.com/watch?v=YMgFs2imI-U
- 1730s Keyboard Sonata K. 87 https://www.youtube.com/watch?v=Bd0TRy41Fxg
+
+| Year     | Works              | Youtube |
+| -------- | ------------------ | ------- |
+| 1720 |   Keyboard Sonata K.141 | [Listen](https://www.youtube.com/watch?v=Gh9WX7TKfkI&pp=0gcJCdgAo7VqN5tD&themeRefresh=1) |
+| not known| Keyboard Sonata K.208 | [Listen](https://www.youtube.com/watch?v=YMgFs2imI-U) |
+| 1730s| Kyeoboard Sonata K.87 | [Listen](https://www.youtube.com/watch?v=Bd0TRy41Fxg) |
+
