@@ -17,13 +17,3 @@ Proberger was one of the earliest international composers who fused German, Ital
 In particular, he is known as a pioneer who formalized the order of AleMande, Courante, Sarabande, and Gigue in keyboard collections. He does not just show techniques,
 He was a composer who was ahead of his time in that he captured his personal feelings and experiences in music.
 Since then, his work has had a great influence on composers such as Coupren and Bach, and plays an important role in understanding the development history of harpsichord and keyboard music even today.
-
-
-Testing inserting images
-
-# Option 1 (Best)
-<img src="./sample_score.jpg" alt="portrait" style="width:25%;"  />
-# Option 2 (Good)
-<img src="./sample_score.jpg" alt="portrait" width="300" height="400" />
-# Option 3 (Standard)
-![portrait](./sample score.jpg)
