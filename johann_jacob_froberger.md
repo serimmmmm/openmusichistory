@@ -9,10 +9,9 @@ He absorbed both styles between Italy and France, and combined them with German 
 | ---- | -------------------------------------------------------------------- | ------- |
 | 1654 | Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV | [Listen](https://youtu.be/CDEvG1hfvt4) |  
 | XXXX | Toccata in a minor, FbWV 101                                         | [Listen](https://www.youtube.com/watch?v=nKDr0a3AmIM)   |  
-| XXXX | Ricercar in d minor, FbWV 407                                                                 | [Listen](https://www.youtube.com/watch?v=urRrLrCy-EA)   |  
-| XXXX | Work                                                                 | Links   |  
-| XXXX | Work                                                                 | Links   |  
-| XXXX | Work                                                                 | Links   |  
+| XXXX | Ricercar in d minor, FbWV 407                                        | [Listen](https://www.youtube.com/watch?v=urRrLrCy-EA)   |  
+| XXXX | Capriccio in G Major, FbWV 507                                       | [Listen](https://www.youtube.com/watch?v=X4ul8Yy-DiY)   |  
+| XXXX | Partita No.7 in e minor, FbWV 607                                    | [Listen](https://www.youtube.com/watch?v=IPylijBoipU)   |  
 
 Proberger was one of the earliest international composers who fused German, Italian, and French styles, laying the foundation for the keyboard music form of the Baroque era.
 In particular, he is known as a pioneer who formalized the order of AleMande, Courante, Sarabande, and Gigue in keyboard collections. He does not just show techniques,
