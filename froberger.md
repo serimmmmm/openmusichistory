@@ -14,7 +14,6 @@ He absorbed both styles between Italy and France, and combined them with German 
 | XXXX | Work                                                                 | Links   |  
 | XXXX | Work                                                                 | Links   |  
 
-(5)
 Proberger was one of the earliest international composers who fused German, Italian, and French styles, laying the foundation for the keyboard music form of the Baroque era.
 In particular, he is known as a pioneer who formalized the order of AleMande, Courante, Sarabande, and Gigue in keyboard collections. He does not just show techniques,
 He was a composer who was ahead of his time in that he captured his personal feelings and experiences in music.
