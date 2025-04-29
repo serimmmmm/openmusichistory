@@ -1,7 +1,7 @@
 # Gaspar Sanz (Francisco Bartolome Sanz Celma, 1640-1710)
 
 ![portrait](./gaspar_sanz_portrait.jpg)
-<a name="footnote_1">footnote</a>
+<a name="footnote_1">Credit: Image that might be a portrait of Gaspar Sanz, from *Instrucción de Música sobre la Guitarra Española's dedication page*</a>
 
 Sanz, Gaspar is a Spanish composer, baroque guitarist, and also preist. He studied Theology and Philosophy, earing Bachelor of Theology degree from The University of Salamanca. After that he studied music in Italy, and learned how to play the baroque guitar while studying music.
    He started his career by teaching guitar to Don Juan, the son of Felipe IV. Sanz published his pedagogical works for guitar, dedicated to Don Juan. All of his works are contained in his three pedagogical publishments.
