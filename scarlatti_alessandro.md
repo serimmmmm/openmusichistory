@@ -1,6 +1,5 @@
 # Alessandro Scarlatti (1660–1725)
 
-# Option 1
 <img src="./scarlattialessandro.jpg" alt="portrait" style="width:25%;" />
 
 Alessandro Scarlatti (1660-1725) is an Italian composer. He played a crucial role in establishing the Neapolitan opera tradition. He codified the da capo aria, which became central to Baroque vocal music, and composed over 600 cantatas that remain essential for the study of the period.
