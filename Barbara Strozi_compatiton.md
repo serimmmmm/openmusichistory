@@ -14,12 +14,3 @@ Itlian composer
 | 1655      | O Maria (Sacri Musicali Affetti, Op.5) |[Listen](https://youtu.be/BWZoYpDLDX0?feature=shared) |
 | 1659      | Diporti di Euterpe Op.7                |[Listen](https://youtube.com/playlist?list=PLj_QQHFdirsKZ-Zs-Ln9SLs_gNHqojaT5&feature=shared)|
 | 1651~1655 | Cantate, ariette e duetti              |[Listen](https://youtu.be/jJKMng1jkY8?feature=shared) |
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
