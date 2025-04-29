@@ -1,5 +1,6 @@
 # Elisabeth Jacquet De La Guerre (1665-1729)
 
+![portrait](./delaguerre_portrait.png)
 Elisabeth Jacquet De La Guerre (1665-1729) is a French composer.
 
 ## List of works in table
