@@ -19,7 +19,7 @@ Sanz, Gaspar is a Spanish composer, baroque guitarist, and also preist. He studi
 | 1675 | Libro Segundo de cifras sobre la guitarra española | [Listen]() |
 | 1697 | Libro tercero de mùsica de cifras sobre la guitarra española | [Listen]() |
 
-![score](./gaspar_sanz_score.png)
+<img src="./gaspar_sanz_score.png" alt="score" width="100px" height="100px"/>
 
 ## Why Gaspar Sanz?
 Since I had played the classical guitar a lot, I still have interested in classical guitarists' works. However while studying musicology and history of western music, there are only few works including classical guitar. But classical guitar works have been developed anyway, and Gaspar Sanz is the most important guitartist who has contributed to development of classical guitar and Spanish classical music.
