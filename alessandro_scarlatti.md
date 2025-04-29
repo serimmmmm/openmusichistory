@@ -10,5 +10,3 @@ His work laid the foundation for Classical opera, and his techniques in orchestr
 | 1690 | La Rosaura            | [Listen](https://youtu.be/KdR2p5yNLcI?si=fvbOdb5_qEOBKWG7) |
 | 1707 | Il Mitridate Eupatore | [Listen](https://youtu.be/S2axvtlURCU?si=aN0e1uxjiMFJptdn) |
 | 1721 | Griselda              | [Listen](https://youtu.be/k4Nef6XL9mA?si=nzlFHLefP8tyhugx) |
-
-Why important
