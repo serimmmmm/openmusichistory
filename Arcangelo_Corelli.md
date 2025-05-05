@@ -2,6 +2,8 @@
 
 Italian composer
 
+<img src="./arcangelo_corelli.jpg" alt="portrait" style="width:50;" />
+
 ## List of Important Works
 
 | Year | Works | YouTube |
@@ -15,3 +17,5 @@ Italian composer
 I usually like "Variation on a Theme of Corelli Op.42" composed by Rachmaninoff, and I had the opportunity to introduce a lesser-known composer from the 10th to 17th centuries in this lecture, so Corelli naturally came to mind and I chose it because I wanted to know about it well.
 
 Arcangelo Corelli was a decisive figure in establishing Baroque music, and his musical techniques and works inspired many musicians and scholars, especially having a profound influence on violin performance and composition style. His music was also used as a basic textbook in classical music education and was regarded as an essential repertoire for violin students and professional performers.
+
+<img src="./La_Folia.png" alt="portrait" style="width:50;" />
