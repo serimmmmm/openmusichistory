@@ -4,6 +4,8 @@ Barbara Strozzi was one of the most prominent female composers ofthe Baroque era
 
 Itlian composer
 
+<img src="./Barbar_strozi_.png">
+
 ## List of Important Works
 
 | Year      | Works                                  | YouTube                                     |
