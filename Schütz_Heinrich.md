@@ -1,6 +1,5 @@
-# Giovanni Antonio Terzi (1547-1596)
-
-Italian composer
+# Heinrich Schütz
+German composer
 
 Terzi attempted to push beyond the musical norms of his time. Through experimental approaches to harmony and rhythm, he explored new avenues for emotional expression. In other words, he presented a new direction distinct from the prevailing musical trends of the era. Notably, the unique melodies and harmonies found in his cantatas and operas revealed characteristics that differentiated him from other composers of the time.
 
