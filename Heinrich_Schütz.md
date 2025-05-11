@@ -17,3 +17,7 @@ Heinrich Schütz was a German composer, and Schütz played a very important role
 ## Sample score
 
 <img src="./sample_score.png" alt="sample_score" width="450" height="350" />
+
+## Why Heinrich Schütz?
+
+When I was contemplating which composer to select, I became interested in Schütz upon seeing that most of his works are Protestant music. This is because, as a Christian myself, I became curious about how Schütz expressed 17th-century Protestant faith through his music. It is said that Schütz, a Lutheran, made significant contributions to the development of German Protestant music after the Reformation, particularly by composing oratorios, Passions, motets, and Bible stories based on German biblical texts.
