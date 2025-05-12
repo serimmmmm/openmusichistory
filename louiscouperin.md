@@ -1,6 +1,6 @@
 # Louis Couperin (1626-1661)
 
-<img src=“./couperin_louis_portrait.png” alt=“portrait” style=“width:50%;”/>
+<img src="./couperin_louis_portrait.png" alt="portrait" style="width:25%;" />
 
 Louis Couperin is a French composer and performer. He invented the genre of the unmeasured prelude. He is the first historically important member of the Couperin family.
 
@@ -14,4 +14,4 @@ Louis Couperin is a French composer and performer. He invented the genre of the 
 | unknown | Chaconne in d | [Listen](https://youtu.be/QXwySiKQc9Q?si=BdmcG2d4AUUTHdH3) |
 | unknown | Passacaille in C | [Listen](https://youtu.be/MYH8Vfqk_VU?si=Y6L3nGmD5cqxXXmT) |
 
-<img src=“./cahconne_in_d.png” alt=“portrait” style=“width:50%;”/>
+<img src="./chaconne_in_d.png" alt="portrait" style="width:50%;" />
