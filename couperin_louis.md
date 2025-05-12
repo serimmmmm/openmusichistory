@@ -2,7 +2,8 @@
 
 <img src="./couperin_louis_portrait.png" alt="portrait" style="width:40%;" />
 
-Louis Couperin is a French composer and performer. He invented the genre of the unmeasured prelude. He is the first historically important member of the Couperin family.
+Louis Couperin was a French Baroque composer and performer. He quickly became one of the most prominent Parisian musicians, establishing himself as a harpsichordist, organist, and violist, but his career was cut short by his early death at the age of thirty-five.
+None of Couperin’s music was published during his lifetime, but manuscript copies of some 200 pieces survive, some of them only rediscovered in the mid-20th century. The first historically important member of the Couperin family, Couperin made seminal contributions to the development of both the French organ school and French harpsichord school. His innovations included composing organ pieces for specific registrations and inventing the genre of the unmeasured prelude for harpsichord, for which he devised a special type of notation.
 
 ## List of Important Works
 
