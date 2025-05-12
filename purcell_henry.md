@@ -1,4 +1,5 @@
 # Henry Purcell (1659-1695)
+<img src="henrypurcell.jpg">
 
 Henry Purcell is British composer. Henry Purcell Britishized elements of Italian and French music to create his own creative original works. I want to create my own original music world like Henry Purcell. 
 
