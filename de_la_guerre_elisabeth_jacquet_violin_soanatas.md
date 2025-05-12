@@ -15,5 +15,5 @@ Elisabeth Jacquet De La Guerre (1665-1729) is a French composer.
 | 1715 | Cantates francoises | [Watch](https://youtu.be/A1-RhwSfcwc?si=VY9NMAcB9mn_bnIK) |
 
 
-![score](./delaguerre_악보 최종.jpg)
+![score](./delaguerre_악보 최종.png)
 She possessed extensive learning and understanding of compositional techniques in a field that was limited for women at the time. Despite the poor reception of her operas, she continued to present her works and seize opportunities. The sonatas she composed later in life contributed to the development of the genre by advancing the role of the violin and blending French tradition with Italian innovation.
