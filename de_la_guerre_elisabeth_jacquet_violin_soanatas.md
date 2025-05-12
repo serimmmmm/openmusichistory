@@ -17,4 +17,9 @@ Elisabeth Jacquet De La Guerre (1665-1729) is a French composer.
 
 
 ![score](./delaguerre_악보최종.png)
+
+## why Elisabeth Jacquet De La Guerre?
 She possessed extensive learning and understanding of compositional techniques in a field that was limited for women at the time. Despite the poor reception of her operas, she continued to present her works and seize opportunities. The sonatas she composed later in life contributed to the development of the genre by advancing the role of the violin and blending French tradition with Italian innovation.
+
+Born:17 March 1665 Paris, France  
+Died:27 June 1729 Paris, France  
