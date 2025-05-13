@@ -2,6 +2,8 @@
 <img src="./henrypurcell.jpg" alt="portrait" stylr="width:60%;" />
 
 Henry Purcell is British composer. Henry Purcell Britishized elements of Italian and French music to create his own creative original works. I want to create my own original music world like Henry Purcell. 
+Henry Purcell composed Theatre music the most. He also composed Opera and Sacred music. He was good at expressing emotions through melody and harmony. Purcell died at the young age of 36, but he left behind a vast and diverse body of work.
+
 
 ## List of Important Works
 
