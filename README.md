@@ -25,7 +25,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 [miminu03](https://github.com/miminu03)
 > [Arcangelo_Corelli.md](Arcangelo_Corelli.md)
 
-limjueon
+[limjueon](https://github.com/limjueon)
 > [Barbara Strozi_compatiton.md](Barbara Strozi_compatiton.md)
 
 jjjkk99086
