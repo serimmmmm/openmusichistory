@@ -1,5 +1,7 @@
 # Georg Philipp Telemann (1681~1767)
 
+<img src="./telemann.jpg" alt="portrait" style="width:25%;"  />
+ 
 Germany, Magdeburg
 
 ## List of important works
