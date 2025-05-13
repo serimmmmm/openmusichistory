@@ -1,3 +1,4 @@
+<img src="./D.Scarlatti portrait.jpeg" alt="portrait" style="width50%;"  />
 # Domenico Scarlatti (1685~1757)
 
 Italian Composer
@@ -16,4 +17,6 @@ He is particularly recognized for establishing the Neapolitan school of opera an
 Why Important
 
 Domenico Scarlatti expanded the possibilities of keyboard music with his innovative and technically demanding sonatas. He laid the groundwork for the development of modern sonata form, influencing composers like Haydn and Mozart. His fusion of Italian, Spanish, and Arabic musical elements created a unique, timeless style that still inspires musicians today.
+
+
 
