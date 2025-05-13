@@ -1,6 +1,6 @@
 # Wilhelm Friedemann Bach(1710-1784)
 
-Wilhelm Fireman Bach(1710-1784) is a German composer. He is one of the many members of the Bach family. Despite having abundant talent, he has received relatively little attention. He is a person who has been re-examined after a while. Nevertheless, he has not yet been well-known.
+Wilhelm Fridemann Bach(1710-1784) is a German composer. He is one of the many members of the Bach family. Despite having abundant talent, he has received relatively little attention. He is a person who has been re-examined after a while. Nevertheless, he has not yet been well-known.
 
 
  <img src="./bach_wilhelm_friedemann_portrait.png" alt="portrait" style="width:25%;" />

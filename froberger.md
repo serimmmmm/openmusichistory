@@ -8,7 +8,6 @@ alt="portrait" style="width:80%;" />
 
                   Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV, FBWV 612
 
-
 German composer
 Johann Jakob Proberger was a German composer who was active in the early baroque era, a pioneer who established the form of harpsichord music and introduced expressions of personal emotions.
 He absorbed both styles between Italy and France, and combined them with German counterpoints, which greatly influenced later composers.
