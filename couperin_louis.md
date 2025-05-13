@@ -1,9 +1,16 @@
 # Louis Couperin (1626-1661)
 
-<img src="./couperin_louis_portrait.png" alt="portrait" style="width:40%;" />
+<img src="./couperin_louis_portrait.png" alt="portrait" style="width:25%;" />
 
-Louis Couperin was a French Baroque composer and performer. He quickly became one of the most prominent Parisian musicians, establishing himself as a harpsichordist, organist, and violist, but his career was cut short by his early death at the age of thirty-five.
-None of Couperin’s music was published during his lifetime, but manuscript copies of some 200 pieces survive, some of them only rediscovered in the mid-20th century. The first historically important member of the Couperin family, Couperin made seminal contributions to the development of both the French organ school and French harpsichord school. His innovations included composing organ pieces for specific registrations and inventing the genre of the unmeasured prelude for harpsichord, for which he devised a special type of notation.
+Louis Couperin was a significant French Baroque composer, harpsichordist, and organist. He quickly became one of the most prominent Parisian musicians, establishing himself as a harpsichordist, organist, and violist, but his career was cut short by his early death at the age of thirty-five.
+
+Born in Chaumes-en-Brie, he moved to Paris around 1650-1651 with the help of Jacques Champion de Chambonnières, a renowned harpsichordist. Couperin quickly established himself as a leading musician in Paris, serving as the organist of the Church of St. Gervais and as a musician at court.   
+
+He made important contributions to both the French organ and harpsichord schools of composition. Notably, he composed organ pieces with specific instructions for registration (the selection of stops) and is credited with inventing the unmeasured prelude for the harpsichord. This unique genre featured a special notation style.
+
+While his career was cut short by his early death at the age of thirty-five, Louis Couperin's music, particularly his harpsichord works characterized by intricate ornamentation and harmonic ingenuity, has had a lasting impact. His organ music is seen as a transition from strict counterpoint to a more colorful, concertante style, influencing later Baroque composers.
+
+Although none of his music was published during his lifetime, a substantial amount of his work survives today, and he is highly regarded as one of the most important French keyboard composers of the 17th century.
 
 ## List of Important Works
 
@@ -15,4 +22,4 @@ None of Couperin’s music was published during his lifetime, but manuscript cop
 | unknown | Chaconne in d | [Listen](https://youtu.be/QXwySiKQc9Q?si=BdmcG2d4AUUTHdH3) |
 | unknown | Passacaille in C | [Listen](https://youtu.be/MYH8Vfqk_VU?si=Y6L3nGmD5cqxXXmT) |
 
-<img src="./chaconne_in_d.png" alt="portrait" style="width:50%;" />
+<img src="./chaconne_in_d.png" alt="portrait" style="width:70%;" />
