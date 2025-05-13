@@ -18,7 +18,7 @@ Why Important
 
 Domenico Scarlatti expanded the possibilities of keyboard music with his innovative and technically demanding sonatas. He laid the groundwork for the development of modern sonata form, influencing composers like Haydn and Mozart. His fusion of Italian, Spanish, and Arabic musical elements created a unique, timeless style that still inspires musicians today.
 
-<img src="./scarlatti k.80.xcf" alt="score" style="width:50%;" />
+<img src="./scarlatti k.80.png" alt="score" style="width:100%;" />
 
 
 
