@@ -32,7 +32,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 > [Francois Couperin.md](Francois Couperin.md)
 
 [Leechanghyun316](https://github.com/Leechanghyun316)
-> [J.Haydn.md](J.Haydn.md)
+> ~~[J.Haydn.md](J.Haydn.md)~~
 
 [hn020204](https://github.com/hn020204)
 > [Terzi_Antonio_Giovanni.md](Terzi_Antonio_Giovanni.md)
