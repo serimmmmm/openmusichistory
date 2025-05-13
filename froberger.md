@@ -1,7 +1,7 @@
 ## Johann Jakob Froberger (1616-1667)
 
-<img src="./sample_score.jpg"
-alt="froberger.jpg" style="width:25%;" />
+<img src="./forberger.jpg"
+alt="portrait" style="width:25%;" />
 
 German composer
 Johann Jakob Proberger was a German composer who was active in the early baroque era, a pioneer who established the form of harpsichord music and introduced expressions of personal emotions.
