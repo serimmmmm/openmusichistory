@@ -28,7 +28,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 [limjueon](https://github.com/limjueon)
 > [Barbara Strozi_compatiton.md](Barbara Strozi_compatiton.md)
 
-jjjkk99086
+[jjjkk99086](https://github.com/jjjkk99086)
 > [Francois Couperin.md](Francois Couperin.md)
 
 [Leechanghyun316](https://github.com/Leechanghyun316)
@@ -61,7 +61,7 @@ jjjkk99086
 [orikyumin](https://github.com/orikyumin)
 > [j.Albrechtsberger.md](j.Albrechtsberger.md)
 
-CamelApex
+[CamelApex](https://github.com/CamelApex)
 > [jean-baptiste barriere_.md](jean-baptiste barriere_.md)
 
 [dayeon17](https://github.com/dayeon17)
