@@ -1,4 +1,5 @@
 # Henry Purcell (1659-1695)
+<img src="./henrypurcell.jpg" alt="portrait" stylr="width:60%;" />
 
 Henry Purcell is British composer. Henry Purcell Britishized elements of Italian and French music to create his own creative original works. I want to create my own original music world like Henry Purcell. 
 
@@ -12,4 +13,5 @@ Henry Purcell is British composer. Henry Purcell Britishized elements of Italian
 | 1664 | The Indian Queen | [Listen](https://youtu.be/-j7tjTuDpvg?si=Ig_Rcu7owkKr8K_l) |
 | 1691 | The Cold Song | [Listen](https://youtu.be/Q8K8wFk-tn8?si=HxScwQTPUBwevTql) |
 
-\
+<img src="./Dido and Aeneas-1.png" alt="portrait" style="width:60%;" />
+
