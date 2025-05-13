@@ -1,6 +1,6 @@
 ## Johann Jakob Froberger (1616-1667)
 
-<img src="./forberger.jpg"
+<img src="./froberger.jpg"
 alt="portrait" style="width:25%;" />
 
 German composer
