@@ -3,8 +3,8 @@
 <img src="./froberger.jpg"
 alt="portrait" style="width:25%;" />
 
-<img src="./froberger_lamento_ferdinanto_iv.jpg"
-alt="portrait" style="width:25%;" />
+<img src="./froberger_lamento_ferdinanto_iv.png"
+alt="portrait" style="width:80%;" />
 
 German composer
 Johann Jakob Proberger was a German composer who was active in the early baroque era, a pioneer who established the form of harpsichord music and introduced expressions of personal emotions.
