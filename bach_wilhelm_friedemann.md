@@ -34,6 +34,8 @@ Wilhelm Fridemann Bach(1710-1784) is a German composer. He is one of the many me
 | 1764 | Resigned his post in Halle as his dissatisfaction grew | 
 | 1754 | Died in Berlin | 
 
-&nbsp;Have you ever listened to ‘Klavierbüchlein fur Wilhelm Friedemann Bach of keyboard pieces, BWV 924? This adorable piece was written by J.S. Bach for his 10-year-old first son. Wilhelm Friedemann Bach was the first son born to J.S. Bach and Maria Barbara Bach in 1710.
+&nbsp;Have you ever listened to ‘Klavierbüchlein fur Wilhelm Friedemann Bach of keyboard pieces?
+[Listen](https://www.youtube.com/watch?v=f-cKJXqJGGg) 
+&nbsp;This adorable piece was written by J.S. Bach for his 10-year-old first son. Wilhelm Friedemann Bach was the first son born to J.S. Bach and Maria Barbara Bach in 1710.
  
 &nbsp;W.F. Bach, a composer from the Baroque period, began to receive music education from his father. He entered the University of Leipzig in 1729. Showing musical talent, he was appointed organist of the Church of Saint Sophia in Dresden in 1733.
