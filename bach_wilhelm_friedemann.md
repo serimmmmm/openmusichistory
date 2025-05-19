@@ -1,9 +1,11 @@
 # Wilhelm Friedemann Bach(1710-1784)
-
+---
 Wilhelm Fridemann Bach(1710-1784) is a German composer. He is one of the many members of the Bach family. Despite having abundant talent, he has received relatively little attention. He is a person who has been re-examined after a while. Nevertheless, he has not yet been well-known.
 
-
+---
  <img src="./bach_wilhelm_friedemann_portrait.png" alt="portrait" style="width:25%;" />
+
+---
 
 ## List of important works
 
@@ -16,13 +18,16 @@ Wilhelm Fridemann Bach(1710-1784) is a German composer. He is one of the many me
 | 1778 |  Fugue in F Minor | [Listen](https://www.youtube.com/watch?v=i7Y1na7cflg) |
 
  <img src="./bach_wilhelm_friedemann_score.png" alt="score" style="width:50%;" />
+ 
+---
 
 - [Timeline](#timeline)
 - 
 - 
 - 
 
-- 
+---
+
 ## Timeline of Wilhelm Friedemann Bach
 
 
