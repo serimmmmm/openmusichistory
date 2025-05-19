@@ -15,3 +15,14 @@ Wilhelm Fridemann Bach(1710-1784) is a German composer. He is one of the many me
 | 1778 |  Fugue in F Minor | [Listen](https://www.youtube.com/watch?v=i7Y1na7cflg) |
 
  <img src="./bach_wilhelm_friedemann_score.png" alt="score" style="width:50%;" />
+
+| Year |  | 
+| ---- | ----- | 
+| 1710 | Born in Weimar | 
+| 1729 | Matriculated at Leipzig University | 
+| 1733 | Appointed organist to the Church of St. Sophia in Dresden | 
+| 1746 | Moved to the Liebfrauenkirche at Halle | 
+| 1750 | Death of his father, J.S.Bach | 
+| 1751 | Married with Dorothea Elisabeth Georgi | 
+| 1764 | Resigned his post in Halle as his dissatisfaction grew | 
+| 1754 | Died in Berlin | 
