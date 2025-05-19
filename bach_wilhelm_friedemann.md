@@ -5,7 +5,8 @@ Wilhelm Fridemann Bach(1710-1784) is a German composer. He is one of the many me
 
  <img src="./bach_wilhelm_friedemann_portrait.png" alt="portrait" style="width:25%;" />
 
- 
+## List of important works
+
 | Year | Works | YouTube |
 | ---- | ----- | ------- |
 | unknown  | Trio sonata in C major | [listen](https://www.youtube.com/watch?v=OLBvnDDBx8Y) |
@@ -15,6 +16,10 @@ Wilhelm Fridemann Bach(1710-1784) is a German composer. He is one of the many me
 | 1778 |  Fugue in F Minor | [Listen](https://www.youtube.com/watch?v=i7Y1na7cflg) |
 
  <img src="./bach_wilhelm_friedemann_score.png" alt="score" style="width:50%;" />
+
+
+## Chronicle of Wilhelm Friedemann Bach
+
 
 | Year |  | 
 | ---- | ----- | 
@@ -26,3 +31,5 @@ Wilhelm Fridemann Bach(1710-1784) is a German composer. He is one of the many me
 | 1751 | Married with Dorothea Elisabeth Georgi | 
 | 1764 | Resigned his post in Halle as his dissatisfaction grew | 
 | 1754 | Died in Berlin | 
+
+ Have you ever listened to ‘Klavierbüchlein fur Wilhelm Friedemann Bach of keyboard pieces, BWV 924? This adorable piece was written by J.S. Bach for his 10-year-old first son. Wilhelm Friedemann Bach was the first son born to J.S. Bach and Maria Barbara Bach in 1710.
