@@ -17,11 +17,16 @@ Wilhelm Fridemann Bach(1710-1784) is a German composer. He is one of the many me
 
  <img src="./bach_wilhelm_friedemann_score.png" alt="score" style="width:50%;" />
 
+- [Timeline](#timeline)
+- 
+- 
+- 
 
-## Chronicle of Wilhelm Friedemann Bach
+- 
+## Timeline of Wilhelm Friedemann Bach
 
 
-| Year |  | 
+| Year | Timeline | 
 | ---- | ----- | 
 | 1710 | Born in Weimar | 
 | 1729 | Matriculated at Leipzig University | 
