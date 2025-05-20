@@ -8,6 +8,11 @@ Purcell greatly influenced later English composers like Edward Elgar and Benjami
 
 A prominent instrumental composer contemporary with Henry Purcell was [Arcangelo Corelli](Arcangelo_Corelli.md) (1653–1713). While Purcell focused primarily on vocal and theatrical music, Corelli developed the genres of the trio sonata and concerto, helping to establish the formal structure of Baroque instrumental music. He is regarded as a pioneer of Baroque instrumental style and had a significant influence on composers throughout Europe.
 
+## Henry Purcell and the Baroque Era
+
+
+
+
 
 
 
