@@ -5,8 +5,7 @@ alt="portrait" style="width:25%;" />
 
 <img src="./froberger_lamento_ferdinanto_iv.png"
 alt="portrait" style="width:80%;" />
-
-                  Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV, FBWV 612
+Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV, FBWV 612
 
 German composer
 Johann Jakob Froberger was a German composer who was active in the early baroque era, a pioneer who established the form of harpsichord music and introduced expressions of personal emotions.
