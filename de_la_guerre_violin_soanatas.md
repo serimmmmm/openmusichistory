@@ -10,6 +10,7 @@ Born:17 March 1665 Paris, France
 Died:27 June 1729 Paris, France  
 Elisabeth Jacquet De La Guerre (1665-1729) is a French composer. 
 She recognized from an early age as a virtuoso harpsichordist, she was also highly skilled in improvisation. In addition, she was an active composer who engaged with a wide range of genres that were popular in France at the time.  
+[]().
 
   
 ## List of works in table
@@ -26,7 +27,6 @@ She recognized from an early age as a virtuoso harpsichordist, she was also high
 ![score](./delaguerre_악보최종.png)
 The violin sonatas of Elisabeth Jacquet de La Guerre have been transmitted in both manuscript and published forms. The extant manuscripts comprise two solo violin sonatas and four trio sonatas, scored for two violins and basso continuo. In addition, a set of six sonatas for violin and basso continuo has been preserved in print.  
 During this period, Italian instrumental music was gaining considerable popularity in Paris. Although the exact date at which Jacquet de La Guerre began composing violin sonatas is unknown, the fact that her works were copied by Brossard in 1695 suggests that they were likely composed several years prior to that date.  
-
 
   
 ## Why Elisabeth Jacquet De La Guerre?
