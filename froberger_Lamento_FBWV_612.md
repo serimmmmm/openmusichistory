@@ -12,6 +12,19 @@ German composer
 Johann Jakob Froberger was a German composer who was active in the early baroque era, a pioneer who established the form of harpsichord music and introduced expressions of personal emotions.
 He absorbed both styles between Italy and France, and combined them with German counterpoints, which greatly influenced later composers.
 
+## His Important Works (Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV, FBWV 612)
+Background of the Work
+Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV, FBWV 612, is one of Johann Jakob Froberger’s most expressive and intimate keyboard works. It was composed around 1657 to mourn the untimely death of Ferdinand IV, King of the Romans and heir to the Holy Roman Empire, who died unexpectedly that same year.
+Froberger, who was closely associated with European courts and nobility, composed this Lamento as a deeply personal expression of grief. The work exemplifies his ability to blend emotional depth with musical structure, marking a significant moment in the development of expressive keyboard music during the Baroque period.
+| Element        | Description                                                                |
+| -------------- | -------------------------------------------------------------------------- |
+| **Genre**      | Baroque keyboard music (*Lamento*, or lamentation)                         |
+| **Dedication** | In memory of Ferdinand IV, King of the Romans                              |
+| **Style**      | Free-form, slow-paced, introspective; features chromaticism and dissonance |
+| **Symbolism**  | Descending scales evoke tears and sorrow (a common Baroque lament device)  |
+| **Importance** | Early example of personal emotional expression in instrumental music       |
+
+
 ## List of Important Works
 | Year | Works                                                                | YouTube |  
 | ---- | -------------------------------------------------------------------- | ------- |
