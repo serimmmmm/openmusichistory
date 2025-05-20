@@ -13,5 +13,5 @@ Johann Jakob Froberger (1616–1667) is a German composer. He is not as well kno
 | 1649 | Fantasia in C Major, FbWV 201 | [Listen]( https://youtu.be/Qk912m9hCvE?si=S1ltzqt2UjOqE0HJ) |
 | 1650 | Partita in A Minor, FbWV 601 | [Listen](https://youtu.be/CMbyooDgtnI?si=aDWiwy-BfmK6Q1lo) |
 
-#Fantasia in C Major, FbWV 201
+## Fantasia in C Major, FbWV 201
 <img src="./Fantasia in C Major, FbWV 201.jpg" alt="portrait" style="width:55%;" />
