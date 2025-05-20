@@ -18,4 +18,4 @@ I usually like "Variation on a Theme of Corelli Op.42" composed by Rachmaninoff,
 
 Arcangelo Corelli was a decisive figure in establishing Baroque music, and his musical techniques and works inspired many musicians and scholars, especially having a profound influence on violin performance and composition style. His music was also used as a basic textbook in classical music education and was regarded as an essential repertoire for violin students and professional performers.
 
-<img src="./La_Folia.png" alt="portrait" style="width:50;" />
+<img src="./la_folia.png" alt="portrait" style="width:50;" />
