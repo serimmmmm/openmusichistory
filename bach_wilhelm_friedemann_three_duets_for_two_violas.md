@@ -1,16 +1,20 @@
 # Wilhelm Friedemann Bach(1710-1784)
 ---
+
+ <img src="./bach_wilhelm_friedemann_portrait.png" alt="portrait" style="width:25%;" />
+
+---
 Wilhelm Fridemann Bach(1710-1784) is a German composer. He is one of the many members of the Bach family. Despite having abundant talent, he has received relatively little attention. He is a person who has been re-examined after a while. Nevertheless, he has not yet been well-known.
 
 Have you ever listened to ‘Klavierbüchlein fur Wilhelm Friedemann Bach of keyboard pieces?
 [📺](https://www.youtube.com/watch?v=f-cKJXqJGGg) 
 This adorable piece was written by J.S. Bach for his 10-year-old first son. Wilhelm Friedemann Bach was the first son born to J.S. Bach and Maria Barbara Bach in 1710.
+
+Like [Domenico Scarlotti](scarlatti_domenico_keyboard_sonata_k80.md), son of Alessandro Scarlotti, Wilhelm Friedemann Bach was born into a great family of musicians.
+
 W.F. Bach, a composer from the Baroque period, began to receive music education from his father. He entered the University of Leipzig in 1729. Showing musical talent, he was appointed organist of the Church of Saint Sophia in Dresden in 1733.
 
----
- <img src="./bach_wilhelm_friedemann_portrait.png" alt="portrait" style="width:25%;" />
 
----
 
 ## List of important works
 
@@ -25,16 +29,3 @@ W.F. Bach, a composer from the Baroque period, began to receive music education 
  <img src="./bach_wilhelm_friedemann_score.png" alt="score" style="width:50%;" />
  
 ---
-
-## Timeline of Wilhelm Friedemann Bach
-
-| Year | Timeline | 
-| ---- | ----- | 
-| 1710 | Born in Weimar | 
-| 1729 | Matriculated at Leipzig University | 
-| 1733 | Appointed organist to the Church of St. Sophia in Dresden | 
-| 1746 | Moved to the Liebfrauenkirche at Halle | 
-| 1750 | Death of his father, J.S.Bach | 
-| 1751 | Married with Dorothea Elisabeth Georgi | 
-| 1764 | Resigned his post in Halle as his dissatisfaction grew | 
-| 1754 | Died in Berlin | 
