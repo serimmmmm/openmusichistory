@@ -9,7 +9,7 @@ Johann Jakob Froberger (1616–1667) was a German composer who lived during the 
 
 He was the first among German composers to create suites specifically for keyboard instruments, establishing a model that would later influence composers like Johann Sebastian Bach. Froberger’s works demonstrate an early Baroque aesthetic marked by contrast, emotion, and individuality, and his music played a significant role in shaping the keyboard repertoire of the time.
 
-I chose Froberger because his music served as a bridge between Italian, French, and German traditions, laying the foundation for later Baroque composers. His deeply personal and emotionally expressive keyboard works still resonate today, giving his music a timeless value that is not only historically important but also artistically profound.**
+I chose Froberger because his music served as a bridge between Italian, French, and German traditions, laying the foundation for later Baroque composers. His deeply personal and emotionally expressive keyboard works still resonate today, giving his music a timeless value that is not only historically important but also artistically profound.
 
 ## List of Important works
 
