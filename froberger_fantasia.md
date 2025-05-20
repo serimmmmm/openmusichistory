@@ -3,11 +3,7 @@
 <img src="./프로베르거.png" alt="portrait" style="width:25%;" />
 
 
-물론입니다! 이전에 작성한 Froberger에 대한 전체 글에 마지막 문단을 당신이 요청한 문장으로 자연스럽게 바꾸어 **하나의 완성된 에세이 형태**로 합쳐드릴게요:
-
----
-
-**Johann Jakob Froberger (1616–1667)** was a German composer who lived during the early Baroque period, a time of significant transformation in European music. This era saw the rise of expressive, dramatic musical forms and the development of new instrumental genres, particularly for keyboard instruments. Froberger lived and worked in a period shaped by the cultural exchanges among Italy, France, and Germany, and his travels throughout Europe deeply influenced his musical style.
+Johann Jakob Froberger (1616–1667) was a German composer who lived during the early Baroque period, a time of significant transformation in European music. This era saw the rise of expressive, dramatic musical forms and the development of new instrumental genres, particularly for keyboard instruments. Froberger lived and worked in a period shaped by the cultural exchanges among Italy, France, and Germany, and his travels throughout Europe deeply influenced his musical style.
 
 [Frescobaldi](frescobaldi_gagliarda.md) was his teacher, and under his guidance in Rome, Froberger absorbed the improvisatory and expressive qualities of the Italian keyboard tradition. At the same time, he was exposed to French dance forms and ornamentation, as well as the contrapuntal traditions of Germany. This fusion of styles is reflected in his keyboard compositions, especially in his toccatas, fantasias, and suites, which represent an important step in the evolution of Baroque keyboard music.
 
