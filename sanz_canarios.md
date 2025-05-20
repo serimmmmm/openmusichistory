@@ -13,6 +13,10 @@ Sanz began his professional career by teaching the guitar to Don Juan, the son o
 In his pedagogical writings, Sanz detailed two main guitar playing techniques: punteado (plucked) and rasgueado (strummed), both of which form the foundation of modern classical guitar technique. He also used tablature notation for his compositions, a format that has remained widely used among guitarists to this day. Additionally, he introduced an alphabet-based chord system remarkably similar to the modern Nashville Number System.
 
 Prior to Sanz’s contributions, there were few published musical works in Spain. His publications laid the groundwork for the Baroque guitar repertoire and had a lasting influence on Spanish classical music. Today, his works remain a fundamental part of classical guitar education and performance.
+
+## Historical Context and Importance
+
+At the Sanz's era, guitar was evolving from a primarily folk instrument to one with a legitimate place in court and art music. Sanz’s three pedagogical volumes, published between 1674 and 1697, reflect this transition. They not only teach guitar technique but also preserve a wide variety of Spanish and Italian dance forms, such as the folía, canarios, and jácaras—genres that were popular in both aristocratic and popular settings. Sanz's use of tablature and the detailed explanation of playing techniques like rasgueado and punteado show his intent to systematize and elevate the guitar’s role in art music. By codifying these methods, Sanz helped establish a technical and stylistic foundation that would influence later classical guitarists and Spanish composers.
    
 ## List of Important Works
 
