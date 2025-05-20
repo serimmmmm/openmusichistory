@@ -14,6 +14,7 @@ Like [Domenico Scarlotti](scarlatti_domenico_keyboard_sonata_k80.md), son of Ale
 
 W.F. Bach, a composer from the Baroque period, began to receive music education from his father. He entered the University of Leipzig in 1729. Showing musical talent, he was appointed organist of the Church of Saint Sophia in Dresden in 1733. In 1746, he moved to Halle. After his father's death in 1740, he faced many difficulties. He married late in 1751, and in 1762, he was appointed to the court of Darmstadt, but he declined. In 1764, he resigned his position in Halle, and in 1774, he moved to Berlin to continue his independent music career.
 
+In essence, Wilhelm Friedemann Bach was a composer of immense talent, deeply rooted in the Baroque tradition of his father, yet living and composing through a period of profound stylistic upheaval. His music often reflects this tension, combining rigorous counterpoint with the new expressive sensibilities of the Galant and Empfindsamer Stil. His struggles to find a consistent place in this changing musical world contributed to his relative obscurity compared to other family members, despite his undeniable genius.
 
 
 ## List of important works
