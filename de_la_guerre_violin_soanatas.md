@@ -6,8 +6,6 @@ Transform the portrait of Elisabeth Jacquet De La Guerre into the style of Keith
 
   
 ## About Elisabeth Jacquet De La Guerre
-Born:17 March 1665 Paris, France   
-Died:27 June 1729 Paris, France  
 Élisabeth Jacquet de La Guerre (1665–1729) was a prominent French composer and harpsichordist during the Baroque era. Recognized from an early age as a virtuoso performer, she was especially noted for her remarkable skill in harpsichord improvisation—an essential element of French musical practice at the time. As a composer, she was highly versatile, engaging with a wide range of genres that reflected the tastes and trends of late 17th- and early 18th-century France.
 
 Initially, in the late 17th century, Jacquet de La Guerre contributed significantly to the development of French harpsichord music, working within the refined and ornamented style characteristic of composers like [François Couperin](couperin_chaconne.md)(1668-1733). Her early works embody the elegance and expressive subtlety of the French tradition.
