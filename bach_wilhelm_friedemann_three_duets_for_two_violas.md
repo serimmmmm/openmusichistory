@@ -4,7 +4,7 @@
  <img src="./bach_wilhelm_friedemann_portrait.png" alt="portrait" style="width:25%;" />
 
 ---
-Wilhelm Fridemann Bach(1710-1784) is a German composer. He is one of the many members of the Bach family. Despite having abundant talent, he has received relatively little attention. He is a person who has been re-examined after a while. Nevertheless, he has not yet been well-known.
+Wilhelm Fridemann Bach(1710-1784) is a German composer. He is one of the many members of the Bach family. Despite having abundant talent, he has received relatively little attention. He is a person who has been re-examined after a while. Nevertheless, he has not yet been well-known. W.F. Bach lived during a pivotal and dynamic period in European, particularly German, music history. His life spanned the late Baroque era and the rise and establishment of the Classical period.
 
 Have you ever listened to ‘Klavierbüchlein fur Wilhelm Friedemann Bach of keyboard pieces?
 [📺](https://www.youtube.com/watch?v=f-cKJXqJGGg) 
