@@ -21,5 +21,5 @@ Girolamo Frescobaldi (1583–1643) was a pioneer of expressive freedom in early 
 This approach is clearly evident in pieces like “Gagliarda in G minor,” where rhythmic variations and expressive pacing transform a traditional dance form into a deeply emotional work.
 Frescobaldi’s ideas had a profound impact on later composers, especially Johann Sebastian Bach, who studied his music closely. Frescobaldi redefined the role of the performer—not as a mechanical reproducer of notes, but as an interpreter of feeling and expression.
 A composer who had a musically significant connection with Frescobaldi during the same era is [Claudio Monteverdi](Claudio_Monteverdi.md
-). During the important transitional period from the Renaissance to the Baroque, both played leading roles in stylistic changes in their respective fields—Monteverdi in vocal music and Frescobaldi in instrumental music.
+). During the important transitional period from the Renaissance to the Baroque, both played leading roles in stylistic changes in their respective fields Monteverdi in vocal music and Frescobaldi in instrumental music.
 
