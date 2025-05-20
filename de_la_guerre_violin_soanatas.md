@@ -10,7 +10,8 @@ Born:17 March 1665 Paris, France
 Died:27 June 1729 Paris, France  
 Elisabeth Jacquet De La Guerre (1665-1729) is a French composer. 
 She recognized from an early age as a virtuoso harpsichordist, she was also highly skilled in improvisation. In addition, she was an active composer who engaged with a wide range of genres that were popular in France at the time.  
-[]().
+Together with François Couperin, she made a significant contribution to the development of French harpsichord music. [Couperin](couperin_chaconne.md).  
+Influenced by Corelli, she also played a role in introducing the Italian style into French music.[Corelli](A.Corelli.md)
 
   
 ## List of works in table
