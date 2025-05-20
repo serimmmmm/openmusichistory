@@ -13,7 +13,9 @@ In conclusion, Henry Purcell's music is characterized by its originality, techni
 
 
 Henry Purcell's "Rondeau" is part of his famous work "Abdelazer" suite, showcasing the characteristics of 17th-century Baroque music. The piece features a rondo form, characterized by a recurring theme and various variations, creating a lively and rhythmic feel. It is rich in vibrant rhythms and captivating melodies, utilizing a combination of instruments to produce a full sound. Historically, this piece was also used as dance music, highlighting Purcell's significant role in theater and stage music. "Rondeau" has transcended time, being featured in modern films, which reflects its enduring appeal. This work represents a vital part of Purcell's musical legacy and holds great significance for classical music enthusiasts.
+
 <img src="./rondeau (1).png" alt="portrait" style="width:25%;" />
+
 ## List of Inportant Works
 
 | Year |         Works        | Youtube |
