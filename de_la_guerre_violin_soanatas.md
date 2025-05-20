@@ -8,8 +8,15 @@ Transform the portrait of Elisabeth Jacquet De La Guerre into the style of Keith
 ## About Elisabeth Jacquet De La Guerre
 Born:17 March 1665 Paris, France   
 Died:27 June 1729 Paris, France  
-Elisabeth Jacquet De La Guerre (1665-1729) is a French composer. 
-She recognized from an early age as a virtuoso harpsichordist, she was also highly skilled in improvisation. In addition, she was an active composer who engaged with a wide range of genres that were popular in France at the time. Élisabeth Jacquet de La Guerre initially contributed to the development of French harpsichord music under the influence of [François Couperin](couperin_chaconne.md)(1668-1733). during the late 17th century. Later, in the early 18th century, she was influenced by the Italian composer [Arcangelo Corelli](A.Corelli.md)(1653-1713).
+Élisabeth Jacquet de La Guerre (1665–1729) was a prominent French composer and harpsichordist during the Baroque era. Recognized from an early age as a virtuoso performer, she was especially noted for her remarkable skill in harpsichord improvisation—an essential element of French musical practice at the time. As a composer, she was highly versatile, engaging with a wide range of genres that reflected the tastes and trends of late 17th- and early 18th-century France.
+
+Initially, in the late 17th century, Jacquet de La Guerre contributed significantly to the development of French harpsichord music, working within the refined and ornamented style characteristic of composers like [François Couperin](couperin_chaconne.md)(1668-1733). Her early works embody the elegance and expressive subtlety of the French tradition.
+
+In the early 18th century, however, she also began to incorporate elements of the Italian style, reflecting the growing influence of composers such as [Arcangelo Corelli](A.Corelli.md)(1653-1713).
+This stylistic fusion positioned her at the forefront of a broader cultural movement in France that sought to reconcile French and Italian musical aesthetics.
+
+Through her innovative synthesis of national styles and her mastery of both composition and performance, Jacquet de La Guerre occupies an important place in the musical history of the Baroque period.
+
 
   
 ## List of works in table
