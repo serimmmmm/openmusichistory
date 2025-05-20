@@ -26,6 +26,10 @@ In essence, Wilhelm Friedemann Bach was a composer of immense talent, deeply roo
 | 1775 | 3 Viola Duets | [Listen](https://www.youtube.com/watch?v=6b6BgNSQx3U) |
 | 1778 |  Fugue in F Minor | [Listen](https://www.youtube.com/watch?v=i7Y1na7cflg) |
 
+---
+
+### Score of Three Duets for violas
+
  <img src="./bach_wilhelm_friedemann_score.png" alt="score" style="width:50%;" />
  
 ---
