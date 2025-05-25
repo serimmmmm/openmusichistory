@@ -2,15 +2,15 @@
 
 <img src="./couperin_louis_portrait.png" alt="portrait" style="width:25%;" />
 
-Louis Couperin was a significant French Baroque composer, harpsichordist, and organist. He quickly became one of the most prominent Parisian musicians, establishing himself as a harpsichordist, organist, and violist, but his career was cut short by his early death at the age of thirty-five. In France, as in [Frescobaldi](frescobaldi_gagliarda.md) in Italy, Louis Couperin contributed greatly to keyboard music.
+In France, as  [Frescobaldi](frescobaldi_gagliarda.md) in Italy, Louis Couperin contributed greatly to keyboard music.
+Louis Couperin (circa 1626–1661) was a highly influential French Baroque composer, harpsichordist, and organist. Emerging as a leading musical talent in Paris during the mid-17th century, he quickly secured a prominent reputation as a virtuosic performer on the harpsichord and organ, as well as a skilled viol player. His promising career, however, was tragically curtailed by his premature death at the age of thirty-five.
 
-Born in Chaumes-en-Brie, he moved to Paris around 1650-1651 with the help of Jacques Champion de Chambonnières, a renowned harpsichordist. Couperin quickly established himself as a leading musician in Paris, serving as the organist of the Church of St. Gervais and as a musician at court.   
+Born in Chaumes-en-Brie, Couperin's move to Paris around 1650–1651, with the crucial support of the renowned harpsichordist Jacques Champion de Chambonnières, marked a turning point in his life. He swiftly established himself within the vibrant Parisian musical scene, notably serving as the organist of the prestigious Church of St. Gervais and as a musician in the royal court.
 
-He made important contributions to both the French organ and harpsichord schools of composition. Notably, he composed organ pieces with specific instructions for registration (the selection of stops) and is credited with inventing the unmeasured prelude for the harpsichord. This unique genre featured a special notation style.
+Louis Couperin made significant and lasting contributions to the evolution of both French organ and harpsichord music. He played a key role in developing the French organ school, with compositions that included specific instructions for registration (the selection of organ stops), a novel practice at the time. Perhaps his most celebrated innovation was the development of the unmeasured prelude for the harpsichord. This unique genre, characterized by a distinctive, free-flowing notational style, allowed for expressive and improvisatory performances.
 
-While his career was cut short by his early death at the age of thirty-five, Louis Couperin's music, particularly his harpsichord works characterized by intricate ornamentation and harmonic ingenuity, has had a lasting impact. His organ music is seen as a transition from strict counterpoint to a more colorful, concertante style, influencing later Baroque composers.
+Although his life was short, Louis Couperin's musical legacy, particularly his harpsichord pieces distinguished by their sophisticated ornamentation and inventive harmonies, has endured. His organ music is recognized as a crucial link in the transition from strict, contrapuntal writing to a richer, more concertante style, thereby influencing later Baroque composers. While none of his compositions were published during his lifetime, a substantial collection of his works has been preserved through manuscripts, solidifying his esteemed position as one of the foremost French keyboard composers of the 17th century. He is often compared to his Italian contemporary, Girolamo Frescobaldi, for the significant advancements he brought to keyboard music in France.
 
-Although none of his music was published during his lifetime, a substantial amount of his work survives today, and he is highly regarded as one of the most important French keyboard composers of the 17th century.
 
 ## List of Important Works
 
@@ -21,6 +21,8 @@ Although none of his music was published during his lifetime, a substantial amou
 | unknown | Five pieces for organ in d | [Listen](https://youtu.be/MvhcK2TLTPM?si=xTvVZUVhTOb9v-DH) |
 | unknown | Chaconne in d | [Listen](https://youtu.be/QXwySiKQc9Q?si=BdmcG2d4AUUTHdH3) |
 | unknown | Passacaille in C | [Listen](https://youtu.be/MYH8Vfqk_VU?si=Y6L3nGmD5cqxXXmT) |
+
+(Note: The "Year Unknown" for the listed works is typical, as most of his music survives in posthumous manuscript collections without precise composition dates. The provided YouTube links are examples of performances of these types of works.)
 
 ## Score of Chacconne in d
 <img src="./chaconne_in_d.png" alt="portrait" style="width:70%;" />
