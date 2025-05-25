@@ -21,7 +21,7 @@ Although his life was short, Louis Couperin's musical legacy, particularly his h
 | unknown | Chaconne in d | [Listen](https://youtu.be/QXwySiKQc9Q?si=BdmcG2d4AUUTHdH3) |
 | unknown | Passacaille in C | [Listen](https://youtu.be/MYH8Vfqk_VU?si=Y6L3nGmD5cqxXXmT) |
 
-(Note: The "Year Unknown" for the listed works is typical, as most of his music survives in posthumous manuscript collections without precise composition dates. The provided YouTube links are examples of performances of these types of works.)
+*The "Year Unknown" for the listed works is typical, as most of his music survives in posthumous manuscript collections without precise composition dates. The provided YouTube links are examples of performances of these types of works.
 
 ## Score of Chacconne in d
 <img src="./chaconne_in_d.png" alt="portrait" style="width:70%;" />
