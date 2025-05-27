@@ -24,19 +24,27 @@ In 1684, he took a significant position as maestro di cappella at the court of t
 | 1707 | Il Mitridate Eupatore | [Listen](https://youtu.be/S2axvtlURCU?si=aN0e1uxjiMFJptdn) |
 | 1721 | Griselda              | [Listen](https://youtu.be/k4Nef6XL9mA?si=nzlFHLefP8tyhugx) |
 
-## Gia il sole dal gange
-<img src="./scarlattialessandro_score.png" alt="score" style="width:90%;" />
+### Gia il sole dal gange ###
 
 「Gia il sole dal gange」originates from his second opera, *L'onestà negli amori*, which premiered on February 3, 1680, at the Palazzo Bernini theater in Rome. At the time, Scarlatti was only 19 years old, and this aria is considered one of the most representative works of his early compositional talent and expressive sensitivity.
 
 The piece describes the rising sun over the Ganges River, and is characterized by its bright, cheerful mood, lively melody, and refined emotional nuance—all hallmarks of the Baroque style. It is most commonly performed as **a soprano solo aria** and, though brief, it is frequently included in vocal recitals due to its beautiful melodic lines and the vocal agility it demands, making it a favorite in the Baroque vocal repertoire.
 
-Instrumentation:
+<img src="./scarlattialessandro_score.png" alt="score" style="width:90%;" />
+
+[Gia il sole dal gange](https://youtu.be/7XlRplcM3X8?si=uT1w7Tt-SM9_DY1x)
+
+**Instrumentation:**
 * Solo soprano
 * Violin, viola (string instruments)
-* Harpsichord, cello or viola da gamba (basso continuo)
-* (Optional) Recorder, oboe (woodwind instruments)
+ 
+<img src="./giailsole_stringimage.jpg" alt="score" style="width:20%;" />
 
+* Harpsichord, cello or viola da gamba (basso continuo)
+
+<img src="./giailsole_harpsichordimage.jpg" alt="score" style="width:20%;" /> <img src="./giailsole_violadagambaimage.jpg" alt="score" style="width:20%;" />
+
+* (Optional) Recorder, oboe (woodwind instruments)
 
 ## Why Important
 His work laid the foundation for **Classical opera**, and his techniques in **orchestration**—particularly his use of instrumental color and texture—significantly influenced the development of later symphonic writing. Scarlatti’s music reflects the larger **Baroque** emphasis on emotional depth, formal structure, and contrasts between solo and ensemble textures. He was also a central figure in the evolution of **recitative and aria** forms, which would become standard in opera for the next century.
