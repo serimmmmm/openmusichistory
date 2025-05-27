@@ -1,4 +1,5 @@
 # William Byrd (1543 - 1623)
+![Image](https://github.com/user-attachments/assets/c442b34d-17c1-42e1-a72d-585e0985af0d)
 
 Kingdom of England composer,
 He was an English composer who, along with Thomas Tallis , is called the 'Father of English Music'.
