@@ -1,9 +1,15 @@
 <img src="./D.Scarlatti portrait.jpeg" alt="portrait" style="width50%;"  />
+
 # Domenico Scarlatti (1685~1757)
 
 Italian Composer
-Alessandro Scarlatti (1685-1757) was a highly influential Italian composer known for his contributions to the development of opera and cantata during the late Baroque period. 
-He is particularly recognized for establishing the Neapolitan school of opera and the Italian form of the opera overture.
+Domenico Scarlatti was one of the most original composers of the 18th century, best known for his virtuosic keyboard sonatas. Born in Naples in 1685—the same year as Johann Sebastian Bach and George Frideric Handel—Scarlatti was part of a generation that stood at the threshold between the Baroque and Classical eras.
+
+He was the son of [Alessandro Scarlatti](scarlatti_alessandro_gia_il_sole.md) (1660–1725), a major figure in Baroque music and one of the founders of the Neapolitan school of opera. Alessandro was instrumental in shaping the Italian opera overture and the cantata form, leaving a lasting legacy in vocal music.
+
+Unlike his father, Domenico devoted much of his career to instrumental music, particularly works for the harpsichord. His keyboard compositions reflected the stylistic transformation of his time and helped to define the evolving aesthetic of the early Classical style.
+
+
 
 ## List of Important Works
 
