@@ -12,6 +12,16 @@
 His influence extended beyond his own work through his son, [Domenico Scarlatti](scarlatti_domenico_keyboard_sonata_k80.md), who became a renowned composer in his own right. The elder Scarlatti’s mastery of vocal and dramatic forms helped shape Domenico’s early musical education, laying the foundation for his later innovations in **keyboard music**.
 
 ## Life Story
+
+| Year | Location        | Event                                         |
+|------|-----------------|-----------------------------------------------|
+| 1660 | Palermo, Sicily | Born                                                        |
+| 1672 | Rome            | Moved to Rome, began studying music with Giacomo Carissimi  |
+| 1679 | Rome            | Premiere of *Gli equivoci nel sembiante*, gained patronage  |
+| 1684 | Naples          | Appointed maestro di cappella at the Viceroy’s court        |
+| 1700 | Naples          | Helped establish the Neapolitan opera style                 |
+| 1725 | Naples          | Died    
+
 He was born in Palermo, Sicily, in 1660. Around the age of twelve, he moved to Rome, where he is believed to have studied music under Giacomo Carissimi. His early works suggest influences from Stradella and Legrenzi, indicating a possible connection to northern Italian musical trends of the time. Following the successful premiere of his opera Gli equivoci nel sembiante in 1679, he gained the patronage of Queen Christina of Sweden, residing in Rome, and became her maestro di cappella.
 
 In 1684, he took a significant position as maestro di cappella at the court of the Viceroy in **Naples**, a city that would become **the epicenter of Italian opera**. Naples, during the Baroque era, was a thriving cultural and political hub under Spanish rule, and Scarlatti’s music responded to the demands of a court culture that valued both spectacle and refinement. His long service there contributed to the solidification of **the Neapolitan style**, characterized by clear melodic lines, dramatic contrasts, and expressive ornamentation—all hallmarks of the Baroque aesthetic.
@@ -52,7 +62,7 @@ The piece describes the rising sun over the Ganges River, and is characterized b
 ## Why Important
 His work laid the foundation for **Classical opera**, and his techniques in **orchestration**—particularly his use of instrumental color and texture—significantly influenced the development of later symphonic writing. Scarlatti’s music reflects the larger **Baroque** emphasis on emotional depth, formal structure, and contrasts between solo and ensemble textures. He was also a central figure in the evolution of **recitative and aria** forms, which would become standard in opera for the next century.
 
-<img src="./scarlattialessandro_artwork.jpg" alt="score" style="width:20%;" />
+<img src="./scarlattialessandro_artwork.jpg" alt="artwork" width="260" height="385" />
 
 > *<sup> Giovanni Battista Gaulli, “Triumph of the Name of Jesus” (1676–79), ceiling fresco, Church of the Gesù, Rome. A quintessential Baroque masterpiece noted for its dramatic use of space, light, and emotion. </sup>*
 
