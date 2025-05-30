@@ -39,7 +39,7 @@ In 1684, he took a significant position as maestro di cappella at the court of t
 
 ### Gia il sole dal Gange ###
 
-「Gia il sole dal Gange」 originates from his second opera, *L'onestà negli amori*, which premiered on February 3, 1680, at the Palazzo Bernini theater in Rome. At the time, Scarlatti was only 19 years old, and this aria is considered one of the most representative works of his early compositional talent and expressive sensitivity.
+*「Gia il sole dal Gange」* originates from his second opera, *L'onestà negli amori*, which premiered on February 3, 1680, at the Palazzo Bernini theater in Rome. At the time, Scarlatti was only 19 years old, and this aria is considered one of the most representative works of his early compositional talent and expressive sensitivity.
 
 The piece describes the rising sun over the Ganges River, and is characterized by its bright, cheerful mood, lively melody, and refined emotional nuance—all hallmarks of the Baroque style. It is most commonly performed as **a soprano solo aria** and, though brief, it is frequently included in vocal recitals due to its beautiful melodic lines and the vocal agility it demands, making it a favorite in the Baroque vocal repertoire.
 
@@ -66,8 +66,8 @@ His work laid the foundation for **Classical opera**, and his techniques in **or
 
 > *<sup> Giovanni Battista Gaulli, “Triumph of the Name of Jesus” (1676–79), ceiling fresco, Church of the Gesù, Rome. A quintessential Baroque masterpiece noted for its dramatic use of space, light, and emotion. </sup>*
 
-This dramatic and expressive quality in Scarlatti’s work parallels the visual language of **Baroque art**. For example, **Giovanni Battista Gaulli**’s ceiling fresco **「“Triumph of the Name of Jesus”」** (1676–79), located in the Church of the Gesù in Rome, is a powerful visual counterpart to the theatricality of Baroque music. The painting’s intense contrasts of light and shadow, illusionistic perspective, and emotional grandeur mirror Scarlatti’s use of harmonic tension, dissonance, and resolution to evoke awe and passion. Both artists aimed to move the audience deeply—whether through soaring melodies or divine imagery.
+This dramatic and expressive quality in Scarlatti’s work parallels the visual language of **Baroque art**. For example, **Giovanni Battista Gaulli**’s ceiling fresco **“Triumph of the Name of Jesus”** (1676–79), located in the Church of the Gesù in Rome, is a powerful visual counterpart to the theatricality of Baroque music. The painting’s intense contrasts of light and shadow, illusionistic perspective, and emotional grandeur mirror Scarlatti’s use of harmonic tension, dissonance, and resolution to evoke awe and passion. Both artists aimed to move the audience deeply—whether through soaring melodies or divine imagery.
 
 I was drawn to Scarlatti because, although he is not as frequently mentioned as some other composers, he was instrumental in shaping the structural and expressive core of Baroque vocal music. His codification of the da capo aria and immense cantata output provide a fascinating starting point for exploring how his work influenced later **Classical composers** like Handel, Mozart, and even Haydn, who inherited the expressive vocabulary and formal clarity that Scarlatti helped define within his historical context.
 
-As we mark the ***300th anniversary*** of his death in 2025, it is an especially meaningful time to reflect on his enduring legacy and his vital contributions to vocal music.
+As we mark the ***300th anniversary*** of his death in **2025**, it is an especially meaningful time to reflect on his enduring legacy and his vital contributions to vocal music.
