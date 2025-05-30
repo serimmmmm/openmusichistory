@@ -1,5 +1,9 @@
 # Elisabeth Jacquet De La Guerre (1665-1729)
 
+[About Elisabeth Jacquet De La Guerre]
+[Timeline]
+
+
 <img src="./delaguerre_portrait2.png" alt="portrait" style="width:60%;" />
 ChatGPT Image 2025/4월/29  11_51_10
 Transform the portrait of Elisabeth Jacquet De La Guerre into the style of Keith Haring — that is, using simple and bold lines, bright primary colors, and energetic pattern.       
@@ -15,8 +19,18 @@ This stylistic fusion positioned her at the forefront of a broader cultural move
 
 Through her innovative synthesis of national styles and her mastery of both composition and performance, Jacquet de La Guerre occupies an important place in the musical history of the Baroque period.
 
+## Timeline  
+| Year | Event/Activity |
+| ---- | -------------- |
+| 1665 | 	Born in Paris into a family of musicians. Received a musical education from an early age. |
+| 1670 | 	Gained fame as a child prodigy harpsichordist at the court of Louis XIV. |
+| 1684 | 	Married Marin de La Guerre, a singer and organist. Adopted the name Jacquet de La Guerre. |
+| 1687 | 	Published her **first collection of harpsichord suites** (Pièces de clavecin), showcasing refined French elegance. |
+| 1694 | 	Premiered the opera **Céphale et Procris**—a rare example of an opera by a French woman composer. |
+| 1707 |	Published **sonatas for violin and harpsichord**, incorporating the Italian style influenced by Corelli. |
+| 1711-1715 | Released a series of **sacred cantatas** (Cantates spirituelles) blending French and Italian elements. |
+| 1729 | Died in Paris. Remembered as a pioneering woman composer of the late Baroque era, contemporary to Bach and Handel. |  
 
-  
 ## List of works in table
 
 | Year | Works | Youtube |
