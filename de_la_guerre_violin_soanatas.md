@@ -1,16 +1,17 @@
 # Elisabeth Jacquet De La Guerre (1665-1729)
 
-[About Elisabeth Jacquet De La Guerre]
-[Timeline]
+[About Elisabeth Jacquet De La Guerre](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L8)  
+[Timeline](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L22)  
 
-
-<img src="./delaguerre_portrait2.png" alt="portrait" style="width:60%;" />
-ChatGPT Image 2025/4월/29  11_51_10
-Transform the portrait of Elisabeth Jacquet De La Guerre into the style of Keith Haring — that is, using simple and bold lines, bright primary colors, and energetic pattern.       
 
   
-## About Elisabeth Jacquet De La Guerre
-Élisabeth Jacquet de La Guerre (1665–1729) was a prominent French composer and harpsichordist during the Baroque era. She lived during the reign of Louis XIV, a period marked by flourishing artistic patronage and the dominance of French musical style. Recognized from an early age as a virtuoso performer, she was especially noted for her remarkable skill in harpsichord improvisation—an essential element of French musical practice at the time. As a composer, she was highly versatile, engaging with a wide range of genres that reflected the tastes and trends of late 17th- and early 18th-century France.
+## About Elisabeth Jacquet De La Guerre  
+<img src="./delaguerre_portrait2.png" alt="portrait" style="width:60%;" />
+ChatGPT Image 2025/4월/29  11_51_10  
+
+Transform the portrait of Elisabeth Jacquet De La Guerre into the style of Keith Haring — that is, using simple and bold lines, bright primary colors, and energetic pattern.    
+
+**Élisabeth Jacquet de La Guerre** (1665–1729) was a prominent French composer and harpsichordist during the Baroque era. She lived during the reign of Louis XIV, a period marked by flourishing artistic patronage and the dominance of French musical style. Recognized from an early age as a virtuoso performer, she was especially noted for her remarkable skill in harpsichord improvisation—an essential element of French musical practice at the time. As a composer, she was highly versatile, engaging with a wide range of genres that reflected the tastes and trends of late 17th- and early 18th-century France.
 
 Initially, in the late 17th century, Jacquet de La Guerre contributed significantly to the development of French harpsichord music, working within the refined and ornamented style characteristic of composers like [François Couperin](couperin_chaconne.md)(1668-1733). Her early works embody the elegance and expressive subtlety of the French tradition.
 
