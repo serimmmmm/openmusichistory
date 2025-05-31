@@ -22,7 +22,7 @@ Wilhelm Friedemann Bach's Three Duets for Violas (F. 60-62) showcase a sophistic
 <table>
   <tr>
     <td>
-      <img src="./antiochus_and_stratonice.png" alt="paintings" style="width:75%;" />
+      <img src="./antiochus_and_stratonice.png" alt="paintings" style="width:100%;" />
 
     
       Antiochus and stratonice, Jacques-Louis David (1774) 
