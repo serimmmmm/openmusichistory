@@ -4,11 +4,11 @@
  <img src="./bach_wilhelm_friedemann_portrait.png" alt="portrait" style="width:50%;" />
 
 ---
-Wilhelm Fridemann Bach(1710-1784) is a German composer. He is one of the many members of the Bach family. Despite having abundant talent, he has received relatively little attention. He is a person who has been re-examined after a while. Nevertheless, he has not yet been well-known. W.F. Bach lived during a pivotal and dynamic period in European, particularly German, music history. His life spanned the late Baroque era and the rise and establishment of the Classical period.
+*Wilhelm Fridemann Bach(1710-1784)* is a German composer. He is one of the many members of the Bach family. Despite having abundant talent, he has received relatively little attention. He is a person who has been re-examined after a while. Nevertheless, he has not yet been well-known. W.F. Bach lived during a pivotal and dynamic period in European, particularly German, music history. His life spanned the late Baroque era and the rise and establishment of the Classical period.
 
 Have you ever listened to ‘Klavierbüchlein fur Wilhelm Friedemann Bach of keyboard pieces?
 [📺](https://www.youtube.com/watch?v=f-cKJXqJGGg) 
-This adorable piece was written by J.S. Bach for his 10-year-old first son. Wilhelm Friedemann Bach was the first son born to J.S. Bach and Maria Barbara Bach in 1710.
+This adorable piece was written by J.S. Bach for his 10-year-old first son. Wilhelm Friedemann Bach was the first son born to (**J.S. Bach**) and Maria Barbara Bach in 1710.
 Like [Domenico Scarlatti](scarlatti_domenico_keyboard_sonata_k80.md), son of Alessandro Scarlotti, Wilhelm Friedemann Bach was born into a great family of musicians.
 
 W.F. Bach, a composer from the Baroque period, began to receive music education from his father. He entered the University of Leipzig in 1729. Showing musical talent, he was appointed organist of the Church of Saint Sophia in Dresden in 1733. In 1746, he moved to Halle. After his father's death in 1740, he faced many difficulties. He married late in 1751, and in 1762, he was appointed to the court of Darmstadt, but he declined. In 1764, he resigned his position in Halle, and in 1774, he moved to Berlin to continue his independent music career.
