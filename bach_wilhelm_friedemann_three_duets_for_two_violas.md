@@ -1,7 +1,7 @@
 # Wilhelm Friedemann Bach(1710-1784)
 ---
 
- <img src="./bach_wilhelm_friedemann_portrait.png" alt="portrait" style="width:50%;" />
+ <img src="./bach_wilhelm_friedemann_portrait.png" alt="portrait" style="width:35%;" />
 
 ---
 *Wilhelm Fridemann Bach(1710-1784)* is a German composer. He is one of the many members of the Bach family. Despite having abundant talent, he has received relatively little attention. He is a person who has been re-examined after a while. Nevertheless, he has not yet been well-known. W.F. Bach lived during a pivotal and dynamic period in European, particularly German, music history. His life spanned the late Baroque era and the rise and establishment of the Classical period.
@@ -16,6 +16,8 @@ W.F. Bach, a composer from the Baroque period, began to receive music education 
  <img src="./bach_wilhelm_friedemann_viola.png" alt="instrument" style="width:50%;" />
  
 Wilhelm Friedemann Bach's Three Duets for Violas (F. 60-62) showcase a sophisticated interplay between two equal viola parts, creating an intricate contrapuntal dialogue rather than a simple melody-accompaniment texture. Reflecting the Empfindsamer Stil, the music is characterized by unpredictable melodic turns, surprising harmonic shifts, and sudden changes in mood, moving beyond predictable Baroque conventions to express a wide spectrum of nuanced emotions. This expressivity is amplified by dramatic contrasts in dynamics and character, ranging from tender lyricism to agitated intensity. Bach masterfully exploits the viola's warm, rich, and occasionally somber timbre, writing technically demanding yet idiomatic parts that explore the instrument's expressive potential. While rooted in Baroque techniques like imitation, the duets also exhibit a degree of formal freedom and originality, foreshadowing early Classical sensibilities and highlighting W.F. Bach's unique, transitional musical voice.
+
+<img src="./antiochus_and_stratonice.png" alt="paintings" style="width:50%;" />
 
 In essence, Wilhelm Friedemann Bach was a composer of immense talent, deeply rooted in the Baroque tradition of his father, yet living and composing through a period of profound stylistic upheaval. His music often reflects this tension, combining rigorous counterpoint with the new expressive sensibilities of the Galant and Empfindsamer Stil. His struggles to find a consistent place in this changing musical world contributed to his relative obscurity compared to other family members, despite his undeniable genius.
 
