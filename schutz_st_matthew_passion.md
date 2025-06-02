@@ -1,3 +1,8 @@
+> #### Learning Objects ####
+>
+> - Understand Heinrich Schütz's contribution to the development of German Baroque music.
+> - heavy_check_mark:Examine the influence of the religious and political context of 17th-century Germany on Schütz's music.
+
 # Heinrich Schütz(1585-1672)
 
 <img src="./portrait.png" alt="portrait" style="width:25%;" />
@@ -24,6 +29,8 @@ For those interested in the intersection of faith and music, Heinrich Schütz of
 | 1666 | Johannes Passion, SWV 481                | https://youtu.be/dptgsKRqOfc?si=Sd_reUYxY3ZYRUGU | 
 
 ## Sample score
+
+[:headphones:](https://youtu.be/w__eUcyHXwU?si=ut2xSdXycLkvdHfv)
 
 <img src="./sample_score.png" alt="sample_score" width="450" height="350" />___<img src="./vocal_ensemble.png" alt="vocal_ensemble" width="450" height="350" />
 
