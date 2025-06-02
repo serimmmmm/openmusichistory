@@ -9,7 +9,7 @@ He was the **son of [Alessandro Scarlatti](scarlatti_alessandro_gia_il_sole.md) 
 
 Unlike his father, Domenico devoted much of his career to **instrumental music**, particularly works for the **harpsichord**. His keyboard compositions reflected the stylistic transformation of his time and helped to define the evolving aesthetic of the **early Classical style**.
 
-
+<img src="./The Concert.jpg" alt="artwork" style="width30%;"  />
 
 ## List of Important Works
 
