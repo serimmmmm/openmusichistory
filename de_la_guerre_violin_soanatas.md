@@ -25,7 +25,7 @@
 
 **Élisabeth Jacquet de La Guerre** (1665–1729) was a prominent *French* composer and harpsichordist during the Baroque era. She lived during the reign of *Louis XIV*, a period marked by flourishing artistic patronage and the dominance of French musical style. Recognized from an early age as a virtuoso performer, she was especially noted for her remarkable skill in harpsichord improvisation—an essential element of French musical practice at the time. As a composer, she was highly versatile, engaging with a wide range of genres that reflected the tastes and trends of late 17th- and early 18th-century France.
 
-Initially, in the late 17th century, Jacquet de La Guerre contributed significantly to the development of **French harpsichord music**, working within the refined and ornamented style characteristic of composers like [François Couperin](couperin_chaconne.md)(1668-1733). Her early works embody the elegance and expressive subtlety of the French tradition.  
+Initially, in the late 17th century, Jacquet de La Guerre contributed significantly to the development of **French harpsichord music**, working within the refined and ornamented style characteristic. Her early works embody the elegance and expressive subtlety of the French tradition.  
 And she was especially known for composing **opera**, a field that had very few female composers in her era.
 
 In the early 18th century, she also began to incorporate elements of the **Italian style**, reflecting the growing influence of composers such as [Arcangelo Corelli](A.Corelli.md)(1653-1713).
@@ -89,6 +89,10 @@ In an era when women composers faced significant social and institutional barrie
 Her later violin sonatas are particularly notable for their role in expanding the expressive possibilities of the instrument. These works synthesize the refined ornamentation and elegance of the French style with the dynamic energy and structure of Italian sonatas, contributing meaningfully to the development of instrumental music in France.  
 
 ## Question for review
-## Guides for further studies
+Q1. Which national musical style did Élisabeth Jacquet de La Guerre seek to integrate with French traditions in the early 18th century?  
 
+Q2. Which genre of Italian instrumental music was gaining prominence in France during the late 17th and early 18th centuries?  
+
+## Guides for further studies
+Élisabeth Jacquet de La Guerre was significantly influenced by **François Couperin**(1668-1733). If you would like to learn more about François Couperin — one of the most influential pioneers in the fusion of French and Italian musical styles, you can refer to this [Link](couperin_chaconne.md)  
 
