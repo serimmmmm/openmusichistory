@@ -1,6 +1,9 @@
 # Louis Couperin (1626-1661)
 
-<img src="./couperin_louis_portrait.png" alt="portrait" style="width:25%;" />
+<img src="./couperin_louis_portrait.png" alt="portrait" style="width:25%;" /> <img src="./thedancetothemusicoftime.jpg" alt="portrait" style="width:45%;" />[^1]
+
+[^1]: Nicolas Poussin, A Dance to the Music of Time (1634), oil on canvas, Wallace Collection, London. It's a contemporary work of art with Louis Couperin.
+
 
 **Louis Couperin** (circa 1626–1661) was a highly influential **French Baroque** composer, harpsichordist, and organist. Emerging as a leading musical talent in Paris during the mid-17th century, he quickly secured a prominent reputation as a virtuosic performer on the harpsichord and organ, as well as a skilled viol player. His promising career, however, was tragically curtailed by his premature death at the age of thirty-five.
 
@@ -38,25 +41,25 @@ Although his life was short, Louis Couperin's musical legacy, particularly his h
 
 ## Score of Chacconne[^3] in d
 
+[Listen](https://youtu.be/yEF1snITUhs?si=8Z_xtWHMepfMPPaO)
+
 [^3]: A chaconne is a Baroque musical form originating from a slow, triple-meter dance. Its core feature is a repeating short bass line (ostinato bass) over which various variations are built. While initially a lively 16th-century dance, it evolved into a majestic instrumental piece in the 17th century, known for its solemn atmosphere and intricate variations within its consistent 3-beat framework.
 
 <img src="./chaconne_in_d.png" alt="portrait" style="width:70%;" />
 
 ### Listening Guide
 
-[Listen](https://youtu.be/yEF1snITUhs?si=8Z_xtWHMepfMPPaO)
-
 | Timing | Text and Form |
 | ------ | ------------- |
-| 0:00 | Refrain[^4] |
-| 0:15 | First Couplet[^5] |
-| 0:29 | Refrain |
-| 0:43 | Second Couplet |
-| 0:58 | Refrain |
-| 1:12 | Third Couplet |
-| 1:41 | Refrain |
-| 1:55 | Fourth Couplet |
-| 2:13 | Refrain |
+| 0:00 - 0:15 | Refrain[^4] |
+| 0:15 - 0:29 | First Couplet[^5] |
+| 0:29 - 0:43 | Refrain |
+| 0:43 - 0:58 | Second Couplet |
+| 0:58 - 1:12 | Refrain |
+| 1:12 - 1:41 | Third Couplet |
+| 1:41 - 1:55 | Refrain |
+| 1:55 : 2:13 | Fourth Couplet |
+| 2:13 - End | Refrain |
 
 [^4]: In chaconne form, particularly in the French Baroque style, a Refrain refers to the continuously repeating bass line or chord progression (the ostinato) that forms the structural backbone of the piece.
 [^5]: Couplets are the contrasting variations or episodes that appear between repetitions of this Refrain. They introduce melodic, rhythmic, or harmonic changes, offering diversity and developing the musical ideas while remaining rooted in the underlying bass pattern.
@@ -66,6 +69,7 @@ Although his life was short, Louis Couperin's musical legacy, particularly his h
 - Archetype of the Chaconne Form: This piece exemplifies the typical chaconne structure, showcasing diverse variations built upon a repeating bass line (ostinato bass).
 - French Baroque Characteristics: While Italian chaconnes often emphasize flashy, improvisatory elements, Couperin's chaconne highlights the unique aesthetics of French Baroque. It features restrained elegance, delicate ornamentation, and profound emotional expression.
 - Harpsichord[^6] Repertoire: Composed primarily for the harpsichord, this piece contributed to exploring the instrument's varied timbres and expressive potential during that era.
+<img src="./harpsichord.jpg" alt="portrait" style="width:25%;" />
 
 [^6]: The harpsichord is a keyboard instrument popular from the Renaissance to the Baroque era. Unlike a piano, which uses hammers, the harpsichord produces sound when a plectrum plucks the strings. This mechanism meant volume control was difficult, but it created a clear, metallic, and distinctive timbre. It played a crucial role in Baroque music and is still used today for period performances.
 
