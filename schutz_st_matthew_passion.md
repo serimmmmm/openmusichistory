@@ -27,7 +27,7 @@ For those interested in the intersection of faith and music, Heinrich Schütz of
 
 <img src="./sample_score.png" alt="sample_score" width="450" height="350" />
 
-"St. Matthew Passion" is one of Schütz's late masterpieces, a musical work that tells the story of the Passion of Jesus Christ. The most prominent characteristic of this work is that it is performed only by a vocal ensemble without instrumental accompaniment.
+"The St. Matthew Passion" is one of Schütz's late masterpieces, depicting the Passion story of Jesus Christ. A notable characteristic of this work is that it is performed solely by vocal ensembles without any instrumental accompaniment. Schütz composed this piece while working as the Kapellmeister at the Dresden court. During that time, Germany was facing a difficult period due to the aftermath of the Thirty Years' War (1618-1648). In the context of restricted musical activities, Schütz's Passion oratorios played a crucial role in maintaining the tradition of religious music.
 
 ## Why Heinrich Schütz?
 
