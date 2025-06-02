@@ -7,7 +7,7 @@
 ●[Listening Guide](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L)  
 ●[Question for review](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L)  
 ●[Guides for further studies](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L)  
-
+***
 
 <img src="./delaguerre_portrait2.png" alt="portrait" style="width:60%;" />
 
