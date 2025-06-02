@@ -2,9 +2,12 @@
 ***
 ●[Timeline](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L11)  
 ●[Who is Elisabeth Jacquet De La Guerre?](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L24)  
-●[6 violin sonatas](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L40)   
-●[]
-***
+●[6 violin sonatas](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L43)   
+●[What is a violin?](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L95)  
+●[Listening Guide](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L)  
+●[Question for review](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L)  
+●[Guides for further studies](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L)  
+
 
 <img src="./delaguerre_portrait2.png" alt="portrait" style="width:60%;" />
 
@@ -27,6 +30,9 @@
 
 Initially, in the late 17th century, Jacquet de La Guerre contributed significantly to the development of **French harpsichord music**, working within the refined and ornamented style characteristic. Her early works embody the elegance and expressive subtlety of the French tradition.  
 And she was especially known for composing **opera**, a field that had very few female composers in her era.
+Despite the underwhelming reception of her opera *Céphale et Procris*, she did not cease composing. Instead, she continued to publish her works and steadily established her position in the musical world.
+
+
 
 In the early 18th century, she also began to incorporate elements of the **Italian style**, reflecting the growing influence of composers such as [Arcangelo Corelli](A.Corelli.md)(1653-1713).
 This stylistic fusion positioned her at the forefront of a broader cultural movement in France that sought to reconcile French and Italian musical aesthetics.
@@ -82,11 +88,22 @@ At the turn of the 18th century, Italian instrumental music—particularly the s
 
 ## Sonata No. 5  
 ## Sonata No. 6  
-  
-## Why Elisabeth Jacquet De La Guerre?
-In an era when women composers faced significant social and institutional barriers, Jacquet de La Guerre distinguished herself through her command of compositional technique and her resilience in a male-dominated field. Though her opera Cephale et Procris received a lukewarm reception, she continued to compose and publish throughout her life, seizing opportunities to present her work to both elite and public audiences.
 
-Her later violin sonatas are particularly notable for their role in expanding the expressive possibilities of the instrument. These works synthesize the refined ornamentation and elegance of the French style with the dynamic energy and structure of Italian sonatas, contributing meaningfully to the development of instrumental music in France.  
+## What is a violin?
+The violin is a string instrument with four strings, played by drawing a bow across the strings or by plucking them with the fingers.
+Among string instruments, it has the highest pitch range, and its tone is clear and delicate.  
+The violin plays a central role in orchestras, chamber music, and solo performances across a wide range of musical genres.  
+During the Baroque era, violins used gut strings and a short, lightweight bow, producing an elegant and ornamented style of performance.
+In the Classical period, improvements in the instrument's structure and bow design allowed for a more refined and balanced sound.
+In the Romantic era, the violin became a powerful tool for emotional expression, with virtuosic techniques gaining prominence and the instrument's musical significance greatly expanding.
+In the modern era, the use of metal strings, advanced bow construction, and electronic technology has further enhanced the violin’s volume and expressive capabilities.
+Today, the violin is actively used not only in classical music but also in jazz, film scores, and many other musical styles.  
+
+![Violin](https://github.com/user-attachments/assets/2d88ad4a-ed54-473c-ac5a-d402114331f5)
+
+## Listening Guide 
+During the Baroque era, most musical pieces weren't strictly limited to the written score; performers often added improvised and free ornamentation. Let's listen to this piece, imagining those spontaneous embellishments.
+바로크 시대에는 대부분의 곡이 악보에 제한되지 않고 연주자의 즉흥적이고 자유로운 꾸밈음에 의해 연주되었다. 자유로운 꾸밈음을 상상하며 들어보자.
 
 ## Question for review
 Q1. Which national musical style did Élisabeth Jacquet de La Guerre seek to integrate with French traditions in the early 18th century?  
