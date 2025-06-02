@@ -16,7 +16,8 @@ W.F. Bach, a composer from the Baroque period, began to receive music education 
 <table>
  <tr>
    <td>
-      <img src="./antiochus_and_stratonice.png" alt="paintings" style="width:50%;" />
+    <div align="center">
+      <img src="./antiochus_and_stratonice.png" alt="paintings" style="width:75%;" />
 
     
   Antiochus and stratonice, Jacques-Louis David (1774) 
@@ -42,7 +43,7 @@ In essence, Wilhelm Friedemann Bach was a composer of immense talent, deeply roo
 
 ## Score of three duets for two violas
 
- <img src="./bach_wilhelm_friedemann_viola.png" alt="instrument" style="width:50%;" />
+ <img src="./bach_wilhelm_friedemann_viola.png" alt="instrument" style="width:35%;" />
 
 
 <img src="./bach_wilhelm_friedemann_score.png" alt="score" style="width:100%;" />
