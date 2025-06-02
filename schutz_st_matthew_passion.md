@@ -28,11 +28,25 @@ When I was contemplating which composer to select, I became interested in Schüt
 
 [:headphones:](https://youtu.be/w__eUcyHXwU?si=ut2xSdXycLkvdHfv)
 
-<img src="./sample_score.png" alt="sample_score" width="450" height="350" />
+<img src="./sample_score.png" alt="sample_score" width="450" height="350" />____<img src="./vocal_ensemble.png" alt="vocal_ensemble" width="450" height="350" />
+
+> ### Listening Guides
+>
+>  When listening to this piece, focus on the following three aspects.
+> 
+>> 1. **The 'Passion' as Storytelling**
+> - Role of the Evangelist: Follow the Evangelist's voice and concentrate on how the biblical story unfolds. It's important to perceive how changes in his vocal tone or the flow of the melody express the tension and emotions of the narrative.
+> - Dialogue of the Characters: The lines of other characters, such as Jesus, Pilate, and Peter, are expressed by parts of the choir or by solo singers. Since each character's dialogue is presented briefly and clearly, it's enjoyable to distinguish who is saying what.
+>> 2. **The Versatility of A Cappella Choirs**
+> - Crowd Choirs (Turbae): The voices of the crowd, mocking Jesus or shouting "Crucify him!", are depicted with great dynamism and intensity. Imagine the crowd psychology and atmosphere of the time as you listen. Schütz maximizes the dramatic effect in these sections through changes in tempo and dynamics.
+> - Choral work filled with inner reflection: The chorus, appearing at significant turning points or emotional moments in the story, goes beyond simple narration and induces inner reflection in the audience. In this part, focus on the harmony of chords and timbre of the choir, and feel the reverent and contemplative atmosphere that the work intends to convey.
+>> 3. **The Aesthetics of Silence and Space**
+> - The Meaning of Empty Space: The absence of instrumental accompaniment sometimes creates moments of 'silence,' where there is no sound. Pay attention to whether this silence makes the subsequent sound more impressive, or adds weight to the emotions of the characters or the dramatic situation.
+> - The Beauty of the Voice Itself: Music composed solely of human voices maximizes the independent movement of each part and the beauty of the pure harmony it creates. Focus on how the voices of each part blend and separate to feel the texture of sound that Schütz intended.
 
 "St. Matthew Passion" is one of Schütz's late masterpieces, depicting the Passion story of Jesus Christ. A notable characteristic of this work is that it is performed solely by vocal ensembles without any instrumental accompaniment. Schütz composed this piece while working as the Kapellmeister at the Dresden court. During that time, Germany was facing a difficult period due to the aftermath of the Thirty Years' War (1618-1648). In the context of restricted musical activities, Schütz's Passion oratorios played a crucial role in maintaining the tradition of religious music.
 
-**Heinrich Schütz: A Key Figure in 17th-Century German Baroque Music, Father of German Music**
+## Heinrich Schütz: A Key Figure in 17th-Century German Baroque Music, Father of German Music
 
 Heinrich Schütz stands as a towering figure in **early German Baroque music**. More than just a composer, Schütz served as a crucial conduit for the influx of innovative Italian musical currents into Germany, profoundly shaping the trajectory of the German musical heritage. He masterfully synthesized the expressive new style from Italy with the established traditions of German Lutheran church music.
 
@@ -40,3 +54,11 @@ Born in the wake of the Reformation and during the era following the destructive
 By skillfully integrating Italian innovations—the *concertato* principle, madrigalisms, monody, and dramatic *recitativo*—with the German language and the devout spirit of Lutheranism, Heinrich Schütz forged a unique and powerful musical language. He not only laid the groundwork for the flourishing of Baroque music in Germany but also created works of profound personal and lasting significance that eloquently expressed the Protestant faith in the 17th century. His dedication to setting German biblical texts with deep understanding and emotional resonance solidified his place as a foundational composer in the history of sacred music.
 
 For those interested in the intersection of faith and music, Heinrich Schütz offers a compelling subject. As a devout Lutheran who lived through one of Europe's most devastating conflicts, his extensive body of Protestant sacred music provides a profound window into **the expression of Christian faith in the 17th century**. Schütz made the scriptures accessible and emotionally resonant to congregations through his commitment to setting German biblical texts. His oratorios, Passions, motets (such as his *Cantiones sacrae* of 1625, which exhibit a more intense and personal expression), and settings of biblical narratives were not mere musical exercises; they were deeply personal and communal declarations of faith. In a time marked by religious conflict and widespread suffering, Schütz's music offered solace, spiritual depth, and a powerful affirmation of the core tenets of the Protestant tradition, cementing his role as a foundational figure in the rich history of German sacred music.
+
+## 17th Century Art 
+
+<img src="./rubens.png" alt="rubens" style="width:25%;" />
+
+**The Descent from the Cross**
+
+
