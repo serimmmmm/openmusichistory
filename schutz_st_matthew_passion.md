@@ -43,7 +43,8 @@ For those interested in the intersection of faith and music, Heinrich Schütz of
 ## 17th Century Art ##
 
 <img src="./rubens.png" alt="rubens" style="width:25%;" />
-The Descent from the Cross
+
+**The Descent from the Cross**
 
 ## Chronicle of Heinrich Schütz
 
