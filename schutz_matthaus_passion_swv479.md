@@ -27,6 +27,8 @@ For those interested in the intersection of faith and music, Heinrich Schütz of
 
 <img src="./sample_score.png" alt="sample_score" width="450" height="350" />
 
+"St. Matthew Passion" is one of Schütz's late masterpieces, a musical work that tells the story of the Passion of Jesus Christ. The most prominent characteristic of this work is that it is performed only by a vocal ensemble without instrumental accompaniment.
+
 ## Why Heinrich Schütz?
 
 When I was contemplating which composer to select, I became interested in Schütz upon seeing that most of his works are Protestant music. This is because, as a Christian myself, I became curious about how Schütz expressed 17th-century Protestant faith through his music. It is said that Schütz, a Lutheran, made significant contributions to the development of German Protestant music after the Reformation, particularly by composing oratorios, Passions, motets, and Bible stories based on German biblical texts.
