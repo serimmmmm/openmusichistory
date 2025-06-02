@@ -37,7 +37,21 @@ Unlike his father, Domenico devoted much of his career to **instrumental music**
 | not known| Keyboard Sonata K.208 | [Listen](https://www.youtube.com/watch?v=YMgFs2imI-U) |
 | 1730s| Kyeoboard Sonata K.87 | [Listen](https://www.youtube.com/watch?v=Bd0TRy41Fxg) |
 
-Why Important
+## Listening Guide: Scarlatti Sonata in G major, K.80
+
+| Time        | Musical Content/Features                                  | Pedagogical Focus / Learning Objectives                                |
+|-------------|------------------------------------------------------------|------------------------------------------------------------------------|
+| 0:00 – 0:30 | Opening theme: lyrical, expressive melody in major key     | Identify phrasing, articulation, and ornamentation in early 18th-c. style |
+| 0:30 – 1:00 | Sequence and development of main theme                     | Analyze sequence techniques and melodic variation                      |
+| 1:00 – 1:30 | Introduction of minor key inflection, expressive contrast  | Recognize modal shifts and dynamic shaping                             |
+| 1:30 – 2:00 | Repetition with embellishment and denser harmony           | Observe variation and practice stylistic ornamentation                 |
+| 2:00 – 2:30 | Closing of first section with cadence                      | Understand cadential formulas and harmonic resolution                  |
+| 2:30 – 3:00 | Return of theme in different register                      | Explore register usage and voicing on harpsichord/keyboard             |
+| 3:00 – 3:30 | Final flourish and expressive close                        | Evaluate performance choices: tempo rubato, articulation, touch        |
+
+
+
+## Why Important
 
 Domenico Scarlatti expanded the possibilities of keyboard music with his innovative and technically demanding sonatas. He laid the groundwork for the development of modern sonata form, influencing composers like Haydn and Mozart. His fusion of Italian, Spanish, and Arabic musical elements created a unique, timeless style that still inspires musicians today.
 
