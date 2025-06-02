@@ -13,7 +13,9 @@
 
 ## About
 
+
 | Year | Event |
+| ---- | ----- |
 | 1640 | Born in Calanda, in the region of Aragón, Spain. |
 | 1650s-1660s | Studied Theology and Philosophy at the University of Salamanca. Earned a Bachelor of Theology degree. | 
 | 1660s | Traveled to Italy to study music. Studied Baroque guitar in Rome. |
