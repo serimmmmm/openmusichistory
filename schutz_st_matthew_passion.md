@@ -19,6 +19,11 @@ Heinrich Schütz was a German composer, and Schütz played a very important role
 | 1666 | Matthäus-Passion, SWV 479                | https://youtu.be/w__eUcyHXwU?si=ut2xSdXycLkvdHfv |
 | 1666 | Johannes Passion, SWV 481                | https://youtu.be/dptgsKRqOfc?si=Sd_reUYxY3ZYRUGU | 
 
+## Why Heinrich Schütz?
+
+When I was contemplating which composer to select, I became interested in Schütz upon seeing that most of his works are Protestant music. This is because, as a Christian myself, I became curious about how Schütz expressed 17th-century Protestant faith through his music. It is said that Schütz, a Lutheran, made significant contributions to the development of German Protestant music after the Reformation, particularly by composing oratorios, Passions, motets, and Bible stories based on German biblical texts.
+
+
 ## Sample score
 
 [:headphones:](https://youtu.be/w__eUcyHXwU?si=ut2xSdXycLkvdHfv)
@@ -42,10 +47,6 @@ Heinrich Schütz was a German composer, and Schütz played a very important role
 > - The Beauty of the Voice Itself: Music composed solely of human voices maximizes the independent movement of each part and the beauty of the pure harmony it creates. Focus on how the voices of each part blend and separate to feel the texture of sound that Schütz intended.
 
 "St. Matthew Passion" is one of Schütz's late masterpieces, depicting the Passion story of Jesus Christ. A notable characteristic of this work is that it is performed solely by vocal ensembles without any instrumental accompaniment. Schütz composed this piece while working as the Kapellmeister at the Dresden court. During that time, Germany was facing a difficult period due to the aftermath of the Thirty Years' War (1618-1648). In the context of restricted musical activities, Schütz's Passion oratorios played a crucial role in maintaining the tradition of religious music.
-
-## Why Heinrich Schütz?
-
-When I was contemplating which composer to select, I became interested in Schütz upon seeing that most of his works are Protestant music. This is because, as a Christian myself, I became curious about how Schütz expressed 17th-century Protestant faith through his music. It is said that Schütz, a Lutheran, made significant contributions to the development of German Protestant music after the Reformation, particularly by composing oratorios, Passions, motets, and Bible stories based on German biblical texts.
 
 ## Heinrich Schütz: A Key Figure in 17th-Century German Baroque Music, Father of German Music 
 
