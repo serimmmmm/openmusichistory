@@ -61,4 +61,21 @@ For those interested in the intersection of faith and music, Heinrich Schütz of
 
 **The Descent from the Cross**
 
+## Chronicle of Heinrich Schütz
 
+| Year      | Major Events                                                                                                                    |
+| :-------: | ------------------------------------------------------------------------------------------------------------------------------- |
+| 1585      | Born in Köstritz, Germany, on October 8.                                                                                        |
+| 1599      | Became a choirboy in the court chapel of Landgrave Moritz von Hessen-Kassel.                                                    |
+| 1609      | Traveled to Venice, Italy, to study under Giovanni Gabrieli.                                                                    |
+| 1612      | Returned to Germany after Gabrieli's death.                                                                                     |
+| 1614      | Appointed court organist in Kassel.                                                                                             |
+| 1615      | Appointed Kapellmeister to Elector Johann Georg I at the Dresden court. (Held this position until his death)                    |
+| 1618-1648 | The Thirty Years' War occurred. Faced many difficulties in musical activities during this period.                               |
+| 1628      | Second trip to Italy (Venice). Deeply influenced by Claudio Monteverdi.                                                         |
+| 1629      | Published 《Symphoniae Sacrae, Part 1》.                                                                                         |
+| 1635      | Published 《Musikalische Exequien (Musical Funeral Rites)》.                                                                     |
+| 1648      | The Thirty Years' War concluded.                                                                                                |
+| 1664      | Composed 《Historia der Geburt Christi (The Christmas Story)》.                                                                  |
+| 1666      | Composed 《Matthäus-Passion (St. Matthew Passion)》 and 《Johannes Passion (St. John Passion)》.                                  |
+| 1672      | Died in Dresden on November 6, at the age of 87. |
