@@ -49,6 +49,13 @@ Unlike his father, Domenico devoted much of his career to **instrumental music**
 | 2:30 – 3:00 | Return of theme in different register                      | Explore register usage and voicing on harpsichord/keyboard             |
 | 3:00 – 3:30 | Final flourish and expressive close                        | Evaluate performance choices: tempo rubato, articulation, touch        |
 
+## Harpsichord
+
+<img src="./harpsichord.jpg" alt="artwork" style="width30%;"  />
+
+The **harpsichord** is a keyboard instrument that was widely used during the Renaissance and Baroque periods. Unlike the modern piano, the harpsichord produces sound by plucking strings with small plectra when keys are pressed. This gives it a bright, crisp, and delicate tone, though it lacks the dynamic range of the piano (i.e., it cannot play louder or softer depending on touch).
+
+
 
 
 ## Why Important
