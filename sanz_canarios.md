@@ -46,6 +46,22 @@ At the Sanz's era, guitar was evolving from a primarily folk instrument to one w
 
 <img src="./gaspar_sanz_score.png" alt="score" width="50%" height="50%"/>
 
+### Listening Guide of ***Canarios***
+
+* **0:00 - Opening Statement**
+   - Bright, brisk tempo with strong rhythmic articulation.
+   - Immediately introduces the hemiola rhythm (alternating between duple and triple feel).
+* **0:15 - Rhythmic Drive and Ornamentation**
+   - Notice the repeating rhythmic cells that create a sense of propulsion.
+   - Ornamentation is essential: trills, mordents, and grace notes add flourish, typical of the Baroque style.
+* **0:30 - Binary Form Structure**
+   - Section A is repeated with slight variations or embellishments (A–A).
+   - Then moves into contrasting Section B, which continues the dance feel but introduces new melodic ideas (B–B).
+* **0:45 - Technique and Conclusion**
+   - Alternation of **punteado** and **rasgueado**.
+   - Guitar acts both as a melodic and rhythmic instrument.
+
+
 ## Why Gaspar Sanz?
 
 Since I have played classical guitar extensively, I still have a strong interest in the works of classical guitarists. However, while studying musicology and the history of Western music, I’ve noticed that classical guitar is rarely included in the main academic discourse. Despite this, classical guitar music has developed continuously, and Gaspar Sanz stands out as one of the most important figures who contributed to the evolution of the classical guitar and Spanish classical music.
