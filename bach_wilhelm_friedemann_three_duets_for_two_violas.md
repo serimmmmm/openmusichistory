@@ -29,6 +29,19 @@ Wilhelm Friedemann Bach's Three Duets for Violas (F. 60-62) showcase a sophistic
 
 In essence, Wilhelm Friedemann Bach was a composer of immense talent, deeply rooted in the Baroque tradition of his father, yet living and composing through a period of profound stylistic upheaval. His music often reflects this tension, combining rigorous counterpoint with the new expressive sensibilities of the Galant and Empfindsamer Stil. His struggles to find a consistent place in this changing musical world contributed to his relative obscurity compared to other family members, despite his undeniable genius.
 
+## Timeline of Wilhelm Fridemann Bach
+
+| Year | timeline | 
+| ---- | ----- |
+| 1710 | Born in Weimar |
+| 1729 | Matriculated at Leipzig University |
+| 1733 | Appointed organist to the Church of St. Sophia in Dresden |
+| 1746 | Moved to the Liebfrauenkirche at Halle |
+| 1750 | Death of his father, J.S.Bach |
+| 1751 | Married with Dorothea Elisabeth Georgi |
+| 1764 | Resigned his post in Halle as his dissatisfaction grew |
+| 1754 | Died in Berlin |
+
 
 ## List of important works
 
