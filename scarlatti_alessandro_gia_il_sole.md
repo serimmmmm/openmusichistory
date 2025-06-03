@@ -45,8 +45,7 @@ In 1684, he took a significant position as maestro di cappella at the court of t
 | 1707 | Il Mitridate Eupatore | [Listen](https://youtu.be/S2axvtlURCU?si=aN0e1uxjiMFJptdn) |
 | 1721 | Griselda              | [Listen](https://youtu.be/k4Nef6XL9mA?si=nzlFHLefP8tyhugx) |
 
-### Gia il sole dal Gange ###
-
+## Gia il sole dal Gange ##
 *「Gia il sole dal Gange」* originates from his second opera, *L'onestà negli amori*, which premiered on February 3, 1680, at the Palazzo Bernini theater in Rome. At the time, Scarlatti was only 19 years old, and this aria is considered one of the most representative works of his early compositional talent and expressive sensitivity.
 
 The piece describes the rising sun over the Ganges River, and is characterized by its bright, cheerful mood, lively melody, and refined emotional nuance—all hallmarks of the Baroque style. It is most commonly performed as **a soprano solo aria** and, though brief, it is frequently included in vocal recitals due to its beautiful melodic lines and the vocal agility it demands, making it a favorite in the Baroque vocal repertoire.
