@@ -14,6 +14,7 @@
 - Gia il sole dal Gange
 - Why Important
 
+## About Alessandro Scarlatti
 **Alessandro Scarlatti** (1660–1725) is an Italian composer who played a crucial role in establishing the Neapolitan opera tradition during **the Baroque period**, a time when music was becoming increasingly expressive, ornate, and structured around contrast and drama. He codified **the da capo aria**, which became central to Baroque **vocal music** and served as a structural model for arias throughout the 18th century. Scarlatti composed over 600 cantatas that remain essential for the study of the period, reflecting the Baroque interest in emotional expression, formal clarity, and vocal virtuosity.
 
 His influence extended beyond his own work through his son, [Domenico Scarlatti](scarlatti_domenico_keyboard_sonata_k80.md), who became a renowned composer in his own right. The elder Scarlatti’s mastery of vocal and dramatic forms helped shape Domenico’s early musical education, laying the foundation for his later innovations in **keyboard music**.
