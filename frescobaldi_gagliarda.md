@@ -1,5 +1,7 @@
 # Girolamo Frescobaldi (1583–1643)
 <img src="frescobaldi.jpg" alt="portrait" style="width:25%;" />
+
+Credit: Portrait of Frescobaldi by Claude Mellan, 1619, Public Domain, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Girolamo_Frescobaldi_(1583-1643),_engraving_by_Claude_Mellan_(1619).jpg)
  
 **Italian composer**, 
 I briefly studied **Frescobaldi** in a first-year university class. He is a **lesser-known composer**, but when I listened to his music, I found it incredibly captivating. What I found even more intriguing was the fact that the **great composer Bach** also **studied and transcribed Frescobaldi's music.** Since Frescobaldi contributed greatly to the development of keyboard music, I am eager to explore his life and works in more detail.
@@ -41,7 +43,8 @@ When listening to Frescobaldi’s music, focus on the **flexible tempo** and del
 
 ## Instrument Used During This Period
 <img src="cembalo_png.png" alt="portrait" style="width:50%;" />
-Harpsichord
+
+Credit: An image of harpsichord created by ChatGPT 4o, Jun 3, 2025, 11:54:04 AM, with the prompt "Create an image of harpsichord used during the period of Girolamo Frescobaldi (1583–1643)."
 
 ## About Frescobaldi
 **Girolamo Frescobaldi (1583-1643)** was a **pioneering figure of expressive freedom** in early Baroque music. He is particularly known for his use of **flexible tempo**, a significant departure from the strict musical practices of the time. Born in **Ferrara, Italy**, Frescobaldi gained fame during his lifetime and expanded his influence as the **organist at St. Peter's Basilica in Rome.**
@@ -56,7 +59,7 @@ The early Baroque era, during which Frescobaldi was active, was a period that mo
 
 <img src="the_calling_of_saint_matthew_png.png" alt="portrait" style="width:60%;" />
 
-The Calling of Saint Matthew
+Credit: *The Calling of Saint Matthew* by Caravaggio, 1600, Public Domain, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg)
 
 [**Claudio Monteverdi**](monteverdi_lincoronazione_di_poppea.md)(1567-1643) is an important contemporary composer to consider alongside Girolamo Frescobaldi. While there is no evidence of direct interaction between the two, they share a strong musical connection through the concept of **seconda pratica**, which emphasized **expressive freedom.**. Monteverdi applied this approach to **vocal music** by prioritizing emotion and the meaning of the text, while Frescobaldi extended it to **instrumental music**—particularly keyboard works—through **free rhythm** and **bold harmonic shifts**. Each played a key role in expanding the expressive range of Baroque music, embodying the aesthetic ideals of their time in **distinct yet complementary ways**.
 
