@@ -27,8 +27,10 @@ In conclusion, Henry Purcell's music is characterized by its originality, techni
 | c.1690s     | Prolifically composed incidental music for plays, odes, and other vocal and instrumental works. Notable theatrical works include **King Arthur** and **The Fairy-Queen**. |
 | c.1695 | Died on November 21, 1695, at his house in Westminster, likely around age 36. He was buried in Westminster Abbey. |
 
+## Barbara Villiers, Duchess of Cleveland, as St. Catherine of Alexandria
+<img src="./peter.JPG" alt="portrait" style="width:45%;" />
 
-Sir Peter Lely's "Barbara Villiers, Duchess of Cleveland, as St. Catherine of Alexandria" showcases the opulence of Charles II's court. Barbara Villiers was one of the most influential mistresses of the king at the time. The portrait, disguised as a saint, is an attempt to idealize the inner aspects of the person. It reflects the trend of Baroque-era portraiture, idealizing the subject. This piece highlights the status and visibility of mistresses within the court. It serves as a prime example of the prevailing trends in Baroque portraiture. Alongside Purcell's music, it offers a glimpse into the artistic tastes of the upper class of that era.
+Sir Peter Lely's **Barbara Villiers, Duchess of Cleveland, as St. Catherine of Alexandria** showcases the opulence of Charles II's court. Barbara Villiers was one of the most influential mistresses of the king at the time. The portrait, disguised as a saint, is an attempt to idealize the inner aspects of the person. It reflects the trend of Baroque-era portraiture, idealizing the subject. This piece highlights the status and visibility of mistresses within the court. It serves as a prime example of the prevailing trends in Baroque portraiture. Alongside Purcell's music, it offers a glimpse into the artistic tastes of the upper class of that era.
 
 
 ## List of Inportant Works
