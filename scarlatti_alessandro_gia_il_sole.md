@@ -4,13 +4,7 @@
 
 <img src="./scarlatti_alessandro_portrait.png" alt="portrait" style="width:30%;" />
 
-Credit: Portrait of Scarlatti by Unknown, 17-18th century, Public Domain, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alessandro_Scarlatti.png)
-
-credit: an image of asdf created by chatGPT , 4o,JUn3, 2025, 11:%4:04 AM, with the prompt ""
-
-> ### ***The Architect of Neapolitan Opera: Alessandro Scarlatti’s Enduring Influence***
-
-<img src="./scarlattialessandro.jpg" alt="portrait" style="width:30%;" />
+Credit: Portrait of Scarlatti by Unknown, 17-18th Century, Public Domain, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alessandro_Scarlatti.png)
 
 > ### Learning Objectives
 > By reading this article, readers will gain an understanding of Alessandro Scarlatti’s foundational role in shaping Neapolitan opera and Baroque vocal music. They will be able to identify key features of the Baroque style through his works, grasp the structure and importance of the *da capo aria*, and appreciate how his innovations influenced later composers such as Handel, Mozart, and Haydn. Special attention is given to *Gia il sole dal Gange*, which serves as a gateway to understanding Scarlatti’s expressive voice and enduring legacy.
@@ -20,7 +14,7 @@ credit: an image of asdf created by chatGPT , 4o,JUn3, 2025, 11:%4:04 AM, with t
 - [Life Story](#life-story)
 - [List of Important Works](#list-of-important-works)
 - [Gia il sole dal Gange](#gia-il-sole-dal-gange)
-- [Why Important](#why_important)
+- [Why Important](#why-important)
 
 ## About Alessandro Scarlatti
 **Alessandro Scarlatti** (1660–1725) is an Italian composer who played a crucial role in establishing the Neapolitan opera tradition during **the Baroque period**, a time when music was becoming increasingly expressive, ornate, and structured around contrast and drama. He codified **the da capo aria**, which became central to Baroque **vocal music** and served as a structural model for arias throughout the 18th century. Scarlatti composed over 600 cantatas that remain essential for the study of the period, reflecting the Baroque interest in emotional expression, formal clarity, and vocal virtuosity.
@@ -67,6 +61,7 @@ The piece describes the rising sun over the Ganges River, and is characterized b
 * Violin, viola (string instruments)
  
 <img src="./giailsole_stringimage.jpg" alt="score" style="width:20%;" />
+Credit: An Image of asdf created by chatGPT , 4o,JUn3, 2025, 11:%4:04 AM, with the prompt ""
 
 * Harpsichord, cello or viola da gamba (basso continuo)
 
