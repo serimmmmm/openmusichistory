@@ -11,9 +11,6 @@ Purcell's contribution to theatre music was also immensely significant. He creat
 
 In conclusion, Henry Purcell's music is characterized by its originality, technical mastery, and exceptional emotional expressiveness. He built upon the traditions of English music while creatively incorporating the new currents of the Baroque period to establish his own unique and unparalleled style.
 
-
-
-
 ## A Timeline of His Life
 
 | Year | Contents |
@@ -31,6 +28,7 @@ In conclusion, Henry Purcell's music is characterized by its originality, techni
 | c.1695 | Died on November 21, 1695, at his house in Westminster, likely around age 36. He was buried in Westminster Abbey. |
 
 
+Sir Peter Lely's "Barbara Villiers, Duchess of Cleveland, as St. Catherine of Alexandria" showcases the opulence of Charles II's court. Barbara Villiers was one of the most influential mistresses of the king at the time. The portrait, disguised as a saint, is an attempt to idealize the inner aspects of the person. It reflects the trend of Baroque-era portraiture, idealizing the subject. This piece highlights the status and visibility of mistresses within the court. It serves as a prime example of the prevailing trends in Baroque portraiture. Alongside Purcell's music, it offers a glimpse into the artistic tastes of the upper class of that era.
 
 
 ## List of Inportant Works
@@ -75,7 +73,7 @@ This piece was composed by the English composer Henry Purcell in 1695 as part of
 
 ### Instruments Used
 <img src="./ins.JPG" alt="portrait" style="width:45%;" />
-<img src="./string.JPG" alt="portrait" style="width:45%;" />
+<img src="./string.PNG" alt="portrait" style="width:45%;" />
 Originally composed for a theater music ensemble of the late 17th century, it uses string, woodwind, and brass instruments. It is now performed and arranged in various instrumentations.
 
 *   **String Instruments:** Violin, viola, cello, double bass, etc.
