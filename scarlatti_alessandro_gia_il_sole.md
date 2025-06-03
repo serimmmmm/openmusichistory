@@ -52,7 +52,7 @@ In 1684, he took a significant position as maestro di cappella at the court of t
 
 The piece describes the rising sun over the Ganges River, and is characterized by its bright, cheerful mood, lively melody, and refined emotional nuance—all hallmarks of the Baroque style. It is most commonly performed as **a soprano solo aria** and, though brief, it is frequently included in vocal recitals due to its beautiful melodic lines and the vocal agility it demands, making it a favorite in the Baroque vocal repertoire.
 
-[Gia il sole dal Gange](https://youtu.be/7XlRplcM3X8?si=uT1w7Tt-SM9_DY1x)
+[Gia il sole dal Gange](https://youtu.be/PQV4d_Peux0?si=B6UEE0s1P5FqAvAi)
 
 <img src="./giailsole_score.png" alt="score" style="width:94%;" />
 
@@ -60,8 +60,8 @@ The piece describes the rising sun over the Ganges River, and is characterized b
 * Voice: Usually a soprano or tenor (high vocal range) soloist
 * String Orchestra: Consisting of violins, violas, cellos, and double basses, forming a four-part string section for the accompaniment
 
-<img src="./scarlatti_string_image.png" alt="score" style="width:20%;" />
-Credit: An image of violin, viola created by Gemini, Jun 3, 2025, 12:32 PM, with the prompt "creat an image of the violin, viola (string instruments) simply."
+<img src="./scarlatti_alessandro_strings.png" alt="score" style="width:20%;" />
+Credit: An image of string orchestra created by Gemini, Jun 3, 2025, 12:46 PM, with the prompt "creat an image of string orchestra instruments."
 [Back to TOC](#table-of-contents)
 
 ## Why Important
