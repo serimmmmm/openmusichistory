@@ -14,6 +14,7 @@
 - Notice how Purcell uses **text painting** to enhance the meaning of the lyrics.
 - Focus on how **musical elements reflect dramatic tension and emotion**.
 
+<img src="./didoandaeneas (2).png" alt="portrait" stylr="width:69%;" />
 
 | Year | Event |
 |------|-------|
@@ -55,7 +56,7 @@ Although he died young, Purcell’s work became a symbol of English musical iden
 
 
 
-
+<img src="./didoandaeneas (1).png" alt="portrait" stylr="width:%;" />
 
 
 
