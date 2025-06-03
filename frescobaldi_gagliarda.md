@@ -43,7 +43,8 @@ When listening to Frescobaldi’s music, focus on the **flexible tempo** and del
 
 ## Instrument Used During This Period
 <img src="cembalo_png.png" alt="portrait" style="width:50%;" />
-Harpsichord
+
+Credit: An image of harpsichord created by ChatGPT 4o, Jun 3, 2025, 11:54:04 AM, with the prompt "Create an image of harpsichord used during the period of Girolamo Frescobaldi (1583–1643)."
 
 ## About Frescobaldi
 **Girolamo Frescobaldi (1583-1643)** was a **pioneering figure of expressive freedom** in early Baroque music. He is particularly known for his use of **flexible tempo**, a significant departure from the strict musical practices of the time. Born in **Ferrara, Italy**, Frescobaldi gained fame during his lifetime and expanded his influence as the **organist at St. Peter's Basilica in Rome.**
