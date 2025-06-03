@@ -4,6 +4,14 @@
 
 (Credit: Image that might be a portrait of Gaspar Sanz, from *Instrucción de Música sobre la Guitarra Española's dedication page*)
 
+## Table of Contents
+- [Something to Think about](#something-to-think-about)
+- [About Gaspar Sanz](#about-gaspar-sanz)
+- [Historical Context and Importance](#historical-context-and-importance)
+- [List of Important Works](#list-of-important-works)
+- [Listening Guide of *Canarios*](#listening-guide-of-canarios)
+- [Why Gaspar Sanz?](#why-gaspar-sanz)
+
 ## Something to Think about
 
 1. How did Gaspar Sanz contribute to the transformation of the guitar from a folk instrument to an accepted instrument in art music?
@@ -11,7 +19,7 @@
 3. Does Sanz Represent the Essence of Spanish Baroque Culture?
 4. How did Sanz’s pedagogical works influence the development of guitar instruction and repertoire?
 
-## About
+## About Gaspar Sanz
 
 
 | Year | Event |
