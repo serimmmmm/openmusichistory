@@ -19,7 +19,7 @@ credit: an image of asdf created by chatGPT , 4o,JUn3, 2025, 11:%4:04 AM, with t
 - [About Alessandro Scarlatti](#about-alessandro-scarlatti)
 - [Life Story](#life-story)
 - [List of Important Works](#list-of-important-works)
-- [Gia il sole dal Gange](#gia-il-sole-dal-gange))
+- [Gia il sole dal Gange](#gia-il-sole-dal-gange)
 - [Why Important](#why_important)
 
 ## About Alessandro Scarlatti
