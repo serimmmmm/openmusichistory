@@ -7,6 +7,13 @@
 > ### Learning Objectives
 > By reading this article, readers will gain an understanding of Alessandro Scarlatti’s foundational role in shaping Neapolitan opera and Baroque vocal music. They will be able to identify key features of the Baroque style through his works, grasp the structure and importance of the *da capo aria*, and appreciate how his innovations influenced later composers such as Handel, Mozart, and Haydn. Special attention is given to *Gia il sole dal Gange*, which serves as a gateway to understanding Scarlatti’s expressive voice and enduring legacy.
 
+## Table of Contents
+- [About Alessandro Scarlatti](*about-alessandro-scarlatti)
+- [Life Story](*life-story)
+- [List of Important Works](*list-of-important-works)
+- Gia il sole dal Gange
+- Why Important
+
 **Alessandro Scarlatti** (1660–1725) is an Italian composer who played a crucial role in establishing the Neapolitan opera tradition during **the Baroque period**, a time when music was becoming increasingly expressive, ornate, and structured around contrast and drama. He codified **the da capo aria**, which became central to Baroque **vocal music** and served as a structural model for arias throughout the 18th century. Scarlatti composed over 600 cantatas that remain essential for the study of the period, reflecting the Baroque interest in emotional expression, formal clarity, and vocal virtuosity.
 
 His influence extended beyond his own work through his son, [Domenico Scarlatti](scarlatti_domenico_keyboard_sonata_k80.md), who became a renowned composer in his own right. The elder Scarlatti’s mastery of vocal and dramatic forms helped shape Domenico’s early musical education, laying the foundation for his later innovations in **keyboard music**.
