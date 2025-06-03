@@ -1,6 +1,34 @@
 # Henry Purcell (1659-1695)
 <img src="./henrypurcell.jpg" alt="portrait" stylr="width:60%;" />
 
+## 🎯 Learning Objectives
+
+- Learn about the **Baroque period**, including its historical and musical characteristics.
+- Understand the **life and work of Henry Purcell**, one of the leading English Baroque composers.
+- Explore and analyze **Purcell’s music**, with a focus on expression, form, and instrumentation.
+
+### 🎼 Listening Tips
+
+- Pay attention to the use of **ground bass (basso ostinato)** in emotional scenes.
+- Observe the contrast between **solo arias**, **choruses**, and **instrumental passages**.
+- Notice how Purcell uses **text painting** to enhance the meaning of the lyrics.
+- Focus on how **musical elements reflect dramatic tension and emotion**.
+
+
+| Year | Event |
+|------|-------|
+| 1659 | Henry Purcell was born in London |
+| 1664 | Joined the Chapel Royal as a choirboy |
+| 1673 | Began apprenticeship as tuner of Westminster Abbey’s organ |
+| 1677 | Appointed composer for the King’s string orchestra |
+| 1679 | Became organist at Westminster Abbey |
+| 1682 | Appointed organist of the Chapel Royal |
+| 1689 | Premiered the opera *Dido and Aeneas* |
+| 1695 | Died and was buried in Westminster Abbey |
+
+
+
+
  Henry Purcell is British composer. Henry Purcell Britishized elements of Italian and French music to create his own creative original works. I want to create my own original music world like Henry Purcell. 
  
  Henry Purcell composed Theatre music the most. He also composed Opera and Sacred music. He was good at expressing emotions through melody and harmony. His aria “Dido’s Lament” from Dido and Aeneas is widely recognized for its emotional depth and is a hallmark of his style. Purcell died at the young age of 36, but he left behind a vast and diverse body of work. He worked as a court musician, composing prolifically during his short life.
