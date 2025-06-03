@@ -4,7 +4,16 @@
 **Italian composer**, 
 I briefly studied **Frescobaldi** in a first-year university class. He is a **lesser-known composer**, but when I listened to his music, I found it incredibly captivating. What I found even more intriguing was the fact that the **great composer Bach** also **studied and transcribed Frescobaldi's music.** Since Frescobaldi contributed greatly to the development of keyboard music, I am eager to explore his life and works in more detail.
 
-## Frescobaldi's life
+## Table of Contents
+- [Frescobaldi's Life](#frescobaldis-life)
+- List of Important Works
+- [Listening Guide](#listening-guide)
+- Excerpt from Frescobaldi's Music
+- [Instrument Used During This Period](#instrument-used-during-this-period)
+- About Frescobaldi
+- Artworks from This Period
+
+## Frescobaldi's Life
 | Year | Key Events and Activities                              |
 |-------|------------------------------------------------------|
 | 1583  | Born in Ferrara, Italy                                |
@@ -24,14 +33,15 @@ I briefly studied **Frescobaldi** in a first-year university class. He is a **le
 | 1630 | Arie Musical | [listen](https://youtu.be/Dn5l7ljj8N4?si=ivOeW8If4QkaWZIf) |
 | unknown | Gagliarda in G Major | [listen](https://youtu.be/06hfLezeP1E?feature=shared) |
 
-## When listening to Frescobaldi’s music,
-Focus on the **flexible tempo** and delicate emotional expression. His music values the flow and atmosphere more than strict formal rules, so it’s essential to notice how rhythms and harmonies change to create **tension and relaxation**. One of the appealing aspects of Frescobaldi’s music is the **contrapuntal elements**, where independent melodies interact and weave together to form rich musical conversations. Overall, the music showcases the deep emotion and expressiveness typical of the Baroque era, so pay close attention to the subtle nuances and improvisational feel in every note.
+## Listening Guide
+When listening to Frescobaldi’s music, focus on the **flexible tempo** and delicate emotional expression. His music values the flow and atmosphere more than strict formal rules, so it’s essential to notice how rhythms and harmonies change to create **tension and relaxation**. One of the appealing aspects of Frescobaldi’s music is the **contrapuntal elements**, where independent melodies interact and weave together to form rich musical conversations. Overall, the music showcases the deep emotion and expressiveness typical of the Baroque era, so pay close attention to the subtle nuances and improvisational feel in every note. [[Back to TOC]](#table-of-contents)
 
-## Frescobaldi's Music Sheet
+## Excerpt from Frescobaldi's Music
 <img src="Gagliarda in G minor.png">
 
+## Instrument Used During This Period
 <img src="cembalo_png.png" alt="portrait" style="width:50%;" />
-The instrument played during Frescobaldi’s time: the harpsichord.
+Harpsichord
 
 ## About Frescobaldi
 **Girolamo Frescobaldi (1583-1643)** was a **pioneering figure of expressive freedom** in early Baroque music. He is particularly known for his use of **flexible tempo**, a significant departure from the strict musical practices of the time. Born in **Ferrara, Italy**, Frescobaldi gained fame during his lifetime and expanded his influence as the **organist at St. Peter's Basilica in Rome.**
@@ -42,8 +52,11 @@ Frescobaldi's musical ideas .**profoundly impacted later composers.**, notably .
 
 The early Baroque era, during which Frescobaldi was active, was a period that moved away from the balanced music of the Renaissance towards a pursuit of .**more dramatic and emotional expression.**. Within this historical context, Frescobaldi's .**flexible tempo.** served as a vital element in conveying musical emotions with greater subtlety. Especially in the realm of .**keyboard music.**, he pioneered new expressive territories through .**improvisation.** and experimentation with .**free forms.**. His music significantly influenced not only his Italian contemporaries but also musicians in .**Northern Europe.**, laying a crucial foundation for the development of Baroque keyboard music. Frescobaldi's .**innovative endeavors** paved the way for subsequent composers to employ a freer and more diverse musical language.
 
-## Artworks from this period, The Calling of Saint Matthew
+## Artworks from This Period
+
 <img src="the_calling_of_saint_matthew_png.png" alt="portrait" style="width:60%;" />
+
+The Calling of Saint Matthew
 
 [**Claudio Monteverdi**](monteverdi_lincoronazione_di_poppea.md)(1567-1643) is an important contemporary composer to consider alongside Girolamo Frescobaldi. While there is no evidence of direct interaction between the two, they share a strong musical connection through the concept of **seconda pratica**, which emphasized **expressive freedom.**. Monteverdi applied this approach to **vocal music** by prioritizing emotion and the meaning of the text, while Frescobaldi extended it to **instrumental music**—particularly keyboard works—through **free rhythm** and **bold harmonic shifts**. Each played a key role in expanding the expressive range of Baroque music, embodying the aesthetic ideals of their time in **distinct yet complementary ways**.
 
