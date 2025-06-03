@@ -34,7 +34,7 @@ I briefly studied **Frescobaldi** in a first-year university class. He is a **le
 | unknown | Gagliarda in G Major | [listen](https://youtu.be/06hfLezeP1E?feature=shared) |
 
 ## Listening Guide
-When listening to Frescobaldi’s music, focus on the **flexible tempo** and delicate emotional expression. His music values the flow and atmosphere more than strict formal rules, so it’s essential to notice how rhythms and harmonies change to create **tension and relaxation**. One of the appealing aspects of Frescobaldi’s music is the **contrapuntal elements**, where independent melodies interact and weave together to form rich musical conversations. Overall, the music showcases the deep emotion and expressiveness typical of the Baroque era, so pay close attention to the subtle nuances and improvisational feel in every note. [Back to TOC](#table-of-contents)
+When listening to Frescobaldi’s music, focus on the **flexible tempo** and delicate emotional expression. His music values the flow and atmosphere more than strict formal rules, so it’s essential to notice how rhythms and harmonies change to create **tension and relaxation**. One of the appealing aspects of Frescobaldi’s music is the **contrapuntal elements**, where independent melodies interact and weave together to form rich musical conversations. Overall, the music showcases the deep emotion and expressiveness typical of the Baroque era, so pay close attention to the subtle nuances and improvisational feel in every note. [[Back to TOC]](#table-of-contents)
 
 ## Excerpt from Frescobaldi's Music
 <img src="Gagliarda in G minor.png">
