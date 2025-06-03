@@ -56,7 +56,7 @@ Although he died young, Purcell’s work became a symbol of English musical iden
 
 
 
-<img src="./didoandaeneas (1).png" alt="portrait" stylr="width:%;" />
+<img src="./didoandaeneas.png" alt="portrait" stylr="width:60%;" />
 
 
 
