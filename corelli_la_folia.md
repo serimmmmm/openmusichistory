@@ -99,7 +99,7 @@ By the end of this guide, learners will be able to:
 **Violone / Cello**  
 - Offered bass line support in trio sonatas and concerti.
 
-![Baroque Instruments](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Baroque_violin_and_bow.jpg/640px-Baroque_violin_and_bow.jpg)  
+![Baroque Instruments](./violin.jpg)  
 *Baroque violin and bow*
 
 ---
