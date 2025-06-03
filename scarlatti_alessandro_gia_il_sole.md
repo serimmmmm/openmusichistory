@@ -8,9 +8,9 @@
 > By reading this article, readers will gain an understanding of Alessandro Scarlatti’s foundational role in shaping Neapolitan opera and Baroque vocal music. They will be able to identify key features of the Baroque style through his works, grasp the structure and importance of the *da capo aria*, and appreciate how his innovations influenced later composers such as Handel, Mozart, and Haydn. Special attention is given to *Gia il sole dal Gange*, which serves as a gateway to understanding Scarlatti’s expressive voice and enduring legacy.
 
 ## Table of Contents
-- [About Alessandro Scarlatti](*about-alessandro-scarlatti)
-- [Life Story](*life-story)
-- [List of Important Works](*list-of-important-works)
+- [About Alessandro Scarlatti](#about-alessandro-scarlatti)
+- [Life Story](#life-story)
+- [List of Important Works](#list-of-important-works)
 - Gia il sole dal Gange
 - Why Important
 
