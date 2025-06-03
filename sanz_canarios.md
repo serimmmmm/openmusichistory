@@ -18,6 +18,7 @@
 2. In what ways did Sanz’s musical training in Italy shape his compositional voice and pedagogical methods?
 3. Does Sanz Represent the Essence of Spanish Baroque Culture?
 4. How did Sanz’s pedagogical works influence the development of guitar instruction and repertoire?
+[Back to TOC](#table-of-contents)
 
 ## About Gaspar Sanz
 
@@ -40,9 +41,13 @@ In his pedagogical writings, Sanz detailed two main guitar playing techniques: *
 
 Prior to Sanz’s contributions, there were few published musical works in Spain. His publications laid the groundwork for the Baroque guitar repertoire and had a lasting influence on Spanish classical music. Today, his works remain a fundamental part of classical guitar education and performance.
 
+[Back to TOC](#table-of-contents)
+
 ## Historical Context and Importance
 
 At the Sanz's era, guitar was evolving from a primarily folk instrument to one with a legitimate place in court and art music. Sanz’s three pedagogical volumes, published between 1674 and 1697, reflect this transition. They not only teach guitar technique but also preserve a wide variety of Spanish and Italian dance forms, such as the **folía**, **canarios**, and **jácaras—genres** that were popular in both aristocratic and popular settings. Sanz's use of tablature and the detailed explanation of playing techniques like rasgueado and punteado show his intent to systematize and elevate the guitar’s role in art music. By codifying these methods, Sanz helped establish a technical and stylistic foundation that would influence later classical guitarists and Spanish composers.
+
+[Back to TOC](#table-of-contents)
    
 ## List of Important Works
 
@@ -53,6 +58,8 @@ At the Sanz's era, guitar was evolving from a primarily folk instrument to one w
 | 1697 | Libro tercero de mùsica de cifras sobre la guitarra española | [Listen]() |
 
 <img src="./gaspar_sanz_score.png" alt="score" width="50%" height="50%"/>
+
+[Back to TOC](#table-of-contents)
 
 ### Listening Guide of ***Canarios***
 
@@ -68,6 +75,8 @@ At the Sanz's era, guitar was evolving from a primarily folk instrument to one w
 * **0:45 - Technique and Conclusion**
    - Alternation of **punteado** and **rasgueado**.
    - Guitar acts both as a melodic and rhythmic instrument.
+ 
+[Back to TOC](#table-of-contents)
 
 
 ## Why Gaspar Sanz?
@@ -75,3 +84,5 @@ At the Sanz's era, guitar was evolving from a primarily folk instrument to one w
 Since I have played classical guitar extensively, I still have a strong interest in the works of classical guitarists. However, while studying musicology and the history of Western music, I’ve noticed that classical guitar is rarely included in the main academic discourse. Despite this, classical guitar music has developed continuously, and Gaspar Sanz stands out as one of the most important figures who contributed to the evolution of the classical guitar and Spanish classical music.
 
 Sanz is best known for his three pedagogical works, which laid the foundation for many aspects of modern guitar technique and notation. These works introduced key playing styles such as rasgueado and punteado, as well as the use of tablature and an alphabet-based chord system similar to the modern Nashville Number System. Remarkably, his compositions remain a frequently performed part of the classical guitar repertoire even today.
+
+[Back to TOC](#table-of-contents)
