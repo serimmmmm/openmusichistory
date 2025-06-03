@@ -57,18 +57,12 @@ The piece describes the rising sun over the Ganges River, and is characterized b
 <img src="./giailsole_score.png" alt="score" style="width:94%;" />
 
 **Instrumentation:**
-* Solo soprano
-* Violin, Viola (string instruments)
+* Voice: Usually a soprano or tenor (high vocal range) soloist
+* String Orchestra: Consisting of violins, violas, cellos, and double basses, forming a four-part string section for the accompaniment
 
 <img src="./scarlatti_string_image.png" alt="score" style="width:20%;" />
 Credit: An image of violin, viola created by Gemini, Jun 3, 2025, 12:32 PM, with the prompt "creat an image of the violin, viola (string instruments) simply."
-
-* Harpsichord, Cello or Viola da Gamba (basso continuo)
-
-<img src="./giailsole_harpsichordimage.jpg" alt="score" style="width:20%;" /> <img src="./giailsole_violadagambaimage.jpg" alt="score" style="width:20%;" />
-Credit: An image of harpsichord, cello and viola da gamba created by Gemini, Jun 3, 2025, 12:32 PM, with the prompt "creat an image of the violin, viola (string instruments) simply."
-
-* (Optional) Recorder, Oboe (woodwind instruments) [Back to TOC](#table-of-contents)
+[Back to TOC](#table-of-contents)
 
 ## Why Important
 His work laid the foundation for **Classical opera**, and his techniques in **orchestration**—particularly his use of instrumental color and texture—significantly influenced the development of later symphonic writing. Scarlatti’s music reflects the larger **Baroque** emphasis on emotional depth, formal structure, and contrasts between solo and ensemble textures. He was also a central figure in the evolution of **recitative and aria** forms, which would become standard in opera for the next century.
