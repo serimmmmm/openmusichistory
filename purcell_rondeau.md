@@ -74,7 +74,8 @@ This piece was composed by the English composer Henry Purcell in 1695 as part of
 *   **Britten's Use:** Benjamin Britten composed a piece based on this theme to introduce the instruments of the orchestra, making it educationally significant.
 
 ### Instruments Used
-
+<img src="./ins.JPG" alt="portrait" style="width:45%;" />
+<img src="./string.JPG" alt="portrait" style="width:45%;" />
 Originally composed for a theater music ensemble of the late 17th century, it uses string, woodwind, and brass instruments. It is now performed and arranged in various instrumentations.
 
 *   **String Instruments:** Violin, viola, cello, double bass, etc.
