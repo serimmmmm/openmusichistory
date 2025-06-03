@@ -59,14 +59,14 @@ The piece describes the rising sun over the Ganges River, and is characterized b
 **Instrumentation:**
 * Solo soprano
 * Violin, Viola (string instruments)
- 
+
 <img src="./scarlatti_string_image.png" alt="score" style="width:20%;" />
 Credit: An image of violin, viola created by Gemini, Jun 3, 2025, 12:32 PM, with the prompt "creat an image of the violin, viola (string instruments) simply."
 
 * Harpsichord, Cello or Viola da Gamba (basso continuo)
 
 <img src="./giailsole_harpsichordimage.jpg" alt="score" style="width:20%;" /> <img src="./giailsole_violadagambaimage.jpg" alt="score" style="width:20%;" />
-Credit: An image of asdf created by Gemini, Jun 3, 2025, 12:32 PM, with the prompt "creat an image of the violin, viola (string instruments) simply."
+Credit: An image of harpsichord, cello and viola da gamba created by Gemini, Jun 3, 2025, 12:32 PM, with the prompt "creat an image of the violin, viola (string instruments) simply."
 
 * (Optional) Recorder, Oboe (woodwind instruments) [Back to TOC](#table-of-contents)
 
