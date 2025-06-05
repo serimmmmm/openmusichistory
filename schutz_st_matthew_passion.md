@@ -83,12 +83,14 @@ For those interested in the intersection of faith and music, Heinrich Schütz of
 
 ## Instruments Used During This Period 
 
+<img src="./violadagamba.png" alt="violadagamba" width="200" height="330" /> <img src="./harpsichord.png" alt="harpsichord" width="300" height="200" />
 
+<ins>Viola da gamba and harpsichord used in the Baroque period</ins>
 
 ## Artworks from This Period
 
 <img src="./rubens.png" alt="rubens" style="width:25%;" />
 
-**The Descent from the Cross**
+<ins>The Descent from the Cross</ins>
 
 
