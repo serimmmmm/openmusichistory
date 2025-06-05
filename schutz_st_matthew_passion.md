@@ -14,7 +14,7 @@ When I was contemplating which composer to select, I became interested in Schüt
 - List of Important Works
 - Excerpt from Schütz's Music
 - Listening Guide
-- Instrument Used During This Period
+- Instruments Used During This Period
 - Artworks from This Period
 
 ## Learning Objects
@@ -69,19 +69,19 @@ For those interested in the intersection of faith and music, Heinrich Schütz of
 >
 >  When listening to this piece, focus on the following three aspects.
 > 
->> 1. **The 'Passion' as Storytelling**
+> 1. **The 'Passion' as Storytelling**
 > - Role of the Evangelist: Follow the Evangelist's voice and concentrate on how the biblical story unfolds. It's important to perceive how changes in his vocal tone or the flow of the melody express the tension and emotions of the narrative.
 > - Dialogue of the Characters: The lines of other characters, such as Jesus, Pilate, and Peter, are expressed by parts of the choir or by solo singers. Since each character's dialogue is presented briefly and clearly, it's enjoyable to distinguish who is saying what.
->> 2. **The Versatility of A Cappella Choirs**
+> 2. **The Versatility of A Cappella Choirs**
 > - Crowd Choirs (Turbae): The voices of the crowd, mocking Jesus or shouting "Crucify him!", are depicted with great dynamism and intensity. Imagine the crowd psychology and atmosphere of the time as you listen. Schütz maximizes the dramatic effect in these sections through changes in tempo and dynamics.
 > - Choral work filled with inner reflection: The chorus, appearing at significant turning points or emotional moments in the story, goes beyond simple narration and induces inner reflection in the audience. In this part, focus on the harmony of chords and timbre of the choir, and feel the reverent and contemplative atmosphere that the work intends to convey.
->> 3. **The Aesthetics of Silence and Space**
+> 3. **The Aesthetics of Silence and Space**
 > - The Meaning of Empty Space: The absence of instrumental accompaniment sometimes creates moments of 'silence,' where there is no sound. Pay attention to whether this silence makes the subsequent sound more impressive, or adds weight to the emotions of the characters or the dramatic situation.
 > - The Beauty of the Voice Itself: Music composed solely of human voices maximizes the independent movement of each part and the beauty of the pure harmony it creates. Focus on how the voices of each part blend and separate to feel the texture of sound that Schütz intended.
 
 "St. Matthew Passion" is one of Schütz's late masterpieces, depicting **the Passion story of Jesus Christ**. A notable characteristic of this work is that it is performed solely by vocal ensembles without any instrumental accompaniment. Schütz composed this piece while working as the Kapellmeister at the Dresden court. During that time, Germany was facing a difficult period due to the aftermath of the Thirty Years' War (1618-1648). In the context of restricted musical activities, Schütz's Passion oratorios played a crucial role in maintaining the tradition of religious music.
 
-## Instrument Used During This Period 
+## Instruments Used During This Period 
 
 
 
