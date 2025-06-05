@@ -91,6 +91,4 @@ For those interested in the intersection of faith and music, Heinrich Schütz of
 
 <img src="./rubens.png" alt="rubens" style="width:25%;" />
 
-<ins>The Descent from the Cross</ins>
-
-
+<ins>The Descent from the Cross</ins> : A painting by Peter Paul Rubens, depicting the moment Jesus Christ is taken down from the cross.
