@@ -1,6 +1,8 @@
 # Heinrich Schütz(1585-1672)
 
-<img src="./portrait.png" alt="portrait" style="width:25%;" />
+<img src="./schutz portrait.png" alt="schutz portrait" style="width:25%;" />
+
+Credit : Portrait of Schutz by Christoph Spatner, 1660, Public Domain, [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/2/28/Schutz.jpg)
 
 Heinrich Schutz was a German composer, and Schutz played a very important role in the beginning of German Baroque music. He had a profound influence on later German music and is considered a figure who successfully integrated new Italian musical techniques into German music. Schutz was greatly influenced by contemporary Italian masters such as Giovanni Gabrieli and Monteverdi. He fused innovative Italian musical styles, including madrigal techniques and word painting, with the German Lutheran religious music tradition to build his own unique style. In particular, he is sometimes called the 'Father of German Music,' having inspired Johann Sebastian Bach. He went to Venice, Italy for study twice. During his second study trip in 1628, he encountered the music of [Claudio Monteverdi](monteverdi_lincoronazione_di_poppea.md), who was already leading the new trend in Italian music, and was deeply influenced. As a result, he succeeded in successfully fusuing the Italian style into German religious music.
 
