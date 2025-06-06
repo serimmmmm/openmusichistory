@@ -54,13 +54,13 @@ For those interested in the intersection of faith and music, Heinrich Schutz off
 
 ## List of Important Works 
 
-| Year | Works                                    | YouTube                                          |
-| ---- | ---------------------------------------- | ------------------------------------------------ |
-| 1629 | Symphoniae Sacrae, Op.6, SWV 257-276     | https://youtu.be/SqFzrpLFIaU?si=UKlBCj_UZmMoUZEO |
-| 1635 | Musikalische Exequien, Op.7, SWV 279-281 | https://youtu.be/-txG7o-ikt4?si=gQtpYnHdb6w30RhC |
-| 1664 | Historia der Geburt Christi, SWV 435     | https://youtu.be/b30GOw_tbpU?si=WLy2uj6K74f240eZ |
-| 1666 | Matthäus-Passion, SWV 479                | https://youtu.be/w__eUcyHXwU?si=ut2xSdXycLkvdHfv |
-| 1666 | Johannes Passion, SWV 481                | https://youtu.be/dptgsKRqOfc?si=Sd_reUYxY3ZYRUGU | 
+| Year | Works                                    | YouTube                                                    |
+| ---- | ---------------------------------------- | ---------------------------------------------------------- |
+| 1629 | Symphoniae Sacrae, Op.6, SWV 257-276     | [Listen](https://youtu.be/SqFzrpLFIaU?si=UKlBCj_UZmMoUZEO) |
+| 1635 | Musikalische Exequien, Op.7, SWV 279-281 | [Listen](https://youtu.be/-txG7o-ikt4?si=gQtpYnHdb6w30RhC) |
+| 1664 | Historia der Geburt Christi, SWV 435     | [Listen](https://youtu.be/b30GOw_tbpU?si=WLy2uj6K74f240eZ) |
+| 1666 | Matthäus-Passion, SWV 479                | [Listen](https://youtu.be/w__eUcyHXwU?si=ut2xSdXycLkvdHfv) |
+| 1666 | Johannes Passion, SWV 481                | [Listen](https://youtu.be/dptgsKRqOfc?si=Sd_reUYxY3ZYRUGU) | 
 
 [[Back to TOC]](#table-of-contents)
 
