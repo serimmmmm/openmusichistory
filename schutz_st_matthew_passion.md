@@ -90,7 +90,7 @@ For those interested in the intersection of faith and music, Heinrich Schutz off
 
 ## Instruments Used During This Period 
 
-<img src="./violadagamba.png" alt="violadagamba" width="200" height="330" /> <img src="./harpsichord.png" alt="harpsichord" width="300" height="200" />
+<img src="./viola da gamba.png" alt="viola da gamba" width="300" height="330" /> <img src="./gemini harpsichord.png" alt="gemini harpsichord" width="320" height="290" />
 
 <ins>Viola da gamba and harpsichord used in the Baroque period</ins> [[Back to TOC]](#table-of-contents)
 
