@@ -6,7 +6,7 @@ Credit : Portrait of Schutz by Christoph Spatner, 1660, Public Domain, [Wikimedi
 
 Heinrich Schutz was a German composer, and Schutz played a very important role in the beginning of German Baroque music. He had a profound influence on later German music and is considered a figure who successfully integrated new Italian musical techniques into German music. Schutz was greatly influenced by contemporary Italian masters such as Giovanni Gabrieli and Monteverdi. He fused innovative Italian musical styles, including madrigal techniques and word painting, with the German Lutheran religious music tradition to build his own unique style. In particular, he is sometimes called the 'Father of German Music,' having inspired Johann Sebastian Bach. He went to Venice, Italy for study twice. During his second study trip in 1628, he encountered the music of [Claudio Monteverdi](monteverdi_lincoronazione_di_poppea.md), who was already leading the new trend in Italian music, and was deeply influenced. As a result, he succeeded in successfully fusuing the Italian style into German religious music.
 
-## Why Heinrich Schutz?
+## :monocle_face: Why Heinrich Schutz?
 
 When I was contemplating which composer to select, I became interested in Schutz upon seeing that most of his works are Protestant music. This is because, as a Christian myself, I became curious about how Schutz expressed 17th-century Protestant faith through his music. It is said that Schutz, a Lutheran, made significant contributions to the development of German Protestant music after the Reformation, particularly by composing oratorios, Passions, motets, and Bible stories based on German biblical texts.
 
@@ -24,7 +24,7 @@ When I was contemplating which composer to select, I became interested in Schutz
 - Examine the influence of the religious and political context of 17th-century Germany on Schutz's music.
 
 ## Schutz in Historical Context
-***Heinrich Schutz: A Key Figure in 17th-Century German Baroque Music, Father of German Music***
+:mag_right: ***Heinrich Schutz: A Key Figure in 17th-Century German Baroque Music, Father of German Music***
 
 Heinrich Schutz stands as a towering figure in **early German Baroque music**. More than just a composer, Schutz served as a crucial conduit for the influx of innovative Italian musical currents into Germany, profoundly shaping the trajectory of the German musical heritage. He masterfully synthesized the expressive new style from Italy with the established traditions of German Lutheran church music.
 
@@ -68,7 +68,7 @@ For those interested in the intersection of faith and music, Heinrich Schutz off
 
 ## Excerpt from Schutz's Music 
 
-[Listen](https://youtu.be/w__eUcyHXwU?si=ut2xSdXycLkvdHfv)
+[:headphones:](https://youtu.be/w__eUcyHXwU?si=ut2xSdXycLkvdHfv)
 
 <img src="./sample_score.png" alt="sample_score" width="450" height="350" />
 
@@ -76,7 +76,7 @@ For those interested in the intersection of faith and music, Heinrich Schutz off
 
 > ### Listening Guide
 >
->  When listening to this piece, focus on the following three aspects.
+> :point_up: When listening to this piece, focus on the following three aspects.
 > 
 > 1. **The 'Passion' as Storytelling**
 > - Role of the Evangelist: Follow the Evangelist's voice and concentrate on how the biblical story unfolds. It's important to perceive how changes in his vocal tone or the flow of the melody express the tension and emotions of the narrative.
@@ -97,7 +97,7 @@ Credit : An image of <ins>viola da gamba</ins> created by Gemini 25 pro, Jun 6, 
 
 <img src="./gemini harpsichord.png" alt="gemini harpsichord" width="320" height="290" />
 
-Credit : An image of <ins>harpsichord</ins> created by Gemini 25 pro, Jun 6, 2025, 21:58:51 PM, with the prompt "Create an image of harpsichord used during the period of Heinrich Schütz(1585-1672)."
+Credit : An image of <ins>harpsichord</ins> created by Gemini 25 pro, Jun 6, 2025, 21:58:51 PM, with the prompt "Create an image of harpsichord used during the period of Heinrich Schütz(1585-1672)." [[Back to TOC]](#table-of-contents)
 
 ## Artworks from This Period
 
@@ -105,4 +105,4 @@ Credit : An image of <ins>harpsichord</ins> created by Gemini 25 pro, Jun 6, 202
 
 Credit : *The Descent from the Cross* by Peter Paul Rubens, 1614, Public Domain, [Wikimedia Commons](https://commons.m.wikimedia.org/wiki/File:Descent_from_the_Cross_(Rubens)_July_2015-1a.jpg#mw-jump-to-license)
 
-<ins>The Descent from the Cross</ins> : A painting by Peter Paul Rubens, depicting the moment Jesus Christ is taken down from the cross. [[Back to TOC]](#table-of-contents)
+Explanation : A painting by Peter Paul Rubens, depicting the moment Jesus Christ is taken down from the cross. [[Back to TOC]](#table-of-contents)
