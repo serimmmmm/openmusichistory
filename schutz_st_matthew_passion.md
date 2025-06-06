@@ -72,7 +72,7 @@ For those interested in the intersection of faith and music, Heinrich Schutz off
 
 <img src="./sample_score.png" alt="sample_score" width="450" height="350" />____<img src="./vocal_ensemble.png" alt="vocal_ensemble" width="450" height="350" />
 
-[[Back to TOC]](#table-of-contents)
+*St. Matthew Passion* is one of Schutz's late masterpieces, depicting **the Passion story of Jesus Christ**. A notable characteristic of this work is that it is performed solely by vocal ensembles without any instrumental accompaniment. Schutz composed this piece while working as the Kapellmeister at the Dresden court. During that time, Germany was facing a difficult period due to the aftermath of the Thirty Years' War (1618-1648). In the context of restricted musical activities, Schutz's Passion oratorios played a crucial role in maintaining the tradition of religious music. [[Back to TOC]](#table-of-contents)
 
 > ### Listening Guide
 >
@@ -88,8 +88,6 @@ For those interested in the intersection of faith and music, Heinrich Schutz off
 > - The Meaning of Empty Space: The absence of instrumental accompaniment sometimes creates moments of 'silence,' where there is no sound. Pay attention to whether this silence makes the subsequent sound more impressive, or adds weight to the emotions of the characters or the dramatic situation.
 > - The Beauty of the Voice Itself: Music composed solely of human voices maximizes the independent movement of each part and the beauty of the pure harmony it creates. Focus on how the voices of each part blend and separate to feel the texture of sound that Schütz intended.
 
-"St. Matthew Passion" is one of Schutz's late masterpieces, depicting **the Passion story of Jesus Christ**. A notable characteristic of this work is that it is performed solely by vocal ensembles without any instrumental accompaniment. Schutz composed this piece while working as the Kapellmeister at the Dresden court. During that time, Germany was facing a difficult period due to the aftermath of the Thirty Years' War (1618-1648). In the context of restricted musical activities, Schutz's Passion oratorios played a crucial role in maintaining the tradition of religious music. [[Back to TOC]](#table-of-contents)
-
 ## Instruments Used During This Period 
 
 <img src="./violadagamba.png" alt="violadagamba" width="200" height="330" /> <img src="./harpsichord.png" alt="harpsichord" width="300" height="200" />
@@ -99,5 +97,7 @@ For those interested in the intersection of faith and music, Heinrich Schutz off
 ## Artworks from This Period
 
 <img src="./rubens.png" alt="rubens" style="width:25%;" />
+
+Credit : *The Descent from the Cross* by Peter Paul Rubens, 1614, Public Domain, [Wikimedia Commons](https://commons.m.wikimedia.org/wiki/File:Descent_from_the_Cross_(Rubens)_July_2015-1a.jpg#mw-jump-to-license)
 
 <ins>The Descent from the Cross</ins> : A painting by Peter Paul Rubens, depicting the moment Jesus Christ is taken down from the cross. [[Back to TOC]](#table-of-contents)
