@@ -9,19 +9,20 @@ Heinrich Schütz was a German composer, and Schütz played a very important role
 When I was contemplating which composer to select, I became interested in Schütz upon seeing that most of his works are Protestant music. This is because, as a Christian myself, I became curious about how Schütz expressed 17th-century Protestant faith through his music. It is said that Schütz, a Lutheran, made significant contributions to the development of German Protestant music after the Reformation, particularly by composing oratorios, Passions, motets, and Bible stories based on German biblical texts.
 
 ## Table of Contents
-- Schütz in Historical Context
-- Chronicle of Schütz
-- List of Important Works
-- Excerpt from Schütz's Music
-- Listening Guide
-- Instruments Used During This Period
-- Artworks from This Period
+- [Schutz in Historical Context](#schutz-in-historical-context)
+- [Chronicle of Schutz](#chronicle-of-schutz)
+- [List of Important Works](#list-of-important-works)
+- [Excerpt from Schutz's Music](#excerpt-from-schutzs-music)
+- [Listening Guide](#listening-guide)
+- [Instruments Used During This Period](#instruments-used-during-this-period)
+- [Artworks from This Period](#artworks-from-this-period)
 
 ## Learning Objects
 - Understand Heinrich Schütz's contribution to the development of German Baroque music.
 - Examine the influence of the religious and political context of 17th-century Germany on Schütz's music.
 
-## Heinrich Schütz: A Key Figure in 17th-Century German Baroque Music, Father of German Music
+## Schutz in Historical Context
+***Heinrich Schütz: A Key Figure in 17th-Century German Baroque Music, Father of German Music***
 
 Heinrich Schütz stands as a towering figure in **early German Baroque music**. More than just a composer, Schütz served as a crucial conduit for the influx of innovative Italian musical currents into Germany, profoundly shaping the trajectory of the German musical heritage. He masterfully synthesized the expressive new style from Italy with the established traditions of German Lutheran church music.
 
@@ -30,7 +31,7 @@ By skillfully integrating Italian innovations—the *concertato* principle, madr
 
 For those interested in the intersection of faith and music, Heinrich Schütz offers a compelling subject. As a devout Lutheran who lived through one of Europe's most devastating conflicts, his extensive body of Protestant sacred music provides a profound window into **the expression of Christian faith in the 17th century**. Schütz made the scriptures accessible and emotionally resonant to congregations through his commitment to setting German biblical texts. His oratorios, Passions, motets (such as his *Cantiones sacrae* of 1625, which exhibit a more intense and personal expression), and settings of biblical narratives were not mere musical exercises; they were deeply personal and communal declarations of faith. In a time marked by religious conflict and widespread suffering, Schütz's music offered solace, spiritual depth, and a powerful affirmation of the core tenets of the Protestant tradition, cementing his role as a foundational figure in the rich history of German sacred music.
 
-## Chronicle of Schütz
+## Chronicle of Schutz
 
 | Year      | Major Events                                                                                                                    |
 | :-------: | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -49,7 +50,7 @@ For those interested in the intersection of faith and music, Heinrich Schütz of
 | 1666      | Composed 《Matthäus-Passion (St. Matthew Passion)》 and 《Johannes Passion (St. John Passion)》.                                  |
 | 1672      | Died in Dresden on November 6, at the age of 87. |
 
-## List of Important Works
+## List of Important Works 
 
 | Year | Works                                    | YouTube                                          |
 | ---- | ---------------------------------------- | ------------------------------------------------ |
@@ -59,7 +60,7 @@ For those interested in the intersection of faith and music, Heinrich Schütz of
 | 1666 | Matthäus-Passion, SWV 479                | https://youtu.be/w__eUcyHXwU?si=ut2xSdXycLkvdHfv |
 | 1666 | Johannes Passion, SWV 481                | https://youtu.be/dptgsKRqOfc?si=Sd_reUYxY3ZYRUGU | 
 
-## Excerpt from Schütz's Music 
+## Excerpt from Schutz's Music 
 
 [Listen](https://youtu.be/w__eUcyHXwU?si=ut2xSdXycLkvdHfv)
 
