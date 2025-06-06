@@ -70,7 +70,7 @@ For those interested in the intersection of faith and music, Heinrich Schutz off
 
 [Listen](https://youtu.be/w__eUcyHXwU?si=ut2xSdXycLkvdHfv)
 
-<img src="./sample_score.png" alt="sample_score" width="450" height="350" />____<img src="./vocal_ensemble.png" alt="vocal_ensemble" width="450" height="350" />
+<img src="./sample_score.png" alt="sample_score" width="450" height="350" />
 
 *St. Matthew Passion* is one of Schutz's late masterpieces, depicting **the Passion story of Jesus Christ**. A notable characteristic of this work is that it is performed solely by vocal ensembles without any instrumental accompaniment. Schutz composed this piece while working as the Kapellmeister at the Dresden court. During that time, Germany was facing a difficult period due to the aftermath of the Thirty Years' War (1618-1648). In the context of restricted musical activities, Schutz's Passion oratorios played a crucial role in maintaining the tradition of religious music. [[Back to TOC]](#table-of-contents)
 
@@ -86,17 +86,22 @@ For those interested in the intersection of faith and music, Heinrich Schutz off
 > - Choral work filled with inner reflection: The chorus, appearing at significant turning points or emotional moments in the story, goes beyond simple narration and induces inner reflection in the audience. In this part, focus on the harmony of chords and timbre of the choir, and feel the reverent and contemplative atmosphere that the work intends to convey.
 > 3. **The Aesthetics of Silence and Space**
 > - The Meaning of Empty Space: The absence of instrumental accompaniment sometimes creates moments of 'silence,' where there is no sound. Pay attention to whether this silence makes the subsequent sound more impressive, or adds weight to the emotions of the characters or the dramatic situation.
-> - The Beauty of the Voice Itself: Music composed solely of human voices maximizes the independent movement of each part and the beauty of the pure harmony it creates. Focus on how the voices of each part blend and separate to feel the texture of sound that Schütz intended.
+> - The Beauty of the Voice Itself: Music composed solely of human voices maximizes the independent movement of each part and the beauty of the pure harmony it creates. Focus on how the voices of each part blend and separate to feel the texture of sound that Schütz intended. [[Back to TOC]](#table-of-contents)
+
 
 ## Instruments Used During This Period 
 
-<img src="./viola da gamba.png" alt="viola da gamba" width="300" height="330" /> <img src="./gemini harpsichord.png" alt="gemini harpsichord" width="320" height="290" />
+<img src="./viola da gamba.png" alt="viola da gamba" width="300" height="330" /> 
 
-<ins>Viola da gamba and harpsichord used in the Baroque period</ins> [[Back to TOC]](#table-of-contents)
+Credit : An image of <ins>viola da gamba</ins> created by Gemini 25 pro, Jun 6, 2025, 21:52:23 PM, with the prompt "Create an image of viola da gamba used during the period of Heinrich Schütz(1585-1672)."
+
+<img src="./gemini harpsichord.png" alt="gemini harpsichord" width="320" height="290" />
+
+Credit : An image of <ins>harpsichord</ins> created by Gemini 25 pro, Jun 6, 2025, 21:58:51 PM, with the prompt "Create an image of harpsichord used during the period of Heinrich Schütz(1585-1672)."
 
 ## Artworks from This Period
 
-<img src="./rubens.png" alt="rubens" style="width:25%;" />
+<img src="./rubens.png" alt="rubens" style="width:45%;" />
 
 Credit : *The Descent from the Cross* by Peter Paul Rubens, 1614, Public Domain, [Wikimedia Commons](https://commons.m.wikimedia.org/wiki/File:Descent_from_the_Cross_(Rubens)_July_2015-1a.jpg#mw-jump-to-license)
 
