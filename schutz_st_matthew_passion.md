@@ -29,7 +29,7 @@ Heinrich Schutz stands as a towering figure in **early German Baroque music**. M
 Born in the wake of the Reformation and during the era following the destructive **Thirty Years' War** (1618-1648), a period of considerable religious and political upheaval, Schutz's life and career were inextricably linked to these turbulent times, yet simultaneously vibrant with artistic innovation. The war, in particular, deeply impacted the resources available for musical performance, often necessitating Schutz to compose for smaller ensembles. However, these adversities did not stifle his creativity; they may have even sharpened his focus on conveying deep emotional and spiritual meaning through music. Schutz's genius lay in his masterful synthesis of the rich, expressive new musical styles from Italy with the established traditions of German Lutheran church music, which profoundly shaped the course of German music for generations, most notably influencing later masters like Johann Sebastian Bach.
 By skillfully integrating Italian innovations—the *concertato* principle, madrigalisms, monody, and dramatic *recitativo*—with the German language and the devout spirit of Lutheranism, Heinrich Schutz forged a unique and powerful musical language. He not only laid the groundwork for the flourishing of Baroque music in Germany but also created works of profound personal and lasting significance that eloquently expressed the Protestant faith in the 17th century. His dedication to setting German biblical texts with deep understanding and emotional resonance solidified his place as a foundational composer in the history of sacred music.
 
-For those interested in the intersection of faith and music, Heinrich Schutz offers a compelling subject. As a devout Lutheran who lived through one of Europe's most devastating conflicts, his extensive body of Protestant sacred music provides a profound window into **the expression of Christian faith in the 17th century**. Schutz made the scriptures accessible and emotionally resonant to congregations through his commitment to setting German biblical texts. His oratorios, Passions, motets (such as his *Cantiones sacrae* of 1625, which exhibit a more intense and personal expression), and settings of biblical narratives were not mere musical exercises; they were deeply personal and communal declarations of faith. In a time marked by religious conflict and widespread suffering, Schutz's music offered solace, spiritual depth, and a powerful affirmation of the core tenets of the Protestant tradition, cementing his role as a foundational figure in the rich history of German sacred music. [Back to TOC](#table-of-contents)
+For those interested in the intersection of faith and music, Heinrich Schutz offers a compelling subject. As a devout Lutheran who lived through one of Europe's most devastating conflicts, his extensive body of Protestant sacred music provides a profound window into **the expression of Christian faith in the 17th century**. Schutz made the scriptures accessible and emotionally resonant to congregations through his commitment to setting German biblical texts. His oratorios, Passions, motets (such as his *Cantiones sacrae* of 1625, which exhibit a more intense and personal expression), and settings of biblical narratives were not mere musical exercises; they were deeply personal and communal declarations of faith. In a time marked by religious conflict and widespread suffering, Schutz's music offered solace, spiritual depth, and a powerful affirmation of the core tenets of the Protestant tradition, cementing his role as a foundational figure in the rich history of German sacred music. [[Back to TOC]](#table-of-contents)
 
 ## Chronicle of Schutz
 
@@ -50,7 +50,7 @@ For those interested in the intersection of faith and music, Heinrich Schutz off
 | 1666      | Composed 《Matthäus-Passion (St. Matthew Passion)》 and 《Johannes Passion (St. John Passion)》.                                  |
 | 1672      | Died in Dresden on November 6, at the age of 87. | 
 
-[Back to TOC](#table-of-contents)
+[[Back to TOC]](#table-of-contents)
 
 ## List of Important Works 
 
@@ -62,7 +62,7 @@ For those interested in the intersection of faith and music, Heinrich Schutz off
 | 1666 | Matthäus-Passion, SWV 479                | https://youtu.be/w__eUcyHXwU?si=ut2xSdXycLkvdHfv |
 | 1666 | Johannes Passion, SWV 481                | https://youtu.be/dptgsKRqOfc?si=Sd_reUYxY3ZYRUGU | 
 
-[Back to TOC](#table-of-contents)
+[[Back to TOC]](#table-of-contents)
 
 ## Excerpt from Schutz's Music 
 
@@ -70,9 +70,9 @@ For those interested in the intersection of faith and music, Heinrich Schutz off
 
 <img src="./sample_score.png" alt="sample_score" width="450" height="350" />____<img src="./vocal_ensemble.png" alt="vocal_ensemble" width="450" height="350" />
 
-[Back to TOC](#table-of-contents)
+[[Back to TOC]](#table-of-contents)
 
-> ### :headphones: Listening Guide
+> ### Listening Guide
 >
 >  When listening to this piece, focus on the following three aspects.
 > 
@@ -86,16 +86,16 @@ For those interested in the intersection of faith and music, Heinrich Schutz off
 > - The Meaning of Empty Space: The absence of instrumental accompaniment sometimes creates moments of 'silence,' where there is no sound. Pay attention to whether this silence makes the subsequent sound more impressive, or adds weight to the emotions of the characters or the dramatic situation.
 > - The Beauty of the Voice Itself: Music composed solely of human voices maximizes the independent movement of each part and the beauty of the pure harmony it creates. Focus on how the voices of each part blend and separate to feel the texture of sound that Schütz intended.
 
-"St. Matthew Passion" is one of Schutz's late masterpieces, depicting **the Passion story of Jesus Christ**. A notable characteristic of this work is that it is performed solely by vocal ensembles without any instrumental accompaniment. Schutz composed this piece while working as the Kapellmeister at the Dresden court. During that time, Germany was facing a difficult period due to the aftermath of the Thirty Years' War (1618-1648). In the context of restricted musical activities, Schutz's Passion oratorios played a crucial role in maintaining the tradition of religious music. [Back to TOC](#table-of-contents)
+"St. Matthew Passion" is one of Schutz's late masterpieces, depicting **the Passion story of Jesus Christ**. A notable characteristic of this work is that it is performed solely by vocal ensembles without any instrumental accompaniment. Schutz composed this piece while working as the Kapellmeister at the Dresden court. During that time, Germany was facing a difficult period due to the aftermath of the Thirty Years' War (1618-1648). In the context of restricted musical activities, Schutz's Passion oratorios played a crucial role in maintaining the tradition of religious music. [[Back to TOC]](#table-of-contents)
 
 ## Instruments Used During This Period 
 
 <img src="./violadagamba.png" alt="violadagamba" width="200" height="330" /> <img src="./harpsichord.png" alt="harpsichord" width="300" height="200" />
 
-<ins>Viola da gamba and harpsichord used in the Baroque period</ins> [Back to TOC](#table-of-contents)
+<ins>Viola da gamba and harpsichord used in the Baroque period</ins> [[Back to TOC]](#table-of-contents)
 
 ## Artworks from This Period
 
 <img src="./rubens.png" alt="rubens" style="width:25%;" />
 
-<ins>The Descent from the Cross</ins> : A painting by Peter Paul Rubens, depicting the moment Jesus Christ is taken down from the cross. [Back to TOC](#table-of-contents)
+<ins>The Descent from the Cross</ins> : A painting by Peter Paul Rubens, depicting the moment Jesus Christ is taken down from the cross. [[Back to TOC]](#table-of-contents)
