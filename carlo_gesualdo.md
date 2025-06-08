@@ -1,10 +1,11 @@
 # Carlo Gesualdo (1566~1613)
 
-
+![Image](https://github.com/user-attachments/assets/ecb90d10-9008-451c-9863-73af19c8cadd)
 
 Carlo Gesualdo (Italian: Carlo Gesualdo (1566? - September 8, 1613) was an Italian composer. He is known for writing chromatic harmonies in madrigals, which were not rewritten until the 19th century. Gesualdo is known for his rare murders in music history.
 
 ## Tenebrae Responsoria (1611)
+![Image](https://github.com/user-attachments/assets/e07e7b35-6e44-4981-97f3-251394275ab5)
 
 This work is very similar to madrigal, but differs in that it uses lyrics from the Passion. Tenebre is a form used by many other composers. Like the late secular madrigal, he especially uses sharp dissonances and shocking chromatic juxtapositions, which are especially prominent in areas that emphasize verses related to Christ's Passion or the sin of St. Peter's betraying him.
 
