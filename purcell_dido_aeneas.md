@@ -31,7 +31,7 @@ Credit: An image of Henry Purcell created by ChatGPT 4o, Jun 7, 2025, 11:02:54 P
 
 <img src="./A_photograph_of_a_lute,_a_stringed_musical_instrum.jpg" alt="portrait" stylr="width:69%;" />
 
-Credit: An image of Lute created by ChatGPT 4o, Jun 7, 2025, 11:12:39 PM, with the prompt "Create an image of Lute used ."
+Credit: An image of Lute created by ChatGPT 4o, Jun 7, 2025, 11:12:39 PM, with the prompt "Create an image of Lute used during the period of Henry Purcell."
 
 
 ## Purcell's Life
