@@ -2,14 +2,14 @@
 <img src="./henrypurcell.jpg" alt="portrait" stylr="width:60%;" />
 
 ## Table of Contents
-- [Learning Objectives](learning-objectives)
-- [Listening Tips](listening-tips)
-- [Purcell's Life](purcell's-life)
-- [About Henry Purcell](about-henry-purcell)
-- [Situating Henry Purcell in His Composition in Historical Context](situating-henry-purcell-in-his-composition-in-historical-context)
-- [Artworks from This Peroid](artworks-from-this-period)
-- [List of Important Works](list-of-important-works)
-- [Excerpt from Purcell's Music](excerpt-from-purcell's-music)
+- [Learning Objectives](#learning-objectives)
+- [Listening Tips](#listening-tips)
+- [Purcell's Life](#purcell's-life)
+- [About Henry Purcell](#about-henry-purcell)
+- [Situating Henry Purcell in His Composition in Historical Context](#situating-henry-purcell-in-his-composition-in-historical-context)
+- [Artworks from This Peroid](#artworks-from-this-period)
+- [List of Important Works](#list-of-important-works)
+- [Excerpt from Purcell's Music](#excerpt-from-purcell's-music)
   
 ## 🎯 Learning Objectives
 
