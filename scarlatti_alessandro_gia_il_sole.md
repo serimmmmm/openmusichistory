@@ -6,22 +6,22 @@
 
 > Credit: Portrait of Scarlatti by Unknown, 17-18th Century, Public Domain, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alessandro_Scarlatti.png)
 
-> ### Learning Objectives
-> By reading this article, readers will gain an understanding of Alessandro Scarlatti’s foundational role in shaping Neapolitan opera and Baroque vocal music. They will be able to identify key features of the Baroque style through his works, grasp the structure and importance of the *da capo aria*, and appreciate how his innovations influenced later composers such as Handel, Mozart, and Haydn. Special attention is given to *Gia il sole dal Gange*, which serves as a gateway to understanding Scarlatti’s expressive voice and enduring legacy.
+## 📍Learning Objectives
+By reading this article, readers will gain an understanding of Alessandro Scarlatti’s foundational role in shaping Neapolitan opera and Baroque vocal music. They will be able to identify key features of the Baroque style through his works, grasp the structure and importance of the *da capo aria*, and appreciate how his innovations influenced later composers such as Handel, Mozart, and Haydn. Special attention is given to *Gia il sole dal Gange*, which serves as a gateway to understanding Scarlatti’s expressive voice and enduring legacy.
 
-## Table of Contents
+## 📑Table of Contents
 - [About Alessandro Scarlatti](#about-alessandro-scarlatti)
 - [Life Story](#life-story)
 - [List of Important Works](#list-of-important-works)
 - [Gia il sole dal Gange](#gia-il-sole-dal-gange)
 - [Why Important](#why-important)
 
-## About Alessandro Scarlatti
+## 🎼About Alessandro Scarlatti
 **Alessandro Scarlatti** (1660–1725) is an Italian composer who played a crucial role in establishing the Neapolitan opera tradition during **the Baroque period**, a time when music was becoming increasingly expressive, ornate, and structured around contrast and drama. He codified **the da capo aria**, which became central to Baroque **vocal music** and served as a structural model for arias throughout the 18th century. Scarlatti composed over 600 cantatas that remain essential for the study of the period, reflecting the Baroque interest in emotional expression, formal clarity, and vocal virtuosity.
 
 His influence extended beyond his own work through his son, [Domenico Scarlatti](scarlatti_domenico_keyboard_sonata_k80.md), who became a renowned composer in his own right. The elder Scarlatti’s mastery of vocal and dramatic forms helped shape Domenico’s early musical education, laying the foundation for his later innovations in **keyboard music**.
 
-## Life Story
+## 🧭Life Story
 
 | Year | Location        | Event                                         |
 |------|-----------------|-----------------------------------------------|
@@ -39,7 +39,7 @@ In 1684, he took a significant position as maestro di cappella at the court of t
 > **To express the persuasiveness of the lyrics, he employed every kind of dissonance, and then resolved those dissonances so masterfully that even the most beautiful consonances could not match the sweetness and harmony of his dissonances.**
 — François Raguenet, Parallèle des Italiens et des Français en ce qui regarde la musique et les opéras (1702) [Back to TOC](#table-of-contents)
 
-## List of Important Works
+## 🎶List of Important Works
 
 | Year | Works                 | YouTube |
 | ---- | --------------------- | ------- |
@@ -47,7 +47,7 @@ In 1684, he took a significant position as maestro di cappella at the court of t
 | 1707 | Il Mitridate Eupatore | [Listen](https://youtu.be/S2axvtlURCU?si=aN0e1uxjiMFJptdn) |
 | 1721 | Griselda              | [Listen](https://youtu.be/k4Nef6XL9mA?si=nzlFHLefP8tyhugx) |
 
-## Gia il sole dal Gange ##
+## 🌅Gia il sole dal Gange ##
 *「Gia il sole dal Gange」* originates from his second opera, *L'onestà negli amori*, which premiered on February 3, 1680, at the Palazzo Bernini theater in Rome. At the time, Scarlatti was only 19 years old, and this aria is considered one of the most representative works of his early compositional talent and expressive sensitivity.
 
 The piece describes the rising sun over the Ganges River, and is characterized by its bright, cheerful mood, lively melody, and refined emotional nuance—all hallmarks of the Baroque style. It is most commonly performed as **a soprano solo aria** and, though brief, it is frequently included in vocal recitals due to its beautiful melodic lines and the vocal agility it demands, making it a favorite in the Baroque vocal repertoire.
@@ -60,11 +60,9 @@ The piece describes the rising sun over the Ganges River, and is characterized b
 
 > Credit: An image of string orchestra created by Gemini, Jun 3, 2025, 12:46 PM, with the prompt "creat an image of string orchestra instruments." 
 
-[Gia il sole dal Gange](https://youtu.be/PQV4d_Peux0?si=B6UEE0s1P5FqAvAi)
-
 <img src="./giailsole_score.png" alt="score" style="width:94%;" />
 
-## Listening Guide: *Gia il sole dal Gange*
+## 🎧Listening Guide: *[Gia il sole dal Gange](https://youtu.be/PQV4d_Peux0?si=B6UEE0s1P5FqAvAi)* (⬅️Click)
 
 | Time     | Section / Lyrics               | What to Listen For                                                                 |
 |----------|--------------------------------|-------------------------------------------------------------------------------------|
@@ -84,7 +82,7 @@ The piece describes the rising sun over the Ganges River, and is characterized b
 
 [Back to TOC](#table-of-contents)
 
-## Why Important
+## ⭐Why Important
 His work laid the foundation for **Classical opera**, and his techniques in **orchestration**—particularly his use of instrumental color and texture—significantly influenced the development of later symphonic writing. Scarlatti’s music reflects the larger **Baroque** emphasis on emotional depth, formal structure, and contrasts between solo and ensemble textures. He was also a central figure in the evolution of **recitative and aria** forms, which would become standard in opera for the next century.
 
 <img src="./scarlattialessandro_artwork.jpg" alt="artwork" width="350" height="480" />
