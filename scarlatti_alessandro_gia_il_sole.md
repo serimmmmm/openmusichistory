@@ -52,17 +52,37 @@ In 1684, he took a significant position as maestro di cappella at the court of t
 
 The piece describes the rising sun over the Ganges River, and is characterized by its bright, cheerful mood, lively melody, and refined emotional nuance—all hallmarks of the Baroque style. It is most commonly performed as **a soprano solo aria** and, though brief, it is frequently included in vocal recitals due to its beautiful melodic lines and the vocal agility it demands, making it a favorite in the Baroque vocal repertoire.
 
-[Gia il sole dal Gange](https://youtu.be/PQV4d_Peux0?si=B6UEE0s1P5FqAvAi)
-
-<img src="./giailsole_score.png" alt="score" style="width:94%;" />
-
 **Instrumentation:**
 * Voice: Usually a soprano or tenor (high vocal range) soloist
 * String Orchestra: Consisting of violins, violas, cellos, and double basses, forming a four-part string section for the accompaniment
 
-<img src="./scarlatti_alessandro_strings.png" alt="score" style="width:40%;" />
+<img src="./scarlatti_alessandro_orche.png" alt="score" style="width:40%;" />
 
-> Credit: An image of string orchestra created by Gemini, Jun 3, 2025, 12:46 PM, with the prompt "creat an image of string orchestra instruments." [Back to TOC](#table-of-contents)
+> Credit: An image of string orchestra created by Gemini, Jun 3, 2025, 12:46 PM, with the prompt "creat an image of string orchestra instruments." 
+
+[Gia il sole dal Gange](https://youtu.be/PQV4d_Peux0?si=B6UEE0s1P5FqAvAi)
+
+<img src="./giailsole_score.png" alt="score" style="width:94%;" />
+
+## Listening Guide: *Gia il sole dal Gange*
+
+| Time     | Section / Lyrics               | What to Listen For                                                                 |
+|----------|--------------------------------|-------------------------------------------------------------------------------------|
+| 0:00–0:10 | "Gia il sole dal Gange"        | Bright, joyful opening; rising melodic contour evokes the sun rising over the Ganges. |
+| 0:11–0:20 | "Più chiaro sfavilla"          | Clearer tone and a sense of radiance; notice how the vocal line mirrors shimmering light. |
+| 0:21–0:35 | "E terge ogni stilla"          | Smoother legato phrasing; listen for subtle dynamic shaping in both voice and strings. |
+| 0:36–0:50 | "Dell’alba che piange"         | A brief moment of lyrical contrast; minor inflection suggests emotional nuance. |
+| 0:51–1:10 | Repeat: "Gia il sole dal Gange" | Return of opening line with added ornamentation; listen for expressive trills or grace notes. |
+| 1:11–1:30 | Repeat: "Più chiaro sfavilla"   | Notice increased vocal agility; brighter timbre with more embellishments.            |
+| 1:31–1:50 | "E terge ogni stilla..."       | Elegant conclusion; final cadences show off the singer’s breath control and tone.   |
+| 1:51–2:00 | Closing cadence                 | Light and graceful ending; strings provide a warm, supportive resolution.           |
+
+> **Tips for Listening:**
+> - Focus on how the melody "paints" the imagery (sunlight, tears, radiance).
+> - Note how Scarlatti balances vocal virtuosity with lyrical expressiveness.
+> - Try to follow the Italian text to connect music with meaning.
+
+[Back to TOC](#table-of-contents)
 
 ## Why Important
 His work laid the foundation for **Classical opera**, and his techniques in **orchestration**—particularly his use of instrumental color and texture—significantly influenced the development of later symphonic writing. Scarlatti’s music reflects the larger **Baroque** emphasis on emotional depth, formal structure, and contrasts between solo and ensemble textures. He was also a central figure in the evolution of **recitative and aria** forms, which would become standard in opera for the next century.
