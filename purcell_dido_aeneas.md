@@ -1,6 +1,7 @@
 # Henry Purcell (1659-1695)
-<img src="./henrypurcell.jpg" alt="portrait" stylr="width:60%;" />
+<img src="./Henry_Purcell_resized.jpg" alt="portrait" stylr="width:60%;" />
 
+Credit: 
 ## Table of Contents
 - [Learning Objectives](#learning-objectives)
 - [Listening Tips](#listening-tips)
