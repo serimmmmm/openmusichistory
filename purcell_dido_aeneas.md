@@ -4,12 +4,12 @@
 ## Table of Contents
 - [Learning Objectives](#learning-objectives)
 - [Listening Tips](#listening-tips)
-- [Purcell's Life](#purcell's-life)
+- [Purcell's Life](#purcellis-life)
 - [About Henry Purcell](#about-henry-purcell)
 - [Situating Henry Purcell in His Composition in Historical Context](#situating-henry-purcell-in-his-composition-in-historical-context)
 - [Artworks from This Peroid](#artworks-from-this-period)
 - [List of Important Works](#list-of-important-works)
-- [Excerpt from Purcell's Music](#excerpt-from-purcell's-music)
+- [Excerpt from Purcell's Music](#excerpt-from-purcellis-music)
   
 ## 🎯 Learning Objectives
 
@@ -47,7 +47,7 @@
  Henry Purcell composed Theatre music the most. He also composed Opera and Sacred music. He was good at expressing emotions through melody and harmony. His aria “Dido’s Lament” from Dido and Aeneas is widely recognized for its emotional depth and is a hallmark of his style. Purcell died at the young age of 36, but he left behind a vast and diverse body of work. He worked as a court musician, composing prolifically during his short life.
 Purcell greatly influenced later English composers like Edward Elgar and Benjamin Britten. Britten, in particular, was known for reinterpreting Purcell’s works, such as in his Variations on a Theme of Purcell.
 
-A prominent instrumental composer contemporary with Henry Purcell was [Arcangelo Corelli](Arcangelo_Corelli.md) (1653–1713). While Purcell focused primarily on vocal and theatrical music, Corelli developed the genres of the trio sonata and concerto, helping to establish the formal structure of Baroque instrumental music. He is regarded as a pioneer of Baroque instrumental style and had a significant influence on composers throughout Europe.
+A prominent instrumental composer contemporary with Henry Purcell was [Arcangelo Corelli](Arcangelo_Corelli.md) (1653–1713). While Purcell focused primarily on vocal and theatrical music, Corelli developed the genres of the trio sonata and concerto, helping to establish the formal structure of Baroque instrumental music. He is regarded as a pioneer of Baroque instrumental style and had a significant influence on composers throughout Europe. [Back to TOC](#table-of-contents)
 
 ## Situating Henry Purcell and His Compositions in Historical Context
 Henry Purcell (1659–1695) lived and worked during a dynamic period in English and European history. His lifetime coincided with the Restoration era in England, following a period of political upheaval marked by the English Civil War (1642–1651), the execution of King Charles I (1649), and the rule of Oliver Cromwell during the Interregnum.
@@ -103,3 +103,4 @@ Although he died young, Purcell’s work became a symbol of English musical iden
 
 <img src="./Dido and Aeneas-1.png" alt="portrait" style="width:60%;" />
 
+[Back to TOC](#back-to-contents)
