@@ -13,6 +13,14 @@ Louis Couperin, much like [Frescobaldi](frescobaldi_gagliarda.md) in Italy, made
 
 Although his life was short, Louis Couperin's musical legacy, particularly his harpsichord pieces distinguished by their sophisticated ornamentation and inventive harmonies, has endured. His organ music is recognized as a crucial link in the transition from strict, contrapuntal writing to a richer, more concertante style, thereby influencing later Baroque composers. While none of his compositions were published during his lifetime, a substantial collection of his works has been preserved through manuscripts, solidifying his esteemed position as one of the foremost French keyboard composers of the 17th century. He is often compared to his Italian contemporary, Girolamo Frescobaldi, for the significant advancements he brought to keyboard music in France.
 
+## Table of Contents
+
+- [A Timeline of His Life](#a-timeline-of-his-life)
+- [List of Important Works](#list-of-important-works)
+- [Excerpt of Chaconne in d](#excerpt-of-chaconne-in-d)
+- [Listening Guide](#listening-guide)
+- [Key Features of Chaconne in d](#key-features-of-chaconne-in-d)
+  
 ## A Timeline of His Life
 
 | Year | Contents |
@@ -39,9 +47,9 @@ Although his life was short, Louis Couperin's musical legacy, particularly his h
 
 [^2]: The "Year Unknown" for the listed works is typical, as most of his music survives in posthumous manuscript collections without precise composition dates. The provided YouTube links are examples of performances of these types of works.
 
-## Score of Chacconne[^3] in d
+## Excerpt of Chaconne in d
 
-[Listen](https://youtu.be/yEF1snITUhs?si=8Z_xtWHMepfMPPaO)
+[Chaconne in d](https://youtu.be/yEF1snITUhs?si=8Z_xtWHMepfMPPaO)
 
 [^3]: A chaconne is a Baroque musical form originating from a slow, triple-meter dance. Its core feature is a repeating short bass line (ostinato bass) over which various variations are built. While initially a lively 16th-century dance, it evolved into a majestic instrumental piece in the 17th century, known for its solemn atmosphere and intricate variations within its consistent 3-beat framework.
 
@@ -64,12 +72,12 @@ Although his life was short, Louis Couperin's musical legacy, particularly his h
 [^4]: In chaconne form, particularly in the French Baroque style, a Refrain refers to the continuously repeating bass line or chord progression (the ostinato) that forms the structural backbone of the piece.
 [^5]: Couplets are the contrasting variations or episodes that appear between repetitions of this Refrain. They introduce melodic, rhythmic, or harmonic changes, offering diversity and developing the musical ideas while remaining rooted in the underlying bass pattern.
 
-### Key Features of Louis Couperin's Chaconne in D minor
+### Key Features of Chaconne in d
 
-- Archetype of the Chaconne Form: This piece exemplifies the typical chaconne structure, showcasing diverse variations built upon a repeating bass line (ostinato bass).
+- Archetype of the Chaconne[^3] Form: This piece exemplifies the typical chaconne structure, showcasing diverse variations built upon a repeating bass line (ostinato bass).
 - French Baroque Characteristics: While Italian chaconnes often emphasize flashy, improvisatory elements, Couperin's chaconne highlights the unique aesthetics of French Baroque. It features restrained elegance, delicate ornamentation, and profound emotional expression.
 - Harpsichord[^6] Repertoire: Composed primarily for the harpsichord, this piece contributed to exploring the instrument's varied timbres and expressive potential during that era.
-<img src="./harpsichord.jpg" alt="portrait" style="width:25%;" />
+<img src="./harpsichord_yehyeon.jpg" alt="portrait" style="width:25%;" />
 
 [^6]: The harpsichord is a keyboard instrument popular from the Renaissance to the Baroque era. Unlike a piano, which uses hammers, the harpsichord produces sound when a plectrum plucks the strings. This mechanism meant volume control was difficult, but it created a clear, metallic, and distinctive timbre. It played a crucial role in Baroque music and is still used today for period performances.
 
