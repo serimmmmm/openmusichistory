@@ -60,14 +60,14 @@ The piece describes the rising sun over the Ganges River, and is characterized b
 * Voice: Usually a soprano or tenor (high vocal range) soloist
 * String Orchestra: Consisting of violins, violas, cellos, and double basses, forming a four-part string section for the accompaniment
 
-<img src="./scarlatti_alessandro_strings.png" alt="score" style="width:30%;" />
+<img src="./scarlatti_alessandro_strings.png" alt="score" style="width:40%;" />
 
 > Credit: An image of string orchestra created by Gemini, Jun 3, 2025, 12:46 PM, with the prompt "creat an image of string orchestra instruments." [Back to TOC](#table-of-contents)
 
 ## Why Important
 His work laid the foundation for **Classical opera**, and his techniques in **orchestration**—particularly his use of instrumental color and texture—significantly influenced the development of later symphonic writing. Scarlatti’s music reflects the larger **Baroque** emphasis on emotional depth, formal structure, and contrasts between solo and ensemble textures. He was also a central figure in the evolution of **recitative and aria** forms, which would become standard in opera for the next century.
 
-<img src="./scarlattialessandro_artwork.jpg" alt="artwork" width="260" height="385" />
+<img src="./scarlattialessandro_artwork.jpg" alt="artwork" width="350" height="480" />
 
 > *<sup> Giovanni Battista Gaulli, “Triumph of the Name of Jesus” (1676–79), ceiling fresco, Church of the Gesù, Rome. A quintessential Baroque masterpiece noted for its dramatic use of space, light, and emotion. </sup>*
 
