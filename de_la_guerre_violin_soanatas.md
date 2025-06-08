@@ -21,10 +21,10 @@ Credit: Portrait of Elisabeth Jacquet De La Guerre by François de Troy
 | 1665 | 	Born in Paris into a family of musicians. |
 | 1670 | 	Gained fame as a child prodigy harpsichordist at the court of Louis XIV. |
 | 1684 | 	Married Marin de La Guerre. Adopted the name **Jacquet de La Guerre**. |
-| 1687 | 	Published her **first collection of harpsichord suites** (Pièces de clavecin) | [Listen](https://youtu.be/c9kJj0DnEGw?si=wRQ_OoFlZZJE8mPZ) |
-| 1694 | 	Premiered the opera **Céphale et Procris**—a rare example of an opera by a French woman composer. | [Listen](https://youtu.be/HZDqqI0_dxo?si=aQve0TJq-Jo1iwM6) |
-| 1707 |	Published **sonatas for violin and harpsichord** | [Listen](https://youtu.be/IUlW1Uj7G5E?si=AkYUVasKfqH5uP0S) |
-| 1711-1715 | Released a series of **sacred cantatas** (Cantates spirituelles) | [Watch](https://youtu.be/A1-RhwSfcwc?si=VY9NMAcB9mn_bnIK) |
+| 1687 | 	Published her **first collection of harpsichord suites** (Pièces de clavecin) | [Listen🔈](https://youtu.be/c9kJj0DnEGw?si=wRQ_OoFlZZJE8mPZ) |
+| 1694 | 	Premiered the opera **Céphale et Procris**—a rare example of an opera by a French woman composer. | [Listen🔈](https://youtu.be/HZDqqI0_dxo?si=aQve0TJq-Jo1iwM6) |
+| 1707 |	Published **sonatas for violin and harpsichord** | [Listen🔈](https://youtu.be/IUlW1Uj7G5E?si=AkYUVasKfqH5uP0S) |
+| 1711-1715 | Released a series of **sacred cantatas** (Cantates spirituelles) | [Watch📺](https://youtu.be/A1-RhwSfcwc?si=VY9NMAcB9mn_bnIK) |
 | 1729 | Died in Paris. |  
   
 
@@ -45,8 +45,7 @@ Credit: An image of De La Guerre performing at the royal court created bt ChatGP
 ***
   
 # 6 Violin Sonatas  
-She published **six violin sonatas** in 1797, just three years after the appearance of the "Sonata" publication in France. These were released as a set, with the second book of harpsichord pieces included in the first half of the collection. The first half of the work is titled "Pieces for harpsichord that can be played on the violin" (Pièces de clavecin qui peuvent se jouer sur le viollon), while the latter half is titled "Sonatas for violin and for harpsichord" (Sonates pour le viollon et pour le clavecin). In his book Baroque Music, John Walter Hill suggested that the title of the first half implies "a single melodic line in the upper staff can be played by the **violin** (either doubling the harpsichord or as a solo), while the lower parts can be played on the **keyboard**."
-그녀는 프랑스에서 출판물 소나타가 등장한지 3년 만에 6개의 바이올린 소나타를 출판(1797)하였는데, 전반부에 클라브생 곡집 제 2권을 포함시켜 한 세트로 출판하였다. 작품집의 전반부에는 “바이올린으로도 연주될 수 있 는 클라브생 곡집(pièces de clavecin qui peuvent se jouer sur le viollon)”이라는 제목이 달려 있으며, 후반부에는 “바이올린을 위한 그리고 클라브생을 위한 소나타(Sonates pour le viollon et pour le clavecin)”라는 제목이 붙어있다. 힐(John Walter Hill)은 그의 저서『Baroque Music(바로크 음악)』에서 전반부의 제목이 “상위 보표에 있는 하나의 선율 라인은 바이올린(하프시코드와 더블링하거나 또는 독주함)으로 연주 될 수 있으며, 반면 낮은 성부는 건반으로 연주 될 수 있음”을 의미한다고 보았다.  
+She published **six violin sonatas** in 1797, just three years after the appearance of the "Sonata" publication in France. These were released as a set, with the second book of harpsichord pieces included in the first half of the collection. The first half of the work is titled "Pieces for harpsichord that can be played on the violin" (Pièces de clavecin qui peuvent se jouer sur le viollon), while the latter half is titled "Sonatas for violin and for harpsichord" (Sonates pour le viollon et pour le clavecin). In his book Baroque Music, John Walter Hill suggested that the title of the first half implies "a single melodic line in the upper staff can be played by the **violin** (either doubling the harpsichord or as a solo), while the lower parts can be played on the **keyboard**."  
 
 At the turn of the 18th century, Italian instrumental music—particularly the sonata form—was gaining popularity in France, a nation traditionally focused on vocal and dance-based forms. Jacquet de La Guerre’s violin sonatas reflect this cultural shift. While the precise dates of composition are uncertain, the fact that composer and theorist Sébastien de Brossard copied some of her works as early as 1695 indicates their circulation and relevance by that time.  
 
@@ -108,7 +107,7 @@ At the turn of the 18th century, Italian instrumental music—particularly the s
 | 7th. | Presto-Adagio | am | 2/2 | Part A: a+b <br> Part B: b'+c <br> Part B': b"+c' <br>Coda |
 | 8th. | Aria | AM | 2/2 | Part A: a+a' <br> Part B: b+b'+b" <br> Part A: a+a' <br>Part C: c+c' <br>Part A': a+a' <br>Part A: a+a' |
 
-## What is a violin?
+## What is a violin? 🎻
 **The violin** is a string instrument with four strings, played by drawing a bow across the strings or by plucking them with the fingers.
 Among string instruments, it has the highest pitch range, and its tone is clear and delicate.  
 The violin plays a central role in orchestras, chamber music, and solo performances across a wide range of musical genres.  
@@ -118,7 +117,7 @@ In the Romantic era, the violin became a powerful tool for emotional expression,
 In the modern era, the use of metal strings, advanced bow construction, and electronic technology has further enhanced the violin’s volume and expressive capabilities.
 Today, the violin is actively used not only in classical music but also in jazz, film scores, and many other musical styles.  
 
-<img src="./delaguerre_portrait2.png" alt="portrait" style="width:50%;" />
+<img src="./violin.png" alt="violin" style="width:40%;" />
 
 ## Listening Guide 
 During the Baroque era, most musical pieces weren't strictly limited to the written score; performers often added improvised and free **ornamentation**. Let's listen to this piece, imagining those spontaneous embellishments. [[Back to TOC]](#table-of-contents)
