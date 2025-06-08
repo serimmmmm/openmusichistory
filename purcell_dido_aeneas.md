@@ -1,7 +1,9 @@
 # Henry Purcell (1659-1695)
 <img src="./Henry_Purcell_resized.jpg" alt="portrait" stylr="width:60%;" />
 
-Credit: 
+Credit: An image of Henry Purcell created by ChatGPT 4o, Jun 7, 2025, 11:02:54 PM, with the prompt "Create an image of Henry Purcell."
+
+
 ## Table of Contents
 - [Learning Objectives](#learning-objectives)
 - [Listening Tips](#listening-tips)
