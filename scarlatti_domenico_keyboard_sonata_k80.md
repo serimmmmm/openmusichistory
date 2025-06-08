@@ -1,6 +1,6 @@
 <img src="./D.Scarlatti portrait.jpeg" alt="portrait" style="width50%;"  />
 
-# Domenico Scarlatti (1685~1757)
+## Domenico Scarlatti (1685~1757)
 
 Italian Composer
 **Domenico Scarlatti** was one of the most original composers of the 18th century, best known for his virtuosic keyboard sonatas. Born in **Naples** in 1685—the same year as Johann Sebastian Bach and George Frideric Handel—Scarlatti was part of a generation that stood at the threshold **between the Baroque and Classical eras**.
