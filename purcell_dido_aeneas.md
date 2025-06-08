@@ -5,7 +5,7 @@ Credit: An image of Henry Purcell created by ChatGPT 4o, Jun 7, 2025, 11:02:54 P
 
 
 ## Table of Contents
-- [Learning Objectives](#learning-objectives)
+- [Learning Objectives](learning-objectives)
 - [Listening Tips](#listening-tips)
 - [Purcell's Life](#purcellis-life)
 - [About Henry Purcell](#about-henry-purcell)
