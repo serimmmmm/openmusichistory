@@ -1,6 +1,16 @@
 # Henry Purcell (1659-1695)
 <img src="./henrypurcell.jpg" alt="portrait" stylr="width:60%;" />
 
+## Table of Contents
+- [Learning Objectives](learning-objectives)
+- [Listening Tips](listening-tips)
+- [Purcell's Life](purcell's-life)
+- [About Henry Purcell](about-henry-purcell)
+- [Situating Henry Purcell in His Composition in Historical Context](situating-henry-purcell-in-his-composition-in-historical-context)
+- [Artworks from This Peroid](artworks-from-this-period)
+- [List of Important Works](list-of-important-works)
+- [Excerpt from Purcell's Music](excerpt-from-purcell's-music)
+  
 ## 🎯 Learning Objectives
 
 - Learn about the **Baroque period**, including its historical and musical characteristics.
@@ -16,6 +26,8 @@
 
 <img src="./didoandaeneas (2).png" alt="portrait" stylr="width:69%;" />
 
+## Purcell's Life
+
 | Year | Event |
 |------|-------|
 | 1659 | Henry Purcell was born in London |
@@ -28,7 +40,7 @@
 | 1695 | Died and was buried in Westminster Abbey |
 
 
-
+## About Henry Purcell
 
  Henry Purcell is British composer. Henry Purcell Britishized elements of Italian and French music to create his own creative original works. I want to create my own original music world like Henry Purcell. 
  
@@ -54,7 +66,7 @@ Purcell masterfully synthesized Italian melodic expressiveness, French rhythmic 
 Legacy in Context
 Although he died young, Purcell’s work became a symbol of English musical identity during a time when England was redefining itself politically, culturally, and religiously. His music captured the spirit of Restoration England—both its grandeur and its emotional complexity. His influence continued into the 20th century, especially through Benjamin Britten, who reinterpreted his themes for modern audiences.
 
-
+## Artworks from This Period
 
 <img src="./didoandaeneas.png" alt="portrait" stylr="width:60%;" />
 
@@ -86,6 +98,8 @@ Although he died young, Purcell’s work became a symbol of English musical iden
 | 1692 | The Fairy Queen | [Listen](https://youtu.be/QAvS3AypQfI?si=S1eaYmEOkG-Jn9lp) |
 | 1664 | The Indian Queen | [Listen](https://youtu.be/-j7tjTuDpvg?si=Ig_Rcu7owkKr8K_l) |
 | 1691 | The Cold Song | [Listen](https://youtu.be/Q8K8wFk-tn8?si=HxScwQTPUBwevTql) |
+
+## Excerpt from Purcell's Music
 
 <img src="./Dido and Aeneas-1.png" alt="portrait" style="width:60%;" />
 
