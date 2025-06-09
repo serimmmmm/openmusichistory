@@ -13,7 +13,21 @@ Johann Jakob Froberger (1616–1667) was a German composer who lived during the 
 
 He was the first among German composers to create suites specifically for keyboard instruments, establishing a model that would later influence composers like Johann Sebastian Bach. Froberger’s works demonstrate an early Baroque aesthetic marked by contrast, emotion, and individuality, and his music played a significant role in shaping the keyboard repertoire of the time.
 
-I chose Froberger because his music served as a **bridge between Italian, French, and German traditions**, laying the foundation for later Baroque composers. His deeply personal and emotionally expressive keyboard works still resonate today, giving his music a **timeless value** that is not only historically important but also artistically profound.
+## Life journey 
+
+| Year | Location | Event |
+| ---- | -------- | ----- |
+| 1616 | Stuttgart, Germany | Born |
+| Around 1634 | Rome, Italy | Studied under Francesco Frescobaldi |
+| Around 1649 | Vienna, Austria | Began working at the Habsburg court |
+| 1650–1667 | Vienna and Germany | Composed keyboard works and developed suite form |
+| 1667 | Vienna, Austria | Died |
+
+Johann Jakob Froberger was a German composer who was born in 1616 in Stuttgart. Around 1634, he traveled to Rome, Italy, where he studied under the esteemed composer **Francesco Frescobaldi**, acquiring the improvisatory and expressive qualities characteristic of the Italian keyboard tradition. Between 1637 and 1649, Froberger extensively traveled across Europe—including Italy, France, and Germany—absorbing diverse musical styles, notably French dance forms and German contrapuntal techniques.
+
+Around 1649, he settled in Vienna, Austria, and entered the service of the **Habsburg court**. From 1650 to 1667, he actively composed, contributing significantly to the development of the **keyboard suite**. His works exemplify early Baroque musical aesthetics, distinguished by clear contrasts, emotional depth, and individual expression. Froberger’s musical innovations profoundly influenced subsequent composers, particularly **Johann Sebastian Bach**.
+
+He passed away in Vienna in 1667, concluding a career whose legacy and innovations are recognized as pivotal to the evolution of European Baroque keyboard music.
 
 ## List of Important works
 
@@ -24,4 +38,13 @@ I chose Froberger because his music served as a **bridge between Italian, French
 | 1650 | Partita in A Minor, FbWV 601 | [Listen](https://youtu.be/CMbyooDgtnI?si=aDWiwy-BfmK6Q1lo) |
 
 ## Fantasia in C Major, FbWV 201
+
+Fantasia in C Major, FbWV 201 is one of Johann Jakob Froberger’s significant early Baroque keyboard works. The piece features a free and improvisatory form, clearly expressing emotional depth and musical contrast. Froberger masterfully blends the improvisational style of Italian composer Frescobaldi, French dance rhythms and ornamentation, and the contrapuntal techniques of Germany to create a unique musical character.
+
+This work exemplifies the balance between emotion and technique typical of Baroque music and highlights Froberger’s lasting influence on later composers, especially Johann Sebastian Bach. Fantasia in C Major played an important role in the development of keyboard music during its time and continues to be highly valued for its artistic merit today.
+
+> **Froberger was one of the most expressive and refined composers of his time, whose keyboard works combined Italian brilliance, French elegance, and German thoroughness.** - Johann Mattheson, Der vollkommene Capellmeister (Hamburg, 1739)
+
+[Fantasia in C Major, FbWV 201](https://youtu.be/gCyescmLEs4?si=fvcnw6JXi1CTsDbG)
+
 <img src="./Fantasia in C Major, FbWV 201.jpg" alt="portrait" style="width:55%;" />
