@@ -8,17 +8,17 @@
 
 ## Table of Contents
 
-- [W.F.Bach's Life](#wfbach-life)
+- [Wilhelm Fridemann Bach's Life](#wilhelm_friedemann_bach_life)
 - [Timeline of Wilhelm Fridemann Bach](#timeline_of_wfbach)
 - [Artworks From W.F.Bach's Period](#artworks_from_period)
 - [List of important works](#list_of_important_works)
-- [The Instrument Used During W.F.Bach's Time](#the_instrument_used_during_wfbach_time)
+- [The Instrument Used During Bach's Time](#the_instrument_used_during_bach_time)
 - [Score of three duets for two violas](#score_of_three_duets_for_two_violas)
 - [Listening Guide](#listening_guide)
 
 ---
 
-## W.F.Bach's Life
+## Wilhelm Fridemann Bach's Life
 
 Have you ever listened to ‘Klavierbüchlein fur Wilhelm Friedemann Bach of keyboard pieces?
 [📺](https://www.youtube.com/watch?v=f-cKJXqJGGg) 
@@ -44,7 +44,7 @@ Despite his undeniable genius, his struggle to find a consistent place in this c
 | 1784 | Died in Berlin |
 
 
-## Artworks From W.F.Bach's Period
+## Artworks From Wilhelm Fridemann Bach's Period
 <table>
  <tr>
    <td>
@@ -69,7 +69,7 @@ Despite his undeniable genius, his struggle to find a consistent place in this c
 
 
 
-## The Instrument Used During W.F.Bach's Time
+## The Instrument Used During Wilhelm Fridemann Bach's Time
 
 <img src="./bach_wilhelm_friedemann_viola.png" alt="instrument" style="width:35%;" />
 W.F. Bach played the organ and he also left a piece for violas
