@@ -53,3 +53,7 @@ This work exemplifies the balance between emotion and technique typical of Baroq
 * Harpsichord
 
 <img src="./하프시코드.png" alt="portrait" style="width:20%;" />
+
+## Why Important 
+
+Froberger’s music is important because he was the first German composer to systematically blend Italian expressiveness, French elegance, and German counterpoint in keyboard music. He pioneered the keyboard suite and helped define early Baroque aesthetics of emotional depth, contrast, and individuality, laying the groundwork for later composers like J.S. Bach.
