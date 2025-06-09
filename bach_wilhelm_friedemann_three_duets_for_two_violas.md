@@ -49,16 +49,15 @@ Despite his undeniable genius, his struggle to find a consistent place in this c
 [Back to TOC](#table-of-contents)
 
 ## Artworks From Wilhelm Fridemann Bach's Period
-<table>
- <tr>
-   <td>
-    <div align="center">
-      <img src="./antiochus_and_stratonice.png" alt="paintings" style="width:75%;" />
 
-    
-  Antiochus and stratonice, Jacques-Louis David (1774) 
+<img src="./antiochus_and_stratonice.png" alt="paintings" style="width:75%;" />
 
-</table>
+Antiochus and stratonice, Jacques-Louis David (1774)
+
+
+Credit : Antiochus and stratonice, Jacques-Louis David, 1774, Public Domain, [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Jacques-Louis_David_-_Antiochus_and_Stratonica_-_WGA06042.jpg)
+
+
 
 [Back to TOC](#table-of-contents)
 
