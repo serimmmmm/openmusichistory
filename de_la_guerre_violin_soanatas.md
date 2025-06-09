@@ -51,6 +51,7 @@ At the turn of the 18th century, Italian instrumental music—particularly the s
 
 ## Sonata No. 1  
 ![score](./delaguerre_악보최종.png)
+Sonata No. 1 consists of a total of 439 measures, making it the longest of the six sonatas published in 1707. It is composed of six movements, all of which begin with an anacrusis.  
 소나타 1번은 총 439마디로 되어있으며 1707년에 출판된 6개의 소나타 중 가장 긴 작품이다. 악장은 총 6개로 구성되며 전 악장이 못갖춘 마디로 시작한다.  
 | Movement | Tempo | Key | Time Signature | Form |
 | -------- | ----- | --- | -------------- | ---- |
@@ -110,7 +111,7 @@ At the turn of the 18th century, Italian instrumental music—particularly the s
 ## What is a violin? 🎻
 **The violin** is a string instrument with four strings, played by drawing a bow across the strings or by plucking them with the fingers.
 Among string instruments, it has the highest pitch range, and its tone is clear and delicate.  
-The violin plays a central role in orchestras, chamber music, and solo performances across a wide range of musical genres.  
+The violin plays a central role in *orchestras*, *chamber music*, and *solo performances* across a wide range of musical genres.  
 During the Baroque era, violins used gut strings and a short, lightweight bow, producing an elegant and ornamented style of performance.
 In the Classical period, improvements in the instrument's structure and bow design allowed for a more refined and balanced sound.
 In the Romantic era, the violin became a powerful tool for emotional expression, with virtuosic techniques gaining prominence and the instrument's musical significance greatly expanding.
