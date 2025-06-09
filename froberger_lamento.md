@@ -22,7 +22,7 @@ German composer
 The "c." placed before a year is an abbreviation of the Latin word **"circa"**. It means "approximately" or "around".
 It's used when the exact date or year is unknown, indicating that an event happened approximately at that time. For instance, "c. 1634" means "around 1634."
 
-Source: https://en.wikipedia.org/wiki/Johann_Jakob_Froberger
+Source: [wikipedia](https://en.wikipedia.org/wiki/Johann_Jakob_Froberger)
 
 ## Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV, FBWV 612
 <img src="./froberger_lamento_ferdinanto_iv.png"
