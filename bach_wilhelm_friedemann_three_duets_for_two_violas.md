@@ -18,6 +18,7 @@
 
 ---
 
+
 ## Wilhelm Fridemann Bach's Life
 
 Have you ever listened to ‘Klavierbüchlein fur Wilhelm Friedemann Bach of keyboard pieces?
@@ -66,7 +67,6 @@ Despite his undeniable genius, his struggle to find a consistent place in this c
 | 1740 | Concerto for two Harpsichords in E flat Major | [Listen](https://www.youtube.com/watch?v=q-mZxJkj4Sk) |
 | 1775 | 3 Viola Duets | [Listen](https://www.youtube.com/watch?v=6b6BgNSQx3U) |
 | 1778 |  Fugue in F Minor | [Listen](https://www.youtube.com/watch?v=i7Y1na7cflg) |
-
 
 
 ## The Instrument Used During Wilhelm Fridemann Bach's Time
