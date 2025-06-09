@@ -105,4 +105,4 @@ Credit : An image of <ins>harpsichord</ins> created by Gemini 25 pro, Jun 6, 202
 
 Credit : *The Descent from the Cross* by Peter Paul Rubens, 1614, Public Domain, [Wikimedia Commons](https://commons.m.wikimedia.org/wiki/File:Descent_from_the_Cross_(Rubens)_July_2015-1a.jpg#mw-jump-to-license)
 
-Explanation : A painting by Peter Paul Rubens, depicting the moment Jesus Christ is taken down from the cross. [[Back to TOC]](#table-of-contents)
+Explanation : It is known that this work was commissioned and created by Rubens after he returned from a long stay in Italy. The painting dramatically depicts **the scene of Jesus's body being taken down from the cross** and evokes an atmosphere of intense sorrow. This sorrow is particularly prominent in the depiction of Jesus's mother Mary (the figure in blue), desperately reaching out to touch her son, which clearly demonstrates a characteristic of Baroque art that **aims to evoke emotional states in a dramatic manner**. [[Back to TOC]](#table-of-contents)
