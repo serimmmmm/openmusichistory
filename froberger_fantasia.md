@@ -57,3 +57,14 @@ This work exemplifies the balance between emotion and technique typical of Baroq
 ## Why Important 
 
 Froberger’s music is important because he was the first German composer to systematically blend Italian expressiveness, French elegance, and German counterpoint in keyboard music. He pioneered the keyboard suite and helped define early Baroque aesthetics of emotional depth, contrast, and individuality, laying the groundwork for later composers like J.S. Bach.
+
+<img src="./바로크 미술 작품.png" alt="portrait" style="width:20%;" />
+
+> **Rembrandt van Rijn – The Night Watch (1642), Rijksmuseum, Amsterdam**. A dynamic and dramatic group portrait that masterfully uses light and shadow to capture motion and individuality, epitomizing the Baroque emphasis on emotional intensity and realism.
+
+Frescobaldi’s works and **Rembrandt**’s "**The Night Watch**" (1642) both embody key characteristics of **Baroque art**, such as **dramatic contrasts** and profound emotional expression. Frescobaldi’s music highlights dynamic shifts, rhythm, and improvisatory qualities, which parallel the striking chiaroscuro and energetic composition of The Night Watch. Both pieces powerfully engage their audiences, capturing the cultural spirit and artistic passion of their era.
+
+I chose Froberger because his music uniquely blends diverse European musical traditions of the Baroque period into an **original style**. His compositions go beyond technical mastery to convey personal emotion and individuality, significantly influencing the development of Baroque music. Moreover, his works continue to resonate deeply today, holding **timeless artistic value**.
+
+Ultimately, Froberger’s music represents the rich artistic exchanges of 17th-century Europe and demonstrates how music serves as a vital medium for expressing human emotion and creativity. Through his works, we gain insight into the historical evolution of art and appreciate how its enduring significance continues to inspire us now.
+
