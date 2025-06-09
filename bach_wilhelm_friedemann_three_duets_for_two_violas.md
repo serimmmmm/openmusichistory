@@ -12,7 +12,7 @@
 - [Timeline of Wilhelm Fridemann Bach](#timeline-of-wilhelm-friedemann-bach)
 - [Artworks From W.F.Bach's Period](#artworks-from-wilhelm-fridemann-bachs-period)
 - [List of important works](#list-of-important-works)
-- [The Instrument Used During Bach's Time](#the-instrument-used-during-bach-time)
+- The Instrument Used During Bach's Time
 - [Score of three duets for two violas](#score-of-three-duets-for-two-violas)
 - [Listening Guide](#listening-guide)
 
