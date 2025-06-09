@@ -1,7 +1,7 @@
 ## Johann Jakob Froberger (1616-1667)
 
 <img src="./froberger.jpg"
-alt="portrait" style="width:25%;" />
+alt="portrait" style="width:30%;" />
 
 German composer
 **Johann Jakob Froberger** (1616-1667) was a prominent German composer active in the early Baroque era. He's recognized as a pioneer who fundamentally shaped the form of **harpsichord music** and was among the first to embed personal emotions within his compositions. **His unique style** emerged from a synthesis of Italian and French musical idioms, expertly combined with the rigorous German counterpoint tradition, significantly influencing later generations of composers.
@@ -42,18 +42,16 @@ The **Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV**, F
 
 #### Instruments primarily used for
 <img src="./Harpsichord.jpg"
-alt="portrait" style="width:25%;" />
+alt="portrait" style="width:20%;" />
 
-**Harpsichord**
-A keyboard instrument where a plectrum plucks the strings when a key is pressed.
+**Harpsichord** - A keyboard instrument where a plectrum plucks the strings when a key is pressed.
 
 <img src="./Clavichord.jpg"
-alt="portrait" style="width:25%;" />
+alt="portrait" style="width:20%;" />
 
-**Clavichord**
-A keyboard instrument, widely used since the Middle Ages, where small metal blades called tangents strike the strings to produce sound.
+**Clavichord** - A keyboard instrument, widely used since the Middle Ages, where small metal blades called tangents strike the strings to produce sound.
 
-## List of Important Works
+## List of Other Important Works
 | Year | Works                                                                | YouTube |  
 | ------- | -------------------------------------------------------------------- | ------- |
 | 1654 | Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV | [Listen](https://youtu.be/CDEvG1hfvt4) |  
