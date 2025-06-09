@@ -48,3 +48,8 @@ This work exemplifies the balance between emotion and technique typical of Baroq
 [Fantasia in C Major, FbWV 201](https://youtu.be/gCyescmLEs4?si=fvcnw6JXi1CTsDbG)
 
 <img src="./Fantasia in C Major, FbWV 201.jpg" alt="portrait" style="width:55%;" />
+
+**Instrumentation:**
+* Harpsichord
+
+<img src="./하프시코드.png" alt="portrait" style="width:20%;" />
