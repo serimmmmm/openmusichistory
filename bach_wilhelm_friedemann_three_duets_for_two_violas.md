@@ -77,6 +77,9 @@ Credit : Antiochus and stratonice, Jacques-Louis David, 1774, Public Domain, [Wi
 ## The Instrument Used During Wilhelm Fridemann Bach's Time
 
 <img src="./bach_wilhelm_friedemann_viola.png" alt="instrument" style="width:35%;" />
+
+Credit : An image of viola created by Gemini 2.5pro, June 10. 2025, 00:30am
+
 W.F. Bach played the organ and he also left a piece for violas
 
 [Back to TOC](#table-of-contents)
