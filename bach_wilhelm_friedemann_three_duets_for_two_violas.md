@@ -84,6 +84,7 @@ W.F. Bach played the organ and he also left a piece for violas
 ## Score of three duets for two violas
 
 <img src="./bach_wilhelm_friedemann_score.png" alt="score" style="width:100%;" />
+
 [Back to TOC](#table-of-contents)
 
 ## Listening Guide
