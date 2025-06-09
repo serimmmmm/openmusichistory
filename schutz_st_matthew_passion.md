@@ -1,6 +1,6 @@
 # Heinrich Schütz(1585-1672)
 
-<img src="./schutz portrait.png" alt="schutz portrait" style="width:25%;" />
+<img src="./schutz portrait.png" alt="schutz portrait" style="width:35%;" />
 
 Credit : Portrait of Schutz by Christoph Spatner, 1660, Public Domain, [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/2/28/Schutz.jpg)
 
