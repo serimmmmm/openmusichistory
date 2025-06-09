@@ -9,12 +9,12 @@
 ## Table of Contents
 
 - [W.F.Bach's Life](#wfbach-life)
-- Timeline of Wilhelm Fridemann Bach
-- Artworks From W.F.Bach's Period
-- List of important works
-- The Instrument Used During W.F.Bach's Time
-- Score of three duets for two violas
-- Listening Guide
+- [Timeline of Wilhelm Fridemann Bach](#timeline_of_wfbach)
+- [Artworks From W.F.Bach's Period](#artworks_from_period)
+- [List of important works](#list_of_important_works)
+- [The Instrument Used During W.F.Bach's Time](#the_instrument_used_during_wfbach_time)
+- [Score of three duets for two violas](#score_of_three_duets_for_two_violas)
+- [Listening Guide](#listening_guide)
 
 ---
 
