@@ -5,13 +5,13 @@ Born: 1659
 Died: 1695
 Period: Baroque
 Composition: Dido and Aeneas
-Instrument: Lute
+Instrument: Opera
 ---
 
 # Henry Purcell (1659-1695)
-<img src="./Henry_Purcell_resized.jpg" alt="portrait" stylr="width:60%;" />
+<img src="./Henry_Purcell_resized.jpg" alt="portrait" stylr="width:60%;" />[^1]
 
-Credit: An image of Henry Purcell created by ChatGPT 4o, Jun 7, 2025, 11:02:54 PM, with the prompt "Create an image of Henry Purcell."
+[^1]:Credit: An image of Henry Purcell created by ChatGPT 4o, Jun 7, 2025, 11:02:54 PM, with the prompt "Create an image of Henry Purcell."
 
 
 ## Table of Contents
@@ -39,9 +39,9 @@ Credit: An image of Henry Purcell created by ChatGPT 4o, Jun 7, 2025, 11:02:54 P
 
 ## Instrument Used During This Period
 
-<img src="./A_photograph_of_a_lute,_a_stringed_musical_instrum.jpg" alt="portrait" stylr="width:69%;" />
+<img src="./A_photograph_of_a_lute,_a_stringed_musical_instrum.jpg" alt="portrait" stylr="width:69%;" />[^2]
 
-Credit: An image of Lute created by ChatGPT 4o, Jun 7, 2025, 11:12:39 PM, with the prompt "Create an image of Lute used during the period of Henry Purcell."
+[^2]:Credit: An image of Lute created by ChatGPT 4o, Jun 7, 2025, 11:12:39 PM, with the prompt "Create an image of Lute used during the period of Henry Purcell."
 
 
 ## Purcell's Life
@@ -85,9 +85,9 @@ Although he died young, Purcell’s work became a symbol of English musical iden
 
 ## Artworks from This Period
 
-<img src="./The_Calling_of_Saint_Matthew-Caravaggo_(1599-1600).jpg" alt="portrait" stylr="width:60%;" />
+<img src="./The_Calling_of_Saint_Matthew-Caravaggo_(1599-1600).jpg" alt="portrait" stylr="width:60%;" />[^3]
 
-Credit: The Calling of Saint Matthew by Caravaggo, 1599-1600, Public Domain, [Wikimedia Commoms](https://commons.wikimedia.org/wiki/File:The_Calling_of_Saint_Matthew-Caravaggo_(1599-1600).jpg)
+[^3]:Credit: The Calling of Saint Matthew by Caravaggo, 1599-1600, Public Domain, [Wikimedia Commoms](https://commons.wikimedia.org/wiki/File:The_Calling_of_Saint_Matthew-Caravaggo_(1599-1600).jpg)
 
 
 
