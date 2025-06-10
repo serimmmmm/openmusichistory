@@ -1,3 +1,13 @@
+---
+Composer: Gaspar Sanz
+Nationality: Spain
+Born: 1640
+Died: 1710
+Period: Baroque
+Composition: Canarios
+Instrument: Guitar
+---
+
 # Gaspar Sanz (Francisco Bartolome Sanz Celma, 1640-1710)
 
 ![portrait](./gaspar_sanz_portrait.jpg)
@@ -33,7 +43,7 @@
 | 1697 | Published the third and final book |
 | 1710 | Believed to have died around this year, though the exact date is unknown. |
 
-Gaspar Sanz was a Spanish composer, Baroque guitarist, and priest. He studied Theology and Philosophy at the University of Salamanca, where he earned a Bachelor of Theology degree. After completing his studies in Spain, he traveled to Italy to study music, where he learned to play the Baroque guitar. During this time, he studied under several prominent Italian composers and guitarists, most notably Lelio Colista (1629–1680), who was praised by [Arcangelo Corelli](Arcangelo_Corelli.md) as one of the "più professori musici di Roma" (the most esteemed music professors in Rome).
+**Gaspar Sanz** was a Spanish composer, **Baroque guitarist**, and priest. He studied Theology and Philosophy at the University of Salamanca, where he earned a Bachelor of Theology degree. After completing his studies in Spain, he traveled to Italy to study music, where he learned to play the Baroque guitar. During this time, he studied under several prominent Italian composers and guitarists, most notably Lelio Colista (1629–1680), who was praised by [Arcangelo Corelli](corelli_la_folia.md) as one of the "più professori musici di Roma" (the most esteemed music professors in Rome).
 
 Sanz began his professional career by teaching the guitar to Don Juan, the son of King Felipe IV of Spain. He later published a series of pedagogical works for the guitar, which were dedicated to Don Juan. These instructional books, compiled into three major volumes, contain the entirety of his surviving works.
 
