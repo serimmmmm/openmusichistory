@@ -20,6 +20,7 @@ Instrument: Guitar
 - [Historical Context and Importance](#historical-context-and-importance)
 - [List of Important Works](#list-of-important-works)
 - [Listening Guide of *Canarios*](#listening-guide-of-canarios)
+- [Instrument: Baroque Guitar](#instrument-baroque-guitar)
 - [Why Gaspar Sanz?](#why-gaspar-sanz)
 
 ## Something to Think about
@@ -28,6 +29,7 @@ Instrument: Guitar
 2. In what ways did Sanz’s musical training in Italy shape his compositional voice and pedagogical methods?
 3. Does Sanz Represent the Essence of Spanish Baroque Culture?
 4. How did Sanz’s pedagogical works influence the development of guitar instruction and repertoire?
+
 [Back to TOC](#table-of-contents)
 
 ## About Gaspar Sanz
@@ -91,6 +93,8 @@ At the Sanz's era, guitar was evolving from a primarily folk instrument to one w
 ## Instrument: Baroque Guitar
 
 The **Baroque guitar** was a popular string instrument in Europe during the 17th and early 18th centuries. It typically had **five courses (pairs of strings)** made of gut, and it served as a predecessor to the modern classical guitar. The instrument was known for its decorative campanella and strummed arpeggios, combining harmonic and melodic elements in accompaniment styles. Notable composers for the Baroque guitar include **Gaspar Sanz** and **Robert de Visee**.
+
+[Back to TOC](#table-of-contents)
 
 
 ## Why Gaspar Sanz?
