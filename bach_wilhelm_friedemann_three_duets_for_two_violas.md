@@ -20,13 +20,13 @@ Credit : Portrait of Wilhelm Fridemann Bach by Dr. Martin Falck-Leipzig, 1782, P
 
 ## Table of Contents
 
-- [Wilhelm Fridemann Bach's Life](#wilhelm-friedemann-bach-life)
-- [Timeline of Wilhelm Fridemann Bach](#timeline-of-wilhelm-friedemann-bach)
-- [Artworks From W.F.Bach's Period](#artworks-from-wilhelm-fridemann-bachs-period)
-- [List of important works](#list-of-important-works)
-- [The Instrument Used During Wilhelm Fridemann Bach's Time](#the-instrument-during-wilhelm-fridemann-bachs-time)
-- [Score of three duets for two violas](#score-of-three-duets-for-two-violas)
-- [Listening Guide](#listening-guide)
+-[Wilhelm Fridemann Bach's Life](#wilhelm-friedemann-bach-life)
+-[Timeline of Wilhelm Fridemann Bach](#timeline-of-wilhelm-friedemann-bach)
+-[Artworks From W.F.Bach's Period](#artworks-from-wilhelm-fridemann-bachs-period)
+-[List of important works](#list-of-important-works)
+-[The Instrument Used During Wilhelm Fridemann Bach's Time](#the-instrument-during-wilhelm-fridemann-bachs-time)
+-[Score of three duets for two violas](#score-of-three-duets-for-two-violas)
+-[Listening Guide](#listening-guide)
 
 ---
 
