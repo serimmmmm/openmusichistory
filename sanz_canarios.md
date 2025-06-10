@@ -94,6 +94,8 @@ At the Sanz's era, guitar was evolving from a primarily folk instrument to one w
 
 ![guitar](./sanz_baroque_guitar.png)
 
+(Credit: The Guitar Player by Johannes Veemer)
+
 The **Baroque guitar** was a popular string instrument in Europe during the 17th and early 18th centuries. It typically had **five courses (pairs of strings)** made of gut, and it served as a predecessor to the modern classical guitar. The instrument was known for its decorative campanella and strummed arpeggios, combining harmonic and melodic elements in accompaniment styles. Notable composers for the Baroque guitar include **Gaspar Sanz** and **Robert de Visee**.
 
 [Back to TOC](#table-of-contents)
