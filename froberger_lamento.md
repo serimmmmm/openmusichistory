@@ -1,4 +1,14 @@
-## Johann Jakob Froberger (1616-1667)
+---
+Composer: Johann Jakob Froberger
+Nationality: Germany
+Born: 1616
+Died: 1667
+Period: Baroque
+Composition: Lamento, FBWV 612
+instrument: Harpsichord, Clavichord
+---
+
+# Johann Jakob Froberger (1616-1667)
 
 <img src="./froberger.jpg"
 alt="portrait" style="width:30%;" />
@@ -28,7 +38,9 @@ Source: [wikipedia](https://en.wikipedia.org/wiki/Johann_Jakob_Froberger)
 <img src="./froberger_lamento_ferdinanto_iv.png"
 alt="portrait" style="width:80%;" />
 
-#### Background of the Work
+[Listen](https://youtu.be/CDEvG1hfvt4)
+
+### Background of the Work
 
 The **Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV**, FBWV 612, stands as one of Froberger's most expressive and intimate keyboard works. Composed around 1657, it served as a heartfelt elegy for the unexpected death of Ferdinand IV, King of the Romans and heir to the Holy Roman Empire, that same year. Froberger, who maintained close connections with European courts and nobility, conceived this Lamento as a deeply personal articulation of his grief. This piece exemplifies his remarkable capacity to intertwine emotional depth with sophisticated musical structure, marking a pivotal moment in the development of expressive keyboard music during the Baroque period.
 
@@ -54,7 +66,7 @@ alt="portrait" style="width:20%;" />
 
 **Clavichord** - A keyboard instrument, widely used since the Middle Ages, where small metal blades called tangents strike the strings to produce sound.
 
-## List of Other Important Works
+# List of Other Important Works
 | Year | Works                                                                | YouTube |  
 | ------- | -------------------------------------------------------------------- | ------- |
 | 1654 | Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV | [Listen](https://youtu.be/CDEvG1hfvt4) |  
@@ -65,8 +77,9 @@ alt="portrait" style="width:20%;" />
 
 
 
-## Froberger's Pioneering Role in Baroque Keyboard Development
+# Froberger's Pioneering Role in Baroque Keyboard Development
 
 **Froberger** was truly an **international composer**, one of the earliest to seamlessly blend German, Italian, and French styles, thereby laying crucial groundwork for the Baroque era's keyboard music forms. He is particularly renowned for formalizing the standard order of movements —Allemande, Courante, Sarabande, and Gigue— within **keyboard suites**. Beyond mere technical display, Froberger was ahead of his time in his ability to imbue his music with personal feelings and experiences. His works subsequently exerted considerable influence on composers such as **Couperin** and **Bach**, and they remain indispensable for understanding the historical evolution of harpsichord and keyboard music even today.
 
 
+---
