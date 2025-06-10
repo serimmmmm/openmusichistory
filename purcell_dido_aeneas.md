@@ -15,15 +15,15 @@ Credit: An image of Henry Purcell created by ChatGPT 4o, Jun 7, 2025, 11:02:54 P
 
 
 ## Table of Contents
-- [Learning Objectives](#🎯-learning-objectives)
+- [Learning Objectives](#learning-objectives)
 - [Listening Tips](#listening-tips)
 - [Instrument Used During This Period](#instrument-used-during-this-period)
-- [Purcell's Life](#purcellis-life)
+- [Purcell's Life](#purcells-life)
 - [About Henry Purcell](#about-henry-purcell)
 - [Situating Henry Purcell in His Composition in Historical Context](#situating-henry-purcell-in-his-composition-in-historical-context)
 - [Artworks from This Peroid](#artworks-from-this-period)
 - [List of Important Works](#list-of-important-works)
-- [Excerpt from Purcell's Music](#excerpt-from-purcellis-music)
+- [Excerpt from Purcell's Music](#excerpt-from-purcells-music)
   
 ## 🎯 Learning Objectives
 
