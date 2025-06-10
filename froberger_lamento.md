@@ -20,7 +20,7 @@ German composer
 
 # Table of Contents
 - [Timeline of Johann Jakob Froberger](#Timeline-of-Johann-Jakob-Froberger)
-- [Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV, FBWV 612](#Lamento-sopra-la-dolorosa-perdita-della-Real-Maestà-di-Ferdinando-IV,-FBWV-612)
+- [Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV, FBWV 612](#lamento-sopra-la-dolorosa-perdita-della-real-maesta-di-ferdinando-iv,-fbwv-612)
   
   Background of the Work
   
