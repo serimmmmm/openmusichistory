@@ -1,3 +1,13 @@
+---
+Composer: Louis Couperin
+Nationality: France
+Born: 1626
+Died: 1661
+Period: Baroque
+Composition: Chaconne in D
+Instrument: Harpsichord
+---
+
 # Louis Couperin (1626-1661)
 
 <img src="./couperin_louis_portrait.png" alt="portrait" style="width:35%;" />[^1] <img src="./thedancetothemusicoftime.jpg" alt="portrait" style="width:45%;" />[^2]
