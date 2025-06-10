@@ -17,13 +17,12 @@ Instrument: Opera
 ## Table of Contents
 - [Learning Objectives](#-learning-objectives)
 - [Listening Tips](#-listening-tips)
-- [Instrument Used During This Period](#instrument-used-during-this-period)
 - [Purcell's Life](#purcells-life)
 - [About Henry Purcell](#about-henry-purcell)
-- [Artworks from This Peroid](#artworks-from-this-period)
 - [List of Important Works](#list-of-important-works)
 - [Excerpt from Purcell's Music](#excerpt-from-purcells-music)
-  
+- [Instruments Used During the Period](#instruments-used-during-the-period)
+- [Artworks from This Peroid](#artworks-from-this-period)
 ## 🎯 Learning Objectives
 
 - Learn about the **Baroque period**, including its historical and musical characteristics.
@@ -36,12 +35,6 @@ Instrument: Opera
 - Observe the contrast between **solo arias**, **choruses**, and **instrumental passages**.
 - Notice how Purcell uses **text painting** to enhance the meaning of the lyrics.
 - Focus on how **musical elements reflect dramatic tension and emotion**.
-
-## Instrument Used During This Period
-
-<img src="./A_photograph_of_a_lute,_a_stringed_musical_instrum.jpg" alt="portrait" stylr="width:69%;" />[^2]
-
-[^2]:Credit: An image of Lute created by ChatGPT 4o, Jun 7, 2025, 11:12:39 PM, with the prompt "Create an image of Lute used during the period of Henry Purcell."
 
 
 ## Purcell's Life
@@ -83,12 +76,6 @@ Purcell masterfully synthesized Italian melodic expressiveness, French rhythmic 
 **Legacy in Context**
 Although he died young, Purcell’s work became a symbol of English musical identity during a time when England was redefining itself politically, culturally, and religiously. His music captured the spirit of Restoration England—both its grandeur and its emotional complexity. His influence continued into the 20th century, especially through Benjamin Britten, who reinterpreted his themes for modern audiences. [Back to TOC](#table-of-contents)
 
-## Artworks from This Period
-
-<img src="./The_Calling_of_Saint_Matthew-Caravaggo_(1599-1600).jpg" alt="portrait" stylr="width:60%;" />[^3]
-
-[^3]:Credit: The Calling of Saint Matthew by Caravaggo, 1599-1600, Public Domain, [Wikimedia Commoms](https://commons.wikimedia.org/wiki/File:The_Calling_of_Saint_Matthew-Caravaggo_(1599-1600).jpg)
-
 
 
 
@@ -119,5 +106,18 @@ Although he died young, Purcell’s work became a symbol of English musical iden
 ## Excerpt from Purcell's Music
 
 <img src="./Dido and Aeneas-1.png" alt="portrait" style="width:60%;" />
-
 [Back to TOC](#table-of-contents)
+
+## Instrument Used During This Period
+
+<img src="./A_photograph_of_a_lute,_a_stringed_musical_instrum.jpg" alt="portrait" stylr="width:69%;" />[^2]
+
+[^2]:Credit: An image of Lute created by ChatGPT 4o, Jun 7, 2025, 11:12:39 PM, with the prompt "Create an image of Lute used during the period of Henry Purcell."
+
+## Artworks from This Period
+
+<img src="./The_Calling_of_Saint_Matthew-Caravaggo_(1599-1600).jpg" alt="portrait" stylr="width:60%;" />[^3]
+
+[^3]:Credit: The Calling of Saint Matthew by Caravaggo, 1599-1600, Public Domain, [Wikimedia Commoms](https://commons.wikimedia.org/wiki/File:The_Calling_of_Saint_Matthew-Caravaggo_(1599-1600).jpg)
+[Back to TOC](#table-of-contents)
+
