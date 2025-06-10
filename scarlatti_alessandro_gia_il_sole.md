@@ -25,6 +25,7 @@ By reading this article, readers will gain an understanding of Alessandro Scarla
 - [Why Important](#why-important)
 - [List of Important Works](#list-of-important-works)
 - [Gia il sole dal Gange](#gia-il-sole-dal-gange)
+- [Listening Guide](#listening-guide)
 
 ## 🎼About Alessandro Scarlatti
 Alessandro Scarlatti (1660–1725) is an Italian composer who played a crucial role in establishing the Neapolitan opera tradition during the **Baroque** period, a time when music was becoming increasingly expressive, ornate, and structured around contrast and drama. He codified the *da capo aria*, which became central to Baroque **vocal music** and served as a structural model for arias throughout the 18th century. Scarlatti composed over 600 cantatas that remain essential for the study of the period, reflecting the Baroque interest in emotional expression, formal clarity, and vocal virtuosity.
@@ -87,7 +88,9 @@ The piece describes the rising sun over the Ganges River, and is characterized b
 
 <img src="./giailsole_score.png" alt="score" style="width:94%;" />
 
-## 🎧Listening Guide: *[Gia il sole dal Gange](https://youtu.be/PQV4d_Peux0?si=B6UEE0s1P5FqAvAi)* (⬅️Click)
+## 🎧Listening Guide
+
+[Gia il sole dal Gange](https://youtu.be/PQV4d_Peux0?si=B6UEE0s1P5FqAvAi) (⬅️Click)
 
 | Time     | Section / Lyrics               | What to Listen For                                                                 |
 |----------|--------------------------------|-------------------------------------------------------------------------------------|
