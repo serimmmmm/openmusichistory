@@ -71,7 +71,7 @@ Credit : Antiochus and stratonice, Jacques-Louis David, 1774, Public Domain, [Wi
 | Year | Works | YouTube |
 | ---- | ----- | ------- |
 | unknown  | Trio sonata in C major | [listen](https://www.youtube.com/watch?v=OLBvnDDBx8Y) |
-|around or after 1740 | Sinfonia in D minor | [listen](https://www.youtube.com/watch?v=WIMSczECPQI) |
+| around or after 1740 | Sinfonia in D minor | [listen](https://www.youtube.com/watch?v=WIMSczECPQI) |
 | 1740 | Concerto for two Harpsichords in E flat Major | [Listen](https://www.youtube.com/watch?v=q-mZxJkj4Sk) |
 | 1775 | 3 Viola Duets | [Listen](https://www.youtube.com/watch?v=6b6BgNSQx3U) |
 | 1778 |  Fugue in F Minor | [Listen](https://www.youtube.com/watch?v=i7Y1na7cflg) |
