@@ -5,7 +5,7 @@ Born: 1640
 Died: 1710
 Period: Baroque
 Composition: Canarios
-Instrument: Guitar
+Instrument: Baroque Guitar
 ---
 
 # Gaspar Sanz (Francisco Bartolome Sanz Celma, 1640-1710)
