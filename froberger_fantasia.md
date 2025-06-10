@@ -59,9 +59,9 @@ This work exemplifies the balance between emotion and technique typical of Baroq
 
 <img src="./Fantasia in C Major, FbWV 201.jpg" alt="portrait" style="width:55%;" />
 
-## Listening Guide
+### Listening Guide
 
-| time | text and Form | Description |
+| Time | Text and Form | Description |
 | ---- | ---- --- ---- | ----------- |
 | 0:00 – 0:20 | Subject Introduction (Exposition) | Main theme is presented in one voice and imitated in others—imitative counterpoint begins. |
 | 0:21 – 0:50 | Polyphonic Development | Layers of voices build as the theme is passed around; increasing harmonic tension. |
