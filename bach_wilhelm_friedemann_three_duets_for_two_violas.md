@@ -38,7 +38,7 @@ Despite his undeniable genius, his struggle to find a consistent place in this c
 
 ---
 
-## Timeline of Wilhelm Fridemann Bach
+## A Timeline of his life
 
 | Year | timeline | 
 | ---- | ----- |
