@@ -20,7 +20,6 @@ Credit: An image of Henry Purcell created by ChatGPT 4o, Jun 7, 2025, 11:02:54 P
 - [Instrument Used During This Period](#instrument-used-during-this-period)
 - [Purcell's Life](#purcells-life)
 - [About Henry Purcell](#about-henry-purcell)
-- [Situating Henry Purcell in His Composition in Historical Context](#situating-henry-purcell-in-his-composition-in-historical-context)
 - [Artworks from This Peroid](#artworks-from-this-period)
 - [List of Important Works](#list-of-important-works)
 - [Excerpt from Purcell's Music](#excerpt-from-purcells-music)
@@ -68,7 +67,6 @@ Purcell greatly influenced later English composers like Edward Elgar and Benjami
 
 A prominent instrumental composer contemporary with Henry Purcell was [Arcangelo Corelli](Arcangelo_Corelli.md) (1653–1713). While Purcell focused primarily on vocal and theatrical music, Corelli developed the genres of the trio sonata and concerto, helping to establish the formal structure of Baroque instrumental music. He is regarded as a pioneer of Baroque instrumental style and had a significant influence on composers throughout Europe. [Back to TOC](#table-of-contents)
 
-## Situating Henry Purcell and His Compositions in Historical Context
 Henry Purcell (1659–1695) lived and worked during a dynamic period in English and European history. His lifetime coincided with the Restoration era in England, following a period of political upheaval marked by **the English Civil War (1642–1651), the execution of King Charles I (1649), and the rule of Oliver Cromwell** during the Interregnum.
 
 During Cromwell’s Puritan government, public stage plays and much secular music were suppressed. However, after the monarchy was restored in 1660 with King Charles II, there was a revival of the arts, particularly in theatre and music. The king, having lived in exile in France, brought with him a taste for continental (especially French and Italian) musical styles. This cosmopolitan influence became a key part of the cultural atmosphere in which Purcell matured as a composer.
