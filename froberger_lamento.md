@@ -20,7 +20,7 @@ German composer
 
 # Table of Contents
 - [Timeline of Johann Jakob Froberger](#Timeline-of-Johann-Jakob-Froberger)
-- [Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV, FBWV 612](#lamento-sopra-la-dolorosa-perdita-della-real-maesta-di-ferdinando-iv,-fbwv-612)
+- [Lamento sopra la dolorosa perdita della Real Maesta di Ferdinando IV FBWV 612](#lamento-sopra-la-dolorosa-perdita-della-real-maesta-di-ferdinando-iv-fbwv-612)
   
   Background of the Work
   
@@ -29,7 +29,7 @@ German composer
   Instruments primarily used for
   
 - [List of Other Important Works](#List-of-Other-Important-Works)
-- [Froberger's Pioneering Role in Baroque Keyboard Development](#Froberger's-Pioneering-Role-in-Baroque-Keyboard-Development)
+- [Pioneering Role in Baroque Keyboard Development](#Pioneering-Role-in-Baroque-Keyboard-Development)
 
 # Timeline of Johann Jakob Froberger
 
@@ -49,7 +49,7 @@ It's used when the exact date or year is unknown, indicating that an event happe
 
 Source: [wikipedia](https://en.wikipedia.org/wiki/Johann_Jakob_Froberger)
 
-# Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV, FBWV 612
+# Lamento sopra la dolorosa perdita della Real Maesta di Ferdinando IV FBWV 612
 <img src="./froberger_lamento_ferdinanto_iv.png"
 alt="portrait" style="width:80%;" />
 
@@ -92,7 +92,7 @@ alt="portrait" style="width:20%;" />
 
 
 
-# Froberger's Pioneering Role in Baroque Keyboard Development
+# Pioneering Role in Baroque Keyboard Development
 
 **Froberger** was truly an **international composer**, one of the earliest to seamlessly blend German, Italian, and French styles, thereby laying crucial groundwork for the Baroque era's keyboard music forms. He is particularly renowned for formalizing the standard order of movements —Allemande, Courante, Sarabande, and Gigue— within **keyboard suites**. Beyond mere technical display, Froberger was ahead of his time in his ability to imbue his music with personal feelings and experiences. His works subsequently exerted considerable influence on composers such as **Couperin** and **Bach**, and they remain indispensable for understanding the historical evolution of harpsichord and keyboard music even today.
 
