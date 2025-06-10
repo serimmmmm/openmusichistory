@@ -61,8 +61,8 @@ This work exemplifies the balance between emotion and technique typical of Baroq
 
 ### Listening Guide
 
-| Time | Text and Form | Description |
-| ---- | ---- --- ---- | ----------- |
+| Timing | Text and Form | Description |
+| :---- | :---- --- ---- | :----------- |
 | 0:00 – 0:20 | Subject Introduction (Exposition) | Main theme is presented in one voice and imitated in others—imitative counterpoint begins. |
 | 0:21 – 0:50 | Polyphonic Development | Layers of voices build as the theme is passed around; increasing harmonic tension. |
 | 0:51 – 1:15 | Chromatic Passage | Chromaticism intensifies; expressive and dramatic harmonic shifts emerge. |
