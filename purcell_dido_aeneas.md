@@ -106,6 +106,7 @@ Although he died young, Purcell’s work became a symbol of English musical iden
 ## Excerpt from Purcell's Music
 
 <img src="./Dido and Aeneas-1.png" alt="portrait" style="width:60%;" />
+
 [Back to TOC](#table-of-contents)
 
 ## Instrument Used During This Period
