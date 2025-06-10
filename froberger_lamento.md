@@ -14,7 +14,12 @@ instrument: Harpsichord, Clavichord
 alt="portrait" style="width:30%;" />
 
 German composer
-**Johann Jakob Froberger** (1616-1667) was a prominent German composer active in the early Baroque era. He's recognized as a pioneer who fundamentally shaped the form of **harpsichord music** and was among the first to embed personal emotions within his compositions. **His unique style** emerged from a synthesis of Italian and French musical idioms, expertly combined with the rigorous German counterpoint tradition, significantly influencing later generations of composers.
+**Johann Jakob Froberger** (1616-1667) was a prominent German composer active in the early Baroque era. He's recognized as a pioneer who fundamentally shaped the form of **harpsichord music** and was among the first to embed personal emotions within his compositions.
+
+**His unique style** emerged from a synthesis of Italian and French musical idioms, expertly combined with the rigorous German counterpoint tradition, significantly influencing later generations of composers.
+
+# Table of Contents
+[]()
 
 ### Timeline of Johann Jakob Froberger
 
