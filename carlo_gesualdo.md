@@ -1,3 +1,13 @@
+---
+Composer: Carlo Gesualdo
+Nationality: 
+Born: 1566
+DIed: 1613
+Period: 
+Composition:
+Instrument:
+---
+
 # Carlo Gesualdo (1566~1613)
 
 ![Image](https://github.com/user-attachments/assets/ecb90d10-9008-451c-9863-73af19c8cadd)
