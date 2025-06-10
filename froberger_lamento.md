@@ -20,7 +20,7 @@ German composer
 
 # Table of Contents
 - [Timeline of Johann Jakob Froberger](#Timeline-of-Johann-Jakob-Froberger)
-- [Representative work](#Lamento-sopra-la-dolorosa-perdita-della-Real-Maestà-di-Ferdinando-IV,-FBWV-612)
+- [Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV, FBWV 612](#Lamento-sopra-la-dolorosa-perdita-della-Real-Maestà-di-Ferdinando-IV,-FBWV-612)
 - [List of Other Important Works](#List-of-Other-Important-Works)
 - [Why Important](#Froberger's-Pioneering-Role-in-Baroque-Keyboard-Development)
 
