@@ -1,3 +1,13 @@
+---
+Composer: Louis Couperin
+Nationality: France
+Born: 1626
+Died: 1661
+Period: Baroque
+Composition: Chaconne in D
+Instrument: Harpsichord
+---
+
 # Louis Couperin (1626-1661)
 
 <img src="./couperin_louis_portrait.png" alt="portrait" style="width:35%;" />[^1] <img src="./thedancetothemusicoftime.jpg" alt="portrait" style="width:45%;" />[^2]
@@ -52,7 +62,7 @@ Although his life was short, Louis Couperin's musical legacy, particularly his h
 
 <img src="./chaconne_in_d.png" alt="portrait" style="width:70%;" />
 
-### Listening Guide
+## Listening Guide
 
 | Timing | Text and Form |
 | ------ | ------------- |
@@ -69,7 +79,7 @@ Although his life was short, Louis Couperin's musical legacy, particularly his h
 [^4]: In chaconne form, particularly in the French Baroque style, a Refrain refers to the continuously repeating bass line or chord progression (the ostinato) that forms the structural backbone of the piece. The 4-measure excerpt repeats twice, making the total 8 measures, which serves as the refrain of this piece.
 [^5]: Couplets are the contrasting variations or episodes that appear between repetitions of this Refrain. They introduce melodic, rhythmic, or harmonic changes, offering diversity and developing the musical ideas while remaining rooted in the underlying bass pattern.
 
-### Key Features of Chaconne in d
+## Key Features of Chaconne in d
 
 - Archetype of the Chaconne[^6] Form: This piece exemplifies the typical chaconne structure, showcasing diverse variations built upon a repeating bass line (ostinato bass).
 - French Baroque Characteristics: While Italian chaconnes often emphasize flashy, improvisatory elements, Couperin's chaconne highlights the unique aesthetics of French Baroque. It features restrained elegance, delicate ornamentation, and profound emotional expression.
