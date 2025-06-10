@@ -19,9 +19,12 @@ German composer
 **His unique style** emerged from a synthesis of Italian and French musical idioms, expertly combined with the rigorous German counterpoint tradition, significantly influencing later generations of composers.
 
 # Table of Contents
-[]()
+- [Timeline of Johann Jakob Froberger](#Timeline-of-Johann-Jakob-Froberger)
+- [Representative work](#Lamento-sopra-la-dolorosa-perdita-della-Real-Maestà-di-Ferdinando-IV,-FBWV-612)
+- [List of Other Important Works](#List-of-Other-Important-Works)
+- [Why Important](#Froberger's-Pioneering-Role-in-Baroque-Keyboard-Development)
 
-### Timeline of Johann Jakob Froberger
+# Timeline of Johann Jakob Froberger
 
 | Year | timeline | 
 | ---- | ----- |
@@ -39,7 +42,7 @@ It's used when the exact date or year is unknown, indicating that an event happe
 
 Source: [wikipedia](https://en.wikipedia.org/wiki/Johann_Jakob_Froberger)
 
-## Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV, FBWV 612
+# Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV, FBWV 612
 <img src="./froberger_lamento_ferdinanto_iv.png"
 alt="portrait" style="width:80%;" />
 
