@@ -21,7 +21,7 @@ Instrument: Opera
 - [About Henry Purcell](#about-henry-purcell)
 - [List of Important Works](#list-of-important-works)
 - [Excerpt from Purcell's Music](#excerpt-from-purcells-music)
-- [Instruments Used During the Period](#instruments-used-during-the-period)
+- [Instruments Used During this Period](#instruments-used-during-this-period)
 - [Artworks from This Peroid](#artworks-from-this-period)
 ## 🎯 Learning Objectives
 
