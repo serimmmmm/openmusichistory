@@ -1,3 +1,13 @@
+---
+Composer: Henry Purcell
+Nationality: England
+Born: 1659
+Died: 1695
+Period: Baroque
+Composition: Dido and Aeneas
+Instrument: Lute
+---
+
 # Henry Purcell (1659-1695)
 <img src="./Henry_Purcell_resized.jpg" alt="portrait" stylr="width:60%;" />
 
@@ -5,7 +15,7 @@ Credit: An image of Henry Purcell created by ChatGPT 4o, Jun 7, 2025, 11:02:54 P
 
 
 ## Table of Contents
-- [Learning Objectives](#learning-objectives)
+- [Learning Objectives](#🎯-learning-objectives)
 - [Listening Tips](#listening-tips)
 - [Instrument Used During This Period](#instrument-used-during-this-period)
 - [Purcell's Life](#purcellis-life)
