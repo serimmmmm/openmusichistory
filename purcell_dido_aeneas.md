@@ -21,7 +21,7 @@ Instrument: Opera
 - [About Henry Purcell](#about-henry-purcell)
 - [List of Important Works](#list-of-important-works)
 - [Excerpt from Purcell's Music](#excerpt-from-purcells-music)
-- [Instruments Used During this Period](#instruments-used-during-this-period)
+- [Instrument Used During this Period](#instrument-used-during-this-period)
 - [Artworks from This Peroid](#artworks-from-this-period)
 ## 🎯 Learning Objectives
 
@@ -119,5 +119,7 @@ Although he died young, Purcell’s work became a symbol of English musical iden
 <img src="./The_Calling_of_Saint_Matthew-Caravaggo_(1599-1600).jpg" alt="portrait" stylr="width:60%;" />[^3]
 
 [^3]:Credit: The Calling of Saint Matthew by Caravaggo, 1599-1600, Public Domain, [Wikimedia Commoms](https://commons.wikimedia.org/wiki/File:The_Calling_of_Saint_Matthew-Caravaggo_(1599-1600).jpg)
+
+
 [Back to TOC](#table-of-contents)
 
