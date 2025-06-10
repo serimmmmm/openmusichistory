@@ -23,6 +23,14 @@ Johann Jakob Froberger (1616–1667) was a German composer who lived during the 
 
 He was the first among German composers to create suites specifically for keyboard instruments, establishing a model that would later influence composers like Johann Sebastian Bach. Froberger’s works demonstrate an early Baroque aesthetic marked by contrast, emotion, and individuality, and his music played a significant role in shaping the keyboard repertoire of the time.
 
+## Table of Contents
+
+- [Life journey](#life-journey)
+- [List of Important works](#list-of-important-works)
+- [Fantasia in C Major, FbWV 201](#fantasia-in-c-major,-fbWV-201)
+- [Listening Guide](#listening-guide)
+- [Why Important](#why-important)
+
 ## Life journey 
 
 | Year | Location | Event |
