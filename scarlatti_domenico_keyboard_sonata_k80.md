@@ -1,6 +1,17 @@
+## 📖 Table of Contents
+
+1. [Portrait](#portrait)
+2. [Domenico Scarlatti (1685–1757)](#domenico-scarlatti-16851757)
+3. [Biography Timeline](#biography-timeline)
+4. [List of Important Works](#list-of-important-works)
+5. [Listening Guide: Sonata in G major, K.80](#listening-guide-sonata-in-g-major-k80)
+6. [Harpsichord](#harpsichord)
+7. [Why Important](#why-important)
+
 <img src="./D.Scarlatti portrait.jpeg" alt="portrait" style="width50%;"  />
 
-# Domenico Scarlatti (1685~1757)
+
+## Domenico Scarlatti (1685~1757)
 
 Italian Composer
 **Domenico Scarlatti** was one of the most original composers of the 18th century, best known for his virtuosic keyboard sonatas. Born in **Naples** in 1685—the same year as Johann Sebastian Bach and George Frideric Handel—Scarlatti was part of a generation that stood at the threshold **between the Baroque and Classical eras**.
