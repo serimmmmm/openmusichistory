@@ -32,7 +32,7 @@ Despite his undeniable genius, his struggle to find a consistent place in this c
 - [A timeline of His life](#a-timeline-of-his-life)
 - [Artworks From W.F.Bach's Period](#artworks-from-wilhelm-fridemann-bachs-period)
 - [List of important works](#list-of-important-works)
-- [The Instrument Used During Wilhelm Fridemann Bach's Time](#the-instrument-during-wilhelm-fridemann-bachs-time)
+- [The Instrument Used During Wilhelm Fridemann Bach's Time](#the-instrument-used-during-wilhelm-fridemann-bachs-time)
 - [Score of three duets for two violas](#score-of-three-duets-for-two-violas)
 - [Listening Guide](#listening-guide)
 
