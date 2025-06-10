@@ -1,3 +1,13 @@
+---
+Composer: Wilhelm Friedemann Bach
+Nationality: Germany
+Born: 1710
+Died: 1784
+Period: Baroque and Early Clasiccal
+Compostion: Three duets for two viola
+Instrument: viola
+---
+
 # Wilhelm Friedemann Bach(1710-1784)
 ---
 
