@@ -15,8 +15,8 @@ Credit: An image of Henry Purcell created by ChatGPT 4o, Jun 7, 2025, 11:02:54 P
 
 
 ## Table of Contents
-- [Learning Objectives](#learning-objectives)
-- [Listening Tips](#listening-tips)
+- [Learning Objectives](#-learning-objectives)
+- [Listening Tips](#-listening-tips)
 - [Instrument Used During This Period](#instrument-used-during-this-period)
 - [Purcell's Life](#purcells-life)
 - [About Henry Purcell](#about-henry-purcell)
