@@ -18,21 +18,6 @@ Credit : Portrait of Wilhelm Fridemann Bach by Dr. Martin Falck-Leipzig, 1782, P
 ---
 **Wilhelm Fridemann Bach(1710-1784)** is a German composer. He is one of the many members of the Bach family. Despite having abundant talent, he has received relatively little attention. He is a person who has been re-examined after a while. Nevertheless, he has not yet been well-known. W.F. Bach lived during a pivotal and dynamic period in European, particularly German, music history. 
 
-## Table of Contents
-
--[Wilhelm Fridemann Bach's Life](#wilhelm-friedemann-bach-life)
--[Timeline of Wilhelm Fridemann Bach](#timeline-of-wilhelm-friedemann-bach)
--[Artworks From W.F.Bach's Period](#artworks-from-wilhelm-fridemann-bachs-period)
--[List of important works](#list-of-important-works)
--[The Instrument Used During Wilhelm Fridemann Bach's Time](#the-instrument-during-wilhelm-fridemann-bachs-time)
--[Score of three duets for two violas](#score-of-three-duets-for-two-violas)
--[Listening Guide](#listening-guide)
-
----
-
-
-## Wilhelm Fridemann Bach's Life
-
 Have you ever listened to ‘Klavierbüchlein fur Wilhelm Friedemann Bach of keyboard pieces?
 [📺](https://www.youtube.com/watch?v=f-cKJXqJGGg) 
 This adorable piece was written by J.S. Bach for his 10-year-old first son. Wilhelm Friedemann Bach was the first son born to **J.S. Bach** and Maria Barbara Bach in 1710.
@@ -40,8 +25,18 @@ Like [Domenico Scarlatti](scarlatti_domenico_keyboard_sonata_k80.md), son of Ale
 
 W.F. Bach, a composer from the Baroque period, began to receive music education from his father. He entered the University of Leipzig in 1729. Showing musical talent, he was appointed organist of the Church of Saint Sophia in Dresden in 1733. In 1746, he moved to Halle. After his father's death in 1740, he faced many difficulties. He married late in 1751, and in 1762, he was appointed to the court of Darmstadt, but he declined. In 1764, he resigned his position in Halle, and in 1774, he moved to Berlin to continue his independent music career.The chronic alcoholism that followed his father's death made it difficult for him to the end, and he died in Berlin in 1784.
 
-Despite his undeniable genius, his struggle to find a consistent place in this changing musical world has become relatively ambiguous compared to other family members. However, in essence, Wilhelm Friedemann Bach was a composer of immense talent who was deeply rooted in his father's Baroque tradition and composed throughout a period of profound stylistic upheaval. His life went through the rise and fall of the late Baroque and Classical periods. His music often reflects this tension and combines new expressive sensibilities with strict counterpoints. [Back to TOC](#table-of-contents)
+Despite his undeniable genius, his struggle to find a consistent place in this changing musical world has become relatively ambiguous compared to other family members. However, in essence, Wilhelm Friedemann Bach was a composer of immense talent who was deeply rooted in his father's Baroque tradition and composed throughout a period of profound stylistic upheaval. His life went through the rise and fall of the late Baroque and Classical periods. His music often reflects this tension and combines new expressive sensibilities with strict counterpoints. 
 
+## Table of Contents
+
+- [A timeline of His life](#a-timeline-of-his-life)
+- [Artworks From W.F.Bach's Period](#artworks-from-wilhelm-fridemann-bachs-period)
+- [List of important works](#list-of-important-works)
+- [The Instrument Used During Wilhelm Fridemann Bach's Time](#the-instrument-during-wilhelm-fridemann-bachs-time)
+- [Score of three duets for two violas](#score-of-three-duets-for-two-violas)
+- [Listening Guide](#listening-guide)
+
+---
 
 ## Timeline of Wilhelm Fridemann Bach
 
