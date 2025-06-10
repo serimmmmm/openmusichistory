@@ -1,3 +1,13 @@
+---
+Composer: Johann Jakob Froberger
+Nationality: German
+Born: 1616
+Die: 1667
+Period: Baroque
+Composition: Fantasia in C Major, FbWV 201
+Instrument: Harpsichord
+---
+
 # Johann Jakob Froberger (1616-1667)
 
 **Johann Jakob Froberger: A Musical Bridge of the Early Baroque**
@@ -48,6 +58,19 @@ This work exemplifies the balance between emotion and technique typical of Baroq
 [Fantasia in C Major, FbWV 201](https://youtu.be/gCyescmLEs4?si=fvcnw6JXi1CTsDbG)
 
 <img src="./Fantasia in C Major, FbWV 201.jpg" alt="portrait" style="width:55%;" />
+
+## Listening Guide
+
+| time | text and Form | Description |
+| ---- | ---- --- ---- | ----------- |
+| 0:00 – 0:20 | Subject Introduction (Exposition) | Main theme is presented in one voice and imitated in others—imitative counterpoint begins. |
+| 0:21 – 0:50 | Polyphonic Development | Layers of voices build as the theme is passed around; increasing harmonic tension. |
+| 0:51 – 1:15 | Chromatic Passage | Chromaticism intensifies; expressive and dramatic harmonic shifts emerge. |
+| 1:16 – 1:50 | Imitative Sequences | Motifs are sequenced and imitated closely; voices interweave with tighter rhythm. |
+| 1:51 – 2:20 | Contrapuntal Climax | The densest and most intense part of the piece, showcasing Froberger’s complexity. |
+| 2:21 – 2:50 | Textural Contrast | Moment of relief—less dense, more transparent textures offer contrast. |
+| 2:51 – 3:20 | Final Section and Cadence | Clear return to tonic; cadential formulas provide a satisfying conclusion. |
+
 
 **Instrumentation:**
 * Harpsichord
