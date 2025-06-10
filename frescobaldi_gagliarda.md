@@ -1,19 +1,20 @@
 # Girolamo Frescobaldi (1583–1643)
-<img src="frescobaldi.jpg" alt="portrait" style="width:25%;" />
+<img src="frescobaldi.png" alt="portrait" style="width:25%;" />
 
-Credit: Portrait of Frescobaldi by Claude Mellan, 1619, Public Domain, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Girolamo_Frescobaldi_(1583-1643),_engraving_by_Claude_Mellan_(1619).jpg)
+Credit: An image of Frescobaldi created by Gemeni, Jun 9, 2025, 22:01:04, with the prompt "Create an image of Girolamo Frescobaldi (1583–1643)."
+
  
 **Italian composer**, 
 I briefly studied **Frescobaldi** in a first-year university class. He is a **lesser-known composer**, but when I listened to his music, I found it incredibly captivating. What I found even more intriguing was the fact that the **great composer Bach** also **studied and transcribed Frescobaldi's music.** Since Frescobaldi contributed greatly to the development of keyboard music, I am eager to explore his life and works in more detail.
 
 ## Table of Contents
 - [Frescobaldi's Life](#frescobaldis-life)
-- List of Important Works
+- [List of Important Works](#list-of-important-works)
 - [Listening Guide](#listening-guide)
-- Excerpt from Frescobaldi's Music
+- [Excerpt from Frescobaldi's Music](#excerpt-from-frescobaldis-music)
 - [Instrument Used During This Period](#instrument-used-during-this-period)
-- About Frescobaldi
-- Artworks from This Period
+- [About Frescobaldi](#about-frescobaldi)
+- [Artworks from This Period](#artworks-from-this-period)
 
 ## Frescobaldi's Life
 | Year | Key Events and Activities                              |
@@ -42,9 +43,9 @@ When listening to Frescobaldi’s music, focus on the **flexible tempo** and del
 <img src="Gagliarda in G minor.png">
 
 ## Instrument Used During This Period
-<img src="cembalo_png.png" alt="portrait" style="width:50%;" />
+<img src="cembalo_ahn_ire.png" alt="portrait" style="width:50%;" />
 
-Credit: An image of harpsichord created by ChatGPT 4o, Jun 3, 2025, 11:54:04 AM, with the prompt "Create an image of harpsichord used during the period of Girolamo Frescobaldi (1583–1643)."
+Credit: An image of harpsichord created by Gemeni, Jun 9, 2025, 21:50:04, with the prompt "Create an image of harpsichord used during the period of Girolamo Frescobaldi (1583–1643)."
 
 ## About Frescobaldi
 **Girolamo Frescobaldi (1583-1643)** was a **pioneering figure of expressive freedom** in early Baroque music. He is particularly known for his use of **flexible tempo**, a significant departure from the strict musical practices of the time. Born in **Ferrara, Italy**, Frescobaldi gained fame during his lifetime and expanded his influence as the **organist at St. Peter's Basilica in Rome.**
@@ -53,11 +54,12 @@ Rather than simply adhering to the notated beat, Frescobaldi encouraged performe
 
 Frescobaldi's musical ideas .**profoundly impacted later composers.**, notably .**Johann Sebastian Bach.**, who closely studied his compositions. He redefined the role of the performer from a mere mechanical reproducer of notes to an .**active interpreter who conveys emotion and expression.**. This innovative approach made a crucial contribution to the .**development of Baroque music.**, particularly in enriching musical expression.
 
-The early Baroque era, during which Frescobaldi was active, was a period that moved away from the balanced music of the Renaissance towards a pursuit of .**more dramatic and emotional expression.**. Within this historical context, Frescobaldi's .**flexible tempo.** served as a vital element in conveying musical emotions with greater subtlety. Especially in the realm of .**keyboard music.**, he pioneered new expressive territories through .**improvisation.** and experimentation with .**free forms.**. His music significantly influenced not only his Italian contemporaries but also musicians in .**Northern Europe.**, laying a crucial foundation for the development of Baroque keyboard music. Frescobaldi's .**innovative endeavors** paved the way for subsequent composers to employ a freer and more diverse musical language.
+The early Baroque era, during which Frescobaldi was active, was a period that moved away from the balanced music of the Renaissance towards a pursuit of .**more dramatic and emotional expression.**. Within this historical context, Frescobaldi's .**flexible tempo.** served as a vital element in conveying musical emotions with greater subtlety. Especially in the realm of .**keyboard music.**, he pioneered new expressive territories through .**improvisation.** and experimentation with .**free forms.**. His music significantly influenced not only his Italian contemporaries but also musicians in .**Northern Europe.**, laying a crucial foundation for the development of Baroque keyboard music. Frescobaldi's .**innovative endeavors** paved the way for subsequent composers to employ a freer and more diverse musical language.[[Back to TOC]](#table-of-contents)
+
 
 ## Artworks from This Period
 
-<img src="the_calling_of_saint_matthew_png.png" alt="portrait" style="width:60%;" />
+<img src="the_calling_of_saint_matthew.png" alt="portrait" style="width:60%;" />
 
 Credit: *The Calling of Saint Matthew* by Caravaggio, 1600, Public Domain, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg)
 
