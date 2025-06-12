@@ -42,13 +42,13 @@ Instrument: Opera
 | Year | Event |
 |------|-------|
 | 1659 | Henry Purcell was born in **London** |
-| 1664 | Joined the Chapel Royal as a choirboy |
-| 1673 | Began apprenticeship as tuner of Westminster Abbey’s organ |
-| 1677 | Appointed composer for the King’s string orchestra |
-| 1679 | Became organist at Westminster Abbey |
-| 1682 | Appointed organist of the Chapel Royal |
+| 1664 | Joined **the Chapel Royal** as a choirboy |
+| 1673 | Began apprenticeship as tuner of **Westminster Abbey’s organ** |
+| 1677 | Appointed composer for the **King’s string orchestra** |
+| 1679 | Became organist at **Westminster Abbey** |
+| 1682 | Appointed organist of **the Chapel Royal** |
 | 1689 | Premiered the opera **Dido and Aeneas** |
-| 1695 | Died and was buried in Westminster Abbey |
+| 1695 | Died and was buried in **Westminster Abbey** |
 
 
 ## About Henry Purcell
@@ -58,7 +58,7 @@ Instrument: Opera
  Henry Purcell composed Theatre music the most. He also composed Opera and Sacred music. He was good at expressing emotions through melody and harmony. His aria **“Dido’s Lament”** from Dido and Aeneas is widely recognized for its emotional depth and is a hallmark of his style. Purcell died at the young age of 36, but he left behind a vast and diverse body of work. He worked as a court musician, composing prolifically during his short life.
 Purcell greatly influenced later English composers like Edward Elgar and Benjamin Britten. Britten, in particular, was known for reinterpreting Purcell’s works, such as in his Variations on a Theme of Purcell.
 
-A prominent instrumental composer contemporary with Henry Purcell was [Arcangelo Corelli](Arcangelo_Corelli.md) (1653–1713). While Purcell focused primarily on vocal and theatrical music, Corelli developed the genres of the trio sonata and concerto, helping to establish the formal structure of Baroque instrumental music. He is regarded as a pioneer of Baroque instrumental style and had a significant influence on composers throughout Europe. 
+A prominent instrumental composer contemporary with Henry Purcell was [Arcangelo Corelli](corelli_la_folia.md) (1653–1713). While Purcell focused primarily on vocal and theatrical music, Corelli developed the genres of the trio sonata and concerto, helping to establish the formal structure of Baroque instrumental music. He is regarded as a pioneer of Baroque instrumental style and had a significant influence on composers throughout Europe. 
 
 Henry Purcell (1659–1695) lived and worked during a dynamic period in English and European history. His lifetime coincided with the Restoration era in England, following a period of political upheaval marked by **the English Civil War (1642–1651), the execution of King Charles I (1649), and the rule of Oliver Cromwell** during the Interregnum.
 
