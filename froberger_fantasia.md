@@ -10,10 +10,9 @@ Instrument: Harpsichord
 
 # Johann Jakob Froberger (1616-1667)
 
-**Johann Jakob Froberger: A Musical Bridge of the Early Baroque**
-
 <img src="./프로베르거.png" alt="portrait" style="width:25%;" />
 
+**Johann Jakob Froberger: A Musical Bridge of the Early Baroque**
 > ### Learning Objectives
 > **Through this article, learners will understand that Johann Jakob Froberger played a crucial role during the early Baroque period by blending Italian, French, and German musical traditions to create distinctive keyboard works.** They will recognize how Froberger incorporated improvisatory and expressive qualities learned from Frescobaldi, French dance forms and ornamentation, as well as German contrapuntal techniques into his music. Learners will also grasp his pioneering role in systematizing keyboard suites, influencing later composers, especially Johann Sebastian Bach. Furthermore, they will appreciate the significance of emotional expression, individuality, and musical contrast in his compositions as central elements of Baroque aesthetics, and understand the lasting artistic value his music holds today.
 
@@ -89,7 +88,7 @@ This work exemplifies the balance between emotion and technique typical of Baroq
 
 Froberger’s music is important because he was the first German composer to systematically blend Italian expressiveness, French elegance, and German counterpoint in keyboard music. He pioneered the keyboard suite and helped define early Baroque aesthetics of emotional depth, contrast, and individuality, laying the groundwork for later composers like J.S. Bach.
 
-<img src="./바로크 미술 작품.png" alt="portrait" style="width:20%;" />
+<img src="./바로크 미술 작품.png" alt="portrait" style="width:30%;" />
 
 > **Rembrandt van Rijn – The Night Watch (1642), Rijksmuseum, Amsterdam**. A dynamic and dramatic group portrait that masterfully uses light and shadow to capture motion and individuality, epitomizing the Baroque emphasis on emotional intensity and realism.
 
