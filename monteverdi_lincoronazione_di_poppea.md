@@ -1,8 +1,18 @@
+---
+Composer: Claudio Monteverdi
+Nationality: Italy
+Born: 1567
+Died: 1643
+Period: Baroque
+Composition: L'incoronozione di Poppea
+instrument: Violin
+---
+
 # Claudio Monteverdi (1567–1643)
 
 ![Image](https://github.com/user-attachments/assets/79a95838-9e7e-4822-9bb6-3ba4ceb378ed)
 
-Claudio Monteverdi was an Italian composer, string player, and choirmaster. He is considered a crucial transitional figure between the Renaissance and Baroque periods of music history. Monteverdi was one of the first major composers to develop opera as an art form, and he played a significant role in the early Baroque period.
+**Claudio Monteverdi** was an **Italian Batoque** composer, string player, and choirmaster. He is considered a crucial transitional figure between the Renaissance and Baroque periods of music history. Monteverdi was one of the first major composers to develop opera as an art form, and he played a significant role in the early Baroque period.
 
  One of his most groundbreaking works is *L'incoronazione di Poppea* (1643), one of the earliest operas to be based on historical rather than mythological subjects. It showcases Monteverdi’s mature Baroque style, with expressive vocal lines, dramatic character development, and intricate orchestration. The opera marks a shift toward human emotion and realism in musical storytelling, setting the stage for modern opera.
 
