@@ -70,14 +70,17 @@ This era of vibrant English culture, marked by Purcell's musical innovations, al
 [Listen](https://youtu.be/Y1CpzSORmEY?si=HPYD50II0Er4vc_-)
 <img src="./henrypurcell_rondeau.png" alt="portrait" style="width:45%;" />
 
-This piece was composed by the English composer Henry Purcell in 1695 as part of the incidental music for the play **Abdelazer**. The rondo theme is widely known because Benjamin Britten used it in his famous composition, 'Young Person's Guide to the Orchestra'.
+This Rondeau is the second movement of the **Abdelazer Suite, Z.570**, composed by the English composer Henry Purcell in 1695. It was originally written as incidental music for the play *Abdelazer[^3], or The Moor's Revenge* by Aphra Behn.
+The piece is structured in the rondo form, featuring a main theme that returns repeatedly between contrasting sections. The theme of this Rondeau is particularly famous because it was used by Benjamin Britten in his well-known composition, 'The Young Person's Guide to the Orchestra' (Variations and Fugue on a Theme of Purcell), composed in 1946. Britten's work brought Purcell's theme to international prominence, making it one of his most widely recognized melodies and a popular choice for music education.
+
+[^3]: A 1676 revenge tragedy play by Aphra Behn, for which Purcell composed incidental music.
 
 
-### Listening Guide
+## Listening Guide
 | Timing    | Text and Form  | Description                                                                                                                                 |
 | :-------- | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
-| 0:00 - 0:15 | Refrain        | The main theme of the piece, appearing repeatedly to form the structural backbone of the piece.                                                |
-| 0:15 - 0:29 | First Couplet  | The first contrasting section. It varies the melody, rhythm, or harmony from the theme, but still blends into the overall atmosphere of the piece. |
+| 0:00 - 0:15 | Refrain[^4]       | The main theme of the piece, appearing repeatedly to form the structural backbone of the piece.                                                |
+| 0:15 - 0:29 | First Couplet[^5]  | The first contrasting section. It varies the melody, rhythm, or harmony from the theme, but still blends into the overall atmosphere of the piece. |
 | 0:29 - 0:43 | Refrain        | The main theme reappears, providing stability.                                                                                                  |
 | 0:43 - 0:58 | Second Couplet | The second contrasting section, presenting another new musical idea.                                                                            |
 | 0:58 - 1:12 | Refrain        | The main theme is repeated once again.                                                                                                     |
@@ -86,15 +89,19 @@ This piece was composed by the English composer Henry Purcell in 1695 as part of
 | 1:55 - 2:13 | Fourth Couplet | The fourth contrasting section.                                                                                                               |
 | 2:13 - End  | Refrain        | The main theme is repeated for the last time, concluding the piece.                                                                          |
 
-### Key Features
+[^4]:In rondo form, the principal theme that recurs throughout the piece.
+[^5]:In rondo form, a contrasting section that appears between repetitions of the main theme (Refrain).
+
+## Key Features
 
 *   **Incidental Music of the Baroque Period:** It is part of the incidental music played during intermissions of plays in English theaters in the late 17th century.
 *   **Simple and Clear Form:** The rondo form clearly shows the repetition and contrast of themes, making it easy to understand.
 *   **Triple Meter:** This piece uses a simple rhythm in 3/2 time, with three half-note beats per measure.
 *   **Clear Melody:** The main melody is primarily played by the first violin, leading the piece.
-*   **Instruments Used:** Henry Purcell composed a piece based on this theme to introduce the instruments of the orchestra, making it educationally significant.[^3]
+*   **Instruments Used:** Henry Purcell composed a piece based on this theme to introduce the instruments of the orchestra, making it educationally significant.[^6]
 
-<img src="./purcellorch.jpg" alt="portrait" style="width:45%;" />[^4]
-[^3]: Originally composed for a theater music ensemble of the late 17th century, it uses string, woodwind, and brass instruments. It is now performed and arranged in various instrumentations.
-[^4]: Credit: *Orchestra of Dr Williams' School, Dolgellau* by Geoff Charles,	1 February 1953, Public Domain, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Orchestra_of_Dr_Williams%27_School,_Dolgellau_(1473135).jpg)
+<img src="./purcellorch.jpg" alt="portrait" style="width:45%;" />[^7]
+
+[^6]: Originally composed for a theater music ensemble of the late 17th century, it uses string, woodwind, and brass instruments. It is now performed and arranged in various instrumentations.
+[^7]: Credit: *Orchestra of Dr Williams' School, Dolgellau* by Geoff Charles,	1 February 1953, Public Domain, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Orchestra_of_Dr_Williams%27_School,_Dolgellau_(1473135).jpg)
 *   [Back to TOC](#table-of-contents)
