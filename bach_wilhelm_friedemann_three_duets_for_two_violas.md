@@ -11,11 +11,10 @@ Instrument: viola
 # Wilhelm Friedemann Bach(1710-1784)
 ---
 
-<img src="./bach_wilhelm_friedemann_portrait.png" alt="portrait" style="width:35%;" />
+<img src="./bach_wilhelm_friedemann_portrait.png" alt="portrait" style="width:35%;"/>[^1] <img src="./antiochus_and_stratonice.png" alt="paintings" style="width:45%;" />[^2]
 
-Credit : Portrait of Wilhelm Fridemann Bach by Dr. Martin Falck-Leipzig, 1782, Public Domain, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wilhelm_Friedemann_Bach_sketch.png)
-
----
+[^1]: Credit : Portrait of Wilhelm Fridemann Bach by Dr. Martin Falck-Leipzig, 1782, Public Domain, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wilhelm_Friedemann_Bach_sketch.png)
+[^2]: Credit : Antiochus and stratonice, Jacques-Louis David, 1774, Public Domain, [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Jacques-Louis_David_-_Antiochus_and_Stratonica_-_WGA06042.jpg)
 **Wilhelm Fridemann Bach(1710-1784)** is a German composer. He is one of the many members of the Bach family. Despite having abundant talent, he has received relatively little attention. He is a person who has been re-examined after a while. Nevertheless, he has not yet been well-known. W.F. Bach lived during a pivotal and dynamic period in European, particularly German, music history. 
 
 Have you ever listened to ‘Klavierbüchlein fur Wilhelm Friedemann Bach of keyboard pieces?
@@ -30,39 +29,24 @@ Despite his undeniable genius, his struggle to find a consistent place in this c
 ## Table of Contents
 
 - [A timeline of His life](#a-timeline-of-his-life)
-- [Artworks From W.F.Bach's Period](#artworks-from-wilhelm-fridemann-bachs-period)
 - [List of important works](#list-of-important-works)
-- [The Instrument Used During Wilhelm Fridemann Bach's Time](#the-instrument-used-during-wilhelm-fridemann-bachs-time)
 - [Score of three duets for two violas](#score-of-three-duets-for-two-violas)
 - [Listening Guide](#listening-guide)
-
+- [Key Features of three duets for two violas](#key-features-of-three-duets-for-two-violas)
 ---
 
 ## A Timeline of his life
 
-| Year | timeline | 
+| Year | Contents | 
 | ---- | ----- |
-| 1710 | Born in Weimar |
-| 1729 | Matriculated at Leipzig University |
-| 1733 | Appointed organist to the Church of St. Sophia in Dresden |
-| 1746 | Moved to the Liebfrauenkirche at Halle |
-| 1750 | Death of his father, J.S.Bach |
-| 1751 | Married with Dorothea Elisabeth Georgi |
-| 1764 | Resigned his post in Halle as his dissatisfaction grew |
-| 1784 | Died in Berlin |
-
-[Back to TOC](#table-of-contents)
-
-## Artworks From Wilhelm Fridemann Bach's Period
-
-<img src="./antiochus_and_stratonice.png" alt="paintings" style="width:75%;" />
-
-Antiochus and stratonice, Jacques-Louis David (1774)
-
-
-Credit : Antiochus and stratonice, Jacques-Louis David, 1774, Public Domain, [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Jacques-Louis_David_-_Antiochus_and_Stratonica_-_WGA06042.jpg)
-
-
+| c. 1710 | Born in Weimar, the first son born to **J.S. Bach** and Maria Barbara Bach in 1710. |
+| c. 1729 | Matriculated at Leipzig University, He studied law, philosophy, and mathematics |
+| c. 1733 | Appointed organist to the Church of St. Sophia in Dresden |
+| c. 1746 | Moved to the Liebfrauenkirche at Halle |
+| c. 1750 | Death of his father, J.S.Bach |
+| c. 1751 | Married with Dorothea Elisabeth Georgi |
+| c. 1764 | Resigned his post in Halle as his dissatisfaction grew |
+| c. 1784 | Died in Berlin |
 
 [Back to TOC](#table-of-contents)
 
@@ -79,23 +63,25 @@ Credit : Antiochus and stratonice, Jacques-Louis David, 1774, Public Domain, [Wi
 
 [Back to TOC](#table-of-contents)
 
-## The Instrument Used During Wilhelm Fridemann Bach's Time
-
-<img src="./bach_wilhelm_friedemann_viola.png" alt="instrument" style="width:35%;" />
-
-Credit : An image of viola created by Gemini 2.5pro, June 10. 2025, 00:30am
-
-W.F. Bach played the organ and he also left a piece for violas
-
-[Back to TOC](#table-of-contents)
 
 ## Score of three duets for two violas
 
-<img src="./bach_wilhelm_friedemann_score.png" alt="score" style="width:100%;" />
+<img src="./bach_wilhelm_friedemann_score.png" alt="score" style="width:75%;" />
 
-[Back to TOC](#table-of-contents)
+
 
 ## Listening Guide
 
-Wilhelm Friedemann Bach's Three Duets for Violas (F. 60-62) showcase a sophisticated interplay between two equal viola parts, creating an intricate contrapuntal dialogue rather than a simple melody-accompaniment texture. Reflecting the Empfindsamer Stil, the music is characterized by unpredictable melodic turns, surprising harmonic shifts, and sudden changes in mood, moving beyond predictable Baroque conventions to express a wide spectrum of nuanced emotions. This expressivity is amplified by dramatic contrasts in dynamics and character, ranging from tender lyricism to agitated intensity. Bach masterfully exploits the viola's warm, rich, and occasionally somber timbre, writing technically demanding yet idiomatic parts that explore the instrument's expressive potential. While rooted in Baroque techniques like imitation, the duets also exhibit a degree of formal freedom and originality, foreshadowing early Classical sensibilities and highlighting W.F. Bach's unique, transitional musical voice.
 [Back to TOC](#table-of-contents)
+
+## Key Features of three duets for two violas
+
+- Baroque Counterpoint: A prominent characteristic is the complex contrapuntal texture, where the two viola parts engage in an equal dialogue. This includes fugato-like imitation and canonic progressions, emphasizing the interaction of equal voices rather than a melody-accompaniment relationship.
+- Early Classical Elements: Moving away from strict Baroque forms, these duets show attempts at Classical thematic development and contrast. While not full-fledged sonata forms, the principles of exposition-development-recapitulation may appear in parts, or melodic ideas might be presented and varied independently.
+- Varied Movement Tempi and Characters: Each duet typically consists of three or four movements, with differing tempi (e.g., Adagio, Allegro) and musical characters. This sometimes resembles the structure of Baroque church sonatas or trio sonatas.
+
+ <img src="./bach_wilhelm_friedemann_viola.png" alt="instrument" style="width:35%;" />[^3]
+ 
+ [Back to TOC](#table-of-contents)
+
+[^3]: Credit : An image of viola created by Gemini 2.5pro, June 10. 2025, 00:30am
