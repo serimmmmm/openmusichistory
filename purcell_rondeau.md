@@ -19,7 +19,7 @@ In conclusion, Purcell's music is marked by originality, technical skill, and em
 
 
 
-<img src="./peter.JPG" alt="portrait" style="width:35%;" />[^2]
+<img src="./pri.jpg" alt="portrait" style="width:35%;" />[^2]
 
 [^2]: Credit: **Barbara Villiers, Duchess of Cleveland as St Catherine of Alexandria**, by Peter Lely, 1667, Public Domain, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barbara_Villiers_as_St_Catherine_of_Alexandria.jpg)
 
