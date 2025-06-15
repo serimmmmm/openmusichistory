@@ -92,9 +92,9 @@ This piece was composed by the English composer Henry Purcell in 1695 as part of
 *   **Simple and Clear Form:** The rondo form clearly shows the repetition and contrast of themes, making it easy to understand.
 *   **Triple Meter:** This piece uses a simple rhythm in 3/2 time, with three half-note beats per measure.
 *   **Clear Melody:** The main melody is primarily played by the first violin, leading the piece.
-*   **Instruments Used:** Henry Purcell composed a piece based on this theme to introduce the instruments of the orchestra, making it educationally significant.
+*   **Instruments Used:** Henry Purcell composed a piece based on this theme to introduce the instruments of the orchestra, making it educationally significant.[^3]
 
-<img src="./ins.JPG" alt="portrait" style="width:45%;" />[^3] 
+<img src="./purcellorch.jpg" alt="portrait" style="width:45%;" />[^4]
 [^3]: Originally composed for a theater music ensemble of the late 17th century, it uses string, woodwind, and brass instruments. It is now performed and arranged in various instrumentations.
-
+[^4]: Credit: *Orchestra of Dr Williams' School, Dolgellau* by Geoff Charles,	1 February 1953, Public Domain, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Orchestra_of_Dr_Williams%27_School,_Dolgellau_(1473135).jpg)
 *   [Back to TOC](#table-of-contents)
