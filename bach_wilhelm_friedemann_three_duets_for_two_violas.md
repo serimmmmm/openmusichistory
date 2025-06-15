@@ -72,16 +72,29 @@ Despite his undeniable genius, his struggle to find a consistent place in this c
 
 ## Listening Guide
 
+| Timing | Text |
+| ------ | ------------- |
+| 0:00 - 3:04 | Allegro |
+| 3:04 - 6:55 | Lamento |
+| 6:55 - 8:55 | Presto |
+| 8:55 - 13:14 | Tempo giusto |
+| 13:14 - 14:15 | Amoroso |
+| 14:15 - 16:32 | Alla breve (Fuge) |
+| 16:32 - 19:30 | Allegro di molto  |
+| 19:30 - 20:20 | Scherzo  |
+| 20:20 - end | Vivace  |
+
 [Back to TOC](#table-of-contents)
 
 ## Key Features of three duets for two violas
 
 - Baroque Counterpoint: A prominent characteristic is the complex contrapuntal texture, where the two viola parts engage in an equal dialogue. This includes fugato-like imitation and canonic progressions, emphasizing the interaction of equal voices rather than a melody-accompaniment relationship.
-- Early Classical Elements: Moving away from strict Baroque forms, these duets show attempts at Classical thematic development and contrast. While not full-fledged sonata forms, the principles of exposition-development-recapitulation may appear in parts, or melodic ideas might be presented and varied independently.
+- Early Classical Elements: Moving away from strict Baroque forms, these duets of viola[^3] show attempts at Classical thematic development and contrast. While not full-fledged sonata forms, the principles of exposition-development-recapitulation may appear in parts, or melodic ideas might be presented and varied independently.
 - Varied Movement Tempi and Characters: Each duet typically consists of three or four movements, with differing tempi (e.g., Adagio, Allegro) and musical characters. This sometimes resembles the structure of Baroque church sonatas or trio sonatas.
 
- <img src="./bach_wilhelm_friedemann_viola.png" alt="instrument" style="width:35%;" />[^3]
+ <img src="./bach_wilhelm_friedemann_viola.png" alt="instrument" style="width:35%;" />[^4]
  
  [Back to TOC](#table-of-contents)
-
-[^3]: Credit : An image of viola created by Gemini 2.5pro, June 10. 2025, 00:30am
+ 
+[^3]: In the Baroque era (roughly 1600-1750), the viola solidified its place as a crucial instrument in orchestral and chamber music. Initially coexisting with viols, the viola da braccio (ancestor of the modern viola) gradually gained prominence due to its more powerful sound. It primarily served to fill out harmonies and add depth, bridging the sound between violins and cellos. While often in a supporting role, the viola's integral contribution to the era's polyphonic music established its essential role in string ensembles.
+[^4]: Credit : An image of viola created by Gemini 2.5pro, June 10. 2025, 00:30am
