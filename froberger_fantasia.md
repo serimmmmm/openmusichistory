@@ -85,9 +85,9 @@ This work exemplifies the balance between emotion and technique typical of Baroq
 
 <img src="./바로크 미술 작품.png" alt="portrait" style="width:30%;" />
 
-> **Rembrandt van Rijn – The Night Watch (1642), Rijksmuseum, Amsterdam**. A dynamic and dramatic group portrait that masterfully uses light and shadow to capture motion and individuality, epitomizing the Baroque emphasis on emotional intensity and realism.
+>   *<sup>  Credit: “Triumph of the Name of Jesus” by Giovanni Battista Gaulli (1672–1677). Image and information sourced from the blog: https://blog.naver.com/women06106/223258369794> <sup>*
 
-> <Credit: “Triumph of the Name of Jesus” by Giovanni Battista Gaulli (1672–1677). Image and information sourced from the blog: https://blog.naver.com/women06106/223258369794>
+> **Rembrandt van Rijn – The Night Watch (1642), Rijksmuseum, Amsterdam**. A dynamic and dramatic group portrait that masterfully uses light and shadow to capture motion and individuality, epitomizing the Baroque emphasis on emotional intensity and realism. 
 
 
 Froberger’s music is important because he was the first German composer to systematically blend Italian expressiveness, French elegance, and German counterpoint in keyboard music. He pioneered the keyboard suite and helped define early Baroque aesthetics of emotional depth, contrast, and individuality, laying the groundwork for later composers like J.S. Bach.
