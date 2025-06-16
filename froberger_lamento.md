@@ -8,7 +8,6 @@ Composition: Lamento, FBWV 612
 instrument: Harpsichord, Clavichord
 ---
 # Table of Contents
-- [Johann Jakob Froberger](#johann-jakob-froberger-16161667)
 - [Timeline of Johann Jakob Froberger](#timeline-of-johann-jakob-froberger)
 - [Lamento sopra la dolorosa perdita della Real Maesta di Ferdinando IV FBWV 612](#lamento-sopra-la-dolorosa-perdita-della-real-maesta-di-ferdinando-iv-fbwv-612)
 
@@ -19,7 +18,7 @@ instrument: Harpsichord, Clavichord
   Description of the Work
   
 - [List of Other Important Works](#list-of-other-important-works)
-- [Main instruments for Froberger's compositions](#main-instruments-for-froberger's-compositions)
+- [Main instruments for his compositions](#main-instruments-for-his-compositions)
 - [His Pioneering Role in Baroque Keyboard Development](#His-Pioneering-Role-in-Baroque-Keyboard-Development)
 
 # Johann Jakob Froberger (1616-1667)
@@ -108,7 +107,7 @@ Froberger, who maintained close connections with European courts and nobility, p
 [Back to TOC](#table-of-contents)
 
 
-# Main instruments for Froberger's compositions
+# Main instruments for his compositions
 <img src="./Harpsichord.jpg"
 alt="portrait" style="width:50%;" />
 
