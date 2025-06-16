@@ -40,6 +40,7 @@ Instrument: Harpsichord
 **Johann Jakob Froberger (1616–1667)** was a German composer and keyboard virtuoso of the early Baroque period. Born in Stuttgart, he traveled to Rome around 1634 to study under the renowned composer [Girolamo Frescobaldi](frescobaldi_gagliarda.md), from whom he acquired the improvisatory and expressive qualities of the Italian keyboard tradition. Over the next decade, Froberger journeyed extensively through Italy, France, and Germany, absorbing a rich array of musical styles—French dance forms, German contrapuntal techniques, and the ornamentation and drama typical of Baroque expression.
 
 Around 1649, he entered the service of the Habsburg court in Vienna, where he continued composing until his death in 1667. Froberger played a **pioneering role in the development of the keyboard suite**, being among the first German composers to structure suites specifically for keyboard instruments. His works—including toccatas, fantasias, and dance suites—reflect a unique synthesis of European styles, characterized by contrast, emotional depth, and individual expression. His musical innovations had a lasting impact on later composers, especially Johann Sebastian Bach, and helped shape the evolution of Baroque keyboard music in Europe.
+
 ## List of Important works
 
 | Year | works | youTube |
@@ -56,11 +57,9 @@ This work exemplifies the balance between emotion and technique typical of Baroq
 
 > **Froberger was one of the most expressive and refined composers of his time, whose keyboard works combined Italian brilliance, French elegance, and German thoroughness.** - Johann Mattheson, Der vollkommene Capellmeister (Hamburg, 1739)
 
-[Fantasia in C Major, FbWV 201](https://youtu.be/gCyescmLEs4?si=fvcnw6JXi1CTsDbG)
-
 <img src="./판타지아최종.jpg" alt="portrait" style="width:55%;" />
 
-### Listening Guide
+### Listening Guide [Fantasia in C Major, FbWV 201](https://youtu.be/gCyescmLEs4?si=fvcnw6JXi1CTsDbG)
 
 | Timing | Text and Form | Description |
 | :---------------- | :------------- | :----------- |
@@ -82,15 +81,14 @@ This work exemplifies the balance between emotion and technique typical of Baroq
 
 ## Why Important 
 
-Froberger’s music is important because he was the first German composer to systematically blend Italian expressiveness, French elegance, and German counterpoint in keyboard music. He pioneered the keyboard suite and helped define early Baroque aesthetics of emotional depth, contrast, and individuality, laying the groundwork for later composers like J.S. Bach.
-
 <img src="./바로크 미술 작품.png" alt="portrait" style="width:30%;" />
 
 > **Rembrandt van Rijn – The Night Watch (1642), Rijksmuseum, Amsterdam**. A dynamic and dramatic group portrait that masterfully uses light and shadow to capture motion and individuality, epitomizing the Baroque emphasis on emotional intensity and realism.
 
-Frescobaldi’s works and **Rembrandt**’s "**The Night Watch**" (1642) both embody key characteristics of **Baroque art**, such as **dramatic contrasts** and profound emotional expression. Frescobaldi’s music highlights dynamic shifts, rhythm, and improvisatory qualities, which parallel the striking chiaroscuro and energetic composition of The Night Watch. Both pieces powerfully engage their audiences, capturing the cultural spirit and artistic passion of their era.
+Froberger’s music is important because he was the first German composer to systematically blend Italian expressiveness, French elegance, and German counterpoint in keyboard music. He pioneered the keyboard suite and helped define early Baroque aesthetics of emotional depth, contrast, and individuality, laying the groundwork for later composers like J.S. Bach.
+
+Similarly, Frescobaldi’s works and **Rembrandt**’s "**The Night Watch**" (1642) both embody key characteristics of **Baroque art**, such as **dramatic contrasts** and profound emotional expression. Frescobaldi’s music highlights dynamic shifts, rhythm, and improvisatory qualities, which parallel the striking chiaroscuro and energetic composition of The Night Watch. Both pieces powerfully engage their audiences, capturing the cultural spirit and artistic passion of their era.
 
 I chose Froberger because his music uniquely blends diverse European musical traditions of the Baroque period into an **original style**. His compositions go beyond technical mastery to convey personal emotion and individuality, significantly influencing the development of Baroque music. Moreover, his works continue to resonate deeply today, holding **timeless artistic value**.
 
 Ultimately, Froberger’s music represents the rich artistic exchanges of 17th-century Europe and demonstrates how music serves as a vital medium for expressing human emotion and creativity. Through his works, we gain insight into the historical evolution of art and appreciate how its enduring significance continues to inspire us now.
-
