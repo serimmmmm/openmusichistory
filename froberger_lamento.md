@@ -54,15 +54,15 @@ alt="portrait" style="width:60%;" />
 
 The "c." placed before a year is an abbreviation of the Latin word **"circa"**. It means "approximately" or "around".
 It's used when the exact date or year is unknown, indicating that an event happened approximately at that time. For instance, "c. 1634" means "around 1634."
-
 [Back to TOC](#table-of-contents)
 
 
 # Lamento sopra la dolorosa perdita della Real Maesta di Ferdinando IV FBWV 612
+[Music](https://www.youtube.com/watch?v=eJLRrH2oahU)
+
 <img src="./froberger_lamento_ferdinanto_iv.png"
 alt="portrait" style="width:100%;" />
 
-[Music](https://www.youtube.com/watch?v=eJLRrH2oahU)
 
 ## Listening guide
 | Time | Musical Contents |
