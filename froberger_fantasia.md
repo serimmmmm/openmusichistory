@@ -39,7 +39,7 @@ Instrument: Harpsichord
 
 **Johann Jakob Froberger (1616–1667)** was a German composer and keyboard virtuoso of the early Baroque period. Born in Stuttgart, he traveled to Rome around 1634 to study under the renowned composer [Girolamo Frescobaldi](frescobaldi_gagliarda.md), from whom he acquired the improvisatory and expressive qualities of the Italian keyboard tradition. Over the next decade, Froberger journeyed extensively through Italy, France, and Germany, absorbing a rich array of musical styles—French dance forms, German contrapuntal techniques, and the ornamentation and drama typical of Baroque expression.
 
-Around 1649, he entered the service of the Habsburg court in Vienna, where he continued composing until his death in 1667. Froberger played a **pioneering role in the development of the keyboard suite**, being among the first German composers to structure suites specifically for keyboard instruments. His works—including toccatas, fantasias, and dance suites—reflect a unique synthesis of European styles, characterized by contrast, emotional depth, and individual expression. His musical innovations had a lasting impact on later composers, especially Johann Sebastian Bach, and helped shape the evolution of Baroque keyboard music in Europe.
+Around 1649, he entered the service of the Habsburg court in Vienna, where he continued composing until his death in 1667. Froberger played a **pioneering role in the development of the keyboard suite**, being among the first German composers to structure suites specifically for keyboard instruments. His works—including toccatas, fantasias, and dance suites—reflect a unique synthesis of European styles, characterized by contrast, emotional depth, and individual expression. His musical innovations had a lasting impact on later composers, especially Johann Sebastian Bach, and helped shape the evolution of Baroque keyboard music in Europe. [Back to TOC](#table-of-contents)
 
 ## List of Important works
 
@@ -59,7 +59,8 @@ This work exemplifies the balance between emotion and technique typical of Baroq
 
 <img src="./판타지아최종.jpg" alt="portrait" style="width:55%;" />
 
-### Listening Guide [Fantasia in C Major, FbWV 201](https://youtu.be/gCyescmLEs4?si=fvcnw6JXi1CTsDbG)
+### 🎧 Listening Guide  
+[Fantasia in C Major, FbWV 201](https://youtu.be/gCyescmLEs4?si=fvcnw6JXi1CTsDbG)
 
 | Timing | Text and Form | Description |
 | :---------------- | :------------- | :----------- |
@@ -71,6 +72,7 @@ This work exemplifies the balance between emotion and technique typical of Baroq
 | 2:21 – 2:50 | Textural Contrast | Moment of relief—less dense, more transparent textures offer contrast. |
 | 2:51 – 3:20 | Final Section and Cadence | Clear return to tonic; cadential formulas provide a satisfying conclusion. |
 
+[Back to TOC](#table-of-contents)
 
 **Instrumentation:**
 * Harpsichord
@@ -92,3 +94,4 @@ Similarly, Frescobaldi’s works and **Rembrandt**’s "**The Night Watch**" (16
 I chose Froberger because his music uniquely blends diverse European musical traditions of the Baroque period into an **original style**. His compositions go beyond technical mastery to convey personal emotion and individuality, significantly influencing the development of Baroque music. Moreover, his works continue to resonate deeply today, holding **timeless artistic value**.
 
 Ultimately, Froberger’s music represents the rich artistic exchanges of 17th-century Europe and demonstrates how music serves as a vital medium for expressing human emotion and creativity. Through his works, we gain insight into the historical evolution of art and appreciate how its enduring significance continues to inspire us now.
+[Back to TOC](#table-of-contents)
