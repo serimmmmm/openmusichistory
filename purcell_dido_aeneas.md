@@ -16,10 +16,10 @@ Instrument: Opera
 
 ## Table of Contents
 - [Learning Objectives](#-learning-objectives)
-- [Listening Tips](#-listening-tips)
 - [Purcell's Life](#purcells-life)
 - [About Henry Purcell](#about-henry-purcell)
 - [List of Important Works](#list-of-important-works)
+- [Listening Tips](#-listening-tips)
 - [Excerpt from Purcell's Music](#excerpt-from-purcells-music)
 - [Instrument Used During this Period](#instrument-used-during-this-period)
 - [Artworks from This Peroid](#artworks-from-this-period)
@@ -28,14 +28,6 @@ Instrument: Opera
 - Learn about the **Baroque period**, including its historical and musical characteristics.
 - Understand the **life and work of Henry Purcell**, one of the leading English Baroque composers.
 - Explore and analyze **Purcell’s music**, with a focus on expression, form, and instrumentation.
-
-### 🎼 Listening Tips
-
-- Pay attention to the use of **ground bass (basso ostinato)** in emotional scenes.
-- Observe the contrast between **solo arias**, **choruses**, and **instrumental passages**.
-- Notice how Purcell uses **text painting** to enhance the meaning of the lyrics.
-- Focus on how **musical elements reflect dramatic tension and emotion**.
-
 
 ## Purcell's Life
 
@@ -103,6 +95,13 @@ Although he died young, Purcell’s work became a symbol of English musical iden
 | 1664 | The Indian Queen | [Listen](https://youtu.be/-j7tjTuDpvg?si=Ig_Rcu7owkKr8K_l) |
 | 1691 | The Cold Song | [Listen](https://youtu.be/Q8K8wFk-tn8?si=HxScwQTPUBwevTql) |
 
+### 🎼 Listening Tips
+
+- Pay attention to the use of **ground bass (basso ostinato)** in emotional scenes.
+- Observe the contrast between **solo arias**, **choruses**, and **instrumental passages**.
+- Notice how Purcell uses **text painting** to enhance the meaning of the lyrics.
+- Focus on how **musical elements reflect dramatic tension and emotion**.
+
 ## Excerpt from Purcell's Music
 
 <img src="./Dido and Aeneas-1.png" alt="portrait" style="width:60%;" />
@@ -112,6 +111,10 @@ Although he died young, Purcell’s work became a symbol of English musical iden
 ## Instrument Used During This Period
 
 <img src="./A_photograph_of_a_lute,_a_stringed_musical_instrum.jpg" alt="portrait" stylr="width:69%;" />[^2]
+
+
+**The Lute** is a plucked string instrument popular in the Middle Ages and Renaissance, known for its rounded back and gentle tone.  
+It was widely used in early European music for both solo performance and accompaniment.
 
 [^2]:Credit: An image of Lute created by ChatGPT 4o, Jun 7, 2025, 11:12:39 PM, with the prompt "Create an image of Lute used during the period of Henry Purcell."
 
