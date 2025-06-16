@@ -17,13 +17,13 @@ Credit: Portrait of Elisabeth Jacquet De La Guerre by François de Troy and usin
 ***
 ## 📖Table of contents
 - [Timeline](#timeline)
-- [Who is Elisabeth Jacquet De La Guerre?](#WhoisElisabethJacquetDeLaGuerre?)
-- [List of works in table](#Listofworksintable)  
-- [6 violin sonatas](#6violinsonatas)   
-- [What is a violin?](#Whatisaviolin?)  
-- [Listening Guide](#listeningguide)  
-- [Question for review](#Questionforreview)  
-- [Guides for further studies](#guidesforfurtherstudies)  
+- [Who is Elisabeth Jacquet De La Guerre?](#who-is-elisabeth-jacquet-de-la-guerre?)
+- [List of works in table](#list-of-works-in-table)  
+- [6 violin sonatas](#6-violin-sonatas)   
+- [What is a violin?](#what-is-a-violin?)  
+- [Listening Guide](#listening-guide)  
+- [Question for review](#question-for-review)  
+- [Guides for further studies](#guides-for-further-studies)  
 ***
 
   ## 🕐Timeline  
@@ -39,7 +39,7 @@ Credit: Portrait of Elisabeth Jacquet De La Guerre by François de Troy and usin
 | 1729 | Died in Paris. |  
   
 
-## 👧Who is Elisabeth Jacquet De La Guerre?
+  ## 👧Who is Elisabeth Jacquet De La Guerre?  
 
 **Élisabeth Jacquet de La Guerre**(1665–1729) was a prominent French composer and harpsichordist of the Baroque era, particularly known for her work during the reign of Louis XIV. Recognized from an early age as a virtuoso performer, she was especially noted for her remarkable skill in harpsichord improvisation. As a composer, she was highly versatile, engaging with a wide range of genres that reflected the tastes and trends of late 17th- and early 18th-century France.
 
@@ -53,7 +53,7 @@ This stylistic fusion positioned her at the forefront of a broader cultural move
 ![드라게르 바로크 시대 그림](https://github.com/user-attachments/assets/35dcf554-8adf-4d6a-8c97-b8f3f2bb983b)  
 Credit: An image of De La Guerre performing at the royal court created bt ChatGPT, Jun 1, 2025, 10:08:23 PM, with the prompt "draw a scene of Élisabeth Jacquet de La Guerre playing the harpsichord in a French salon during the reign of Louis XIV."
 
-## List of works in table
+## List of works in table  
 
 | Year | Works | Youtube |
 | ---- | ------------------ | ------------------------------------------------ |
@@ -69,7 +69,7 @@ She published **six violin sonatas** in 1797, just three years after the appeara
 
 At the turn of the 18th century, Italian instrumental music—particularly **the sonata form**—was gaining popularity in France, a nation traditionally focused on vocal and dance-based forms. Jacquet de La Guerre’s violin sonatas reflect this cultural shift. While the precise dates of composition are uncertain, the fact that composer and theorist Sébastien de Brossard copied some of her works as early as 1695 indicates their circulation and relevance by that time.  
 
-## Sonata No. 1  
+## Sonata No. 1   
 ![score](./delaguerre_악보최종.png)
 Sonata No. 1 consists of a total of 439 measures, making it the longest of the six sonatas published in 1707. It is composed of six movements, all of which begin with an anacrusis.  
 The third movement features internal tempo alternations—Adagio–Presto–Adagio—accompanied by corresponding shifts in meter (2/2–6/8–2/2). This structural design is derived from the characteristic slow–fast–slow format of the French overture.  
@@ -131,7 +131,7 @@ Sonata No. 6 contains the greatest number of movements among the six violin sona
 | 7th. | Presto-Adagio | am | 2/2 | Part A: a+b <br> Part B: b'+c <br> Part B': b"+c' <br>Coda |
 | 8th. | Aria | AM | 2/2 | Part A: a+a' <br> Part B: b+b'+b" <br> Part A: a+a' <br>Part C: c+c' <br>Part A': a+a' <br>Part A: a+a' |
 
-## 🎻What is a violin? 
+## 🎻What is a violin?  
 **The violin** is a string instrument with four strings, played by drawing a bow across the strings or by plucking them with the fingers.
 Among string instruments, it has the highest pitch range, and its tone is clear and delicate.  
 The violin plays a central role in *orchestras*, *chamber music*, and *solo performances* across a wide range of musical genres.  
@@ -143,14 +143,14 @@ The violin plays a central role in *orchestras*, *chamber music*, and *solo perf
 
 <img src="./violin.png" alt="violin" style="width:40%;" />
 
-## 🎼Listening Guide 
+## 🎼Listening Guide  
 During the Baroque period (circa 1600–1750), performers often added **ornamentation** and filled in harmonies through various improvisation techniques. At the time, composers did not write out every detail in the score, leaving much to the performer’s interpretation and skill. Improvisation therefore played a crucial role in performance. Let's listen to this piece, imagining those spontaneous embellishments. [[Back to TOC]](#table-of-contents)
 
-## ❓Question for review
+## ❓Question for review  
 Q1. Which national musical style did Élisabeth Jacquet de La Guerre seek to integrate with French traditions in the early 18th century?  
 
 Q2. Which genre of Italian instrumental music was gaining prominence in France during the late 17th and early 18th centuries?  
 
-## ❗Guides for further studies
+## ❗Guides for further studies  
 Élisabeth Jacquet de La Guerre was significantly influenced by **François Couperin**(1668-1733). If you would like to learn more about François Couperin — one of the most influential pioneers in the fusion of French and Italian musical styles, you can refer to this [Link](couperin_chaconne.md)  
 
