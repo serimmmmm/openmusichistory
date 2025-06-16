@@ -5,7 +5,7 @@ Born: 1585
 Died: 1672
 Period: Baroque
 Composition: St. Matthew Passion
-Instrument: Harpsichord
+Instrument: Vocal Ensemble
 ---
 
 # Heinrich Schutz(1585-1672)
