@@ -16,8 +16,8 @@ Credit: Portrait of Elisabeth Jacquet De La Guerre by François de Troy and usin
 
 ***
 ## 📖Table of contents
-- [Timeline](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L28)  
-- [Who is Elisabeth Jacquet De La Guerre?](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L41)
+- [Timeline](#timeline)
+- [Who is Elisabeth Jacquet De La Guerre?](#WhoisElisabethJacquetDeLaGuerre?)
 - [List of works in table](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L56)  
 - [6 violin sonatas](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L67)   
 - [What is a violin?](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L134)  
@@ -39,7 +39,7 @@ Credit: Portrait of Elisabeth Jacquet De La Guerre by François de Troy and usin
 | 1729 | Died in Paris. |  
   
 
-## 👧Who is Elisabeth Jacquet De La Guerre?  
+## 👧Who is Elisabeth Jacquet De La Guerre?
 
 **Élisabeth Jacquet de La Guerre**(1665–1729) was a prominent French composer and harpsichordist of the Baroque era, particularly known for her work during the reign of Louis XIV. Recognized from an early age as a virtuoso performer, she was especially noted for her remarkable skill in harpsichord improvisation. As a composer, she was highly versatile, engaging with a wide range of genres that reflected the tastes and trends of late 17th- and early 18th-century France.
 
@@ -135,16 +135,16 @@ Sonata No. 6 contains the greatest number of movements among the six violin sona
 **The violin** is a string instrument with four strings, played by drawing a bow across the strings or by plucking them with the fingers.
 Among string instruments, it has the highest pitch range, and its tone is clear and delicate.  
 The violin plays a central role in *orchestras*, *chamber music*, and *solo performances* across a wide range of musical genres.  
-During the Baroque era, violins used gut strings and a short, lightweight bow, producing an elegant and ornamented style of performance.
-In the Classical period, improvements in the instrument's structure and bow design allowed for a more refined and balanced sound.
-In the Romantic era, the violin became a powerful tool for emotional expression, with virtuosic techniques gaining prominence and the instrument's musical significance greatly expanding.
-In the modern era, the use of metal strings, advanced bow construction, and electronic technology has further enhanced the violin’s volume and expressive capabilities.
-Today, the violin is actively used not only in classical music but also in jazz, film scores, and many other musical styles.  
+*During the Baroque era*, violins used gut strings and a short, lightweight bow, producing an elegant and ornamented style of performance.  
+*In the Classical period*, improvements in the instrument's structure and bow design allowed for a more refined and balanced sound.  
+*In the Romantic era*, the violin became a powerful tool for emotional expression, with virtuosic techniques gaining prominence and the instrument's musical significance greatly expanding.  
+*In the modern era*, the use of metal strings, advanced bow construction, and electronic technology has further enhanced the violin’s volume and expressive capabilities.
+*Today*, the violin is actively used not only in classical music but also in jazz, film scores, and many other musical styles.  
 
 <img src="./violin.png" alt="violin" style="width:40%;" />
 
 ## 🎼Listening Guide 
-During the Baroque era, most musical pieces weren't strictly limited to the written score; performers often added improvised and free **ornamentation**. Let's listen to this piece, imagining those spontaneous embellishments. [[Back to TOC]](#table-of-contents)
+During the Baroque period (circa 1600–1750), performers often added **ornamentation** and filled in harmonies through various improvisation techniques. At the time, composers did not write out every detail in the score, leaving much to the performer’s interpretation and skill. Improvisation therefore played a crucial role in performance. Let's listen to this piece, imagining those spontaneous embellishments. [[Back to TOC]](#table-of-contents)
 
 ## ❓Question for review
 Q1. Which national musical style did Élisabeth Jacquet de La Guerre seek to integrate with French traditions in the early 18th century?  
