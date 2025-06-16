@@ -7,6 +7,7 @@ Period: Baroque
 Composition: Lamento, FBWV 612
 instrument: Harpsichord, Clavichord
 ---
+
 # Table of Contents
 - [Timeline of Johann Jakob Froberger](#timeline-of-johann-jakob-froberger)
 - [Lamento sopra la dolorosa perdita della Real Maesta di Ferdinando IV FBWV 612](#lamento-sopra-la-dolorosa-perdita-della-real-maesta-di-ferdinando-iv-fbwv-612)
