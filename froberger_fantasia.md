@@ -10,6 +10,8 @@ Instrument: Harpsichord
 
 # Johann Jakob Froberger (1616-1667)
 
+> # Johann Jakob Froberger: A Musical Bridge of the Early Baroque
+
 <img src="./프로베르거.png" alt="portrait" style="width:25%;" />
 
 > Credit: An image of Henry Purcell sourced from Naver Blog (https://blog.naver.com/zkzkshsh/221889408853)
@@ -34,8 +36,6 @@ Instrument: Harpsichord
 | Around 1649 | Vienna, Austria | Began working at the Habsburg court |
 | 1650–1667 | Vienna and Germany | Composed keyboard works and developed suite form |
 | 1667 | Vienna, Austria | Died |
-
-> # Johann Jakob Froberger: A Musical Bridge of the Early Baroque
 
 **Johann Jakob Froberger (1616–1667)** was a German composer and keyboard virtuoso of the early Baroque period. Born in Stuttgart, he traveled to Rome around 1634 to study under the renowned composer [Girolamo Frescobaldi](frescobaldi_gagliarda.md), from whom he acquired the improvisatory and expressive qualities of the Italian keyboard tradition. Over the next decade, Froberger journeyed extensively through Italy, France, and Germany, absorbing a rich array of musical styles—French dance forms, German contrapuntal techniques, and the ornamentation and drama typical of Baroque expression.
 
