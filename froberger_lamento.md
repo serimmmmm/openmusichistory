@@ -58,7 +58,7 @@ Source: [wikipedia](https://en.wikipedia.org/wiki/Johann_Jakob_Froberger)
 <img src="./froberger_lamento_ferdinanto_iv.png"
 alt="portrait" style="width:80%;" />
 
-[Listen](https://youtu.be/CDEvG1hfvt4)
+[Listen](https://www.youtube.com/watch?v=eJLRrH2oahU)
 
 ## Listening guide
 | XXXX | XXXX |
