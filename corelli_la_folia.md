@@ -104,7 +104,7 @@ By the end of this guide, learners will be able to:
 ### Baroque Violin  
 - Gut strings and lighter bow enabled nuanced articulation.
 
-- ![Baroque Instruments](./baroqueviolin.jpg)  
+ ![Baroque Instruments](./baroqueviolin.jpg)  
 *Baroque violin and bow*
 
 ### Harpsichord  
