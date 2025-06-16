@@ -17,10 +17,10 @@ Credit: Portrait of Elisabeth Jacquet De La Guerre by François de Troy and usin
 ***
 ## 📖Table of contents
 - [Timeline](#timeline)
-- [Who is Elisabeth Jacquet De La Guerre?](#who-is-elisabeth-jacquet-de-la-guerre?)
+- [Who's Elisabeth Jacquet De La Guerre?](#who-is-elisabeth-jacquet-de-la-guerre)
 - [List of works in table](#list-of-works-in-table)  
 - [6 violin sonatas](#6-violin-sonatas)   
-- [What is a violin?](#what-is-a-violin?)  
+- [What is a violin?](#what-is-a-violin)  
 - [Listening Guide](#listening-guide)  
 - [Question for review](#question-for-review)  
 - [Guides for further studies](#guides-for-further-studies)  
@@ -39,7 +39,7 @@ Credit: Portrait of Elisabeth Jacquet De La Guerre by François de Troy and usin
 | 1729 | Died in Paris. |  
   
 
-  ## 👧Who is Elisabeth Jacquet De La Guerre?  
+## 👧Who is Elisabeth Jacquet De La Guerre?
 
 **Élisabeth Jacquet de La Guerre**(1665–1729) was a prominent French composer and harpsichordist of the Baroque era, particularly known for her work during the reign of Louis XIV. Recognized from an early age as a virtuoso performer, she was especially noted for her remarkable skill in harpsichord improvisation. As a composer, she was highly versatile, engaging with a wide range of genres that reflected the tastes and trends of late 17th- and early 18th-century France.
 
