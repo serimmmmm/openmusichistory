@@ -7,17 +7,6 @@ Period: Baroque
 Composition: Lamento, FBWV 612
 instrument: Harpsichord, Clavichord
 ---
-
-# Johann Jakob Froberger (1616-1667)
-
-<img src="./froberger.jpg"
-alt="portrait" style="width:30%;" />
-
-German composer
-**Johann Jakob Froberger** (1616-1667) was a prominent German composer active in the early Baroque era. He's recognized as a pioneer who fundamentally shaped the form of **harpsichord music** and was among the first to embed personal emotions within his compositions.
-
-**His unique style** emerged from a synthesis of Italian and French musical idioms, expertly combined with the rigorous German counterpoint tradition, significantly influencing later generations of composers.
-
 # Table of Contents
 - [Timeline of Johann Jakob Froberger](#Timeline-of-Johann-Jakob-Froberger)
 - [Lamento sopra la dolorosa perdita della Real Maesta di Ferdinando IV FBWV 612](#lamento-sopra-la-dolorosa-perdita-della-real-maesta-di-ferdinando-iv-fbwv-612)
@@ -32,6 +21,17 @@ German composer
   
 - [List of Other Important Works](#List-of-Other-Important-Works)
 - [His Pioneering Role in Baroque Keyboard Development](#His-Pioneering-Role-in-Baroque-Keyboard-Development)
+
+# Johann Jakob Froberger (1616-1667)
+
+<img src="./froberger.jpg"
+alt="portrait" style="width:30%;" />
+
+German composer
+**Johann Jakob Froberger** (1616-1667) was a prominent German composer active in the early Baroque era. He's recognized as a pioneer who fundamentally shaped the form of **harpsichord music** and was among the first to embed personal emotions within his compositions.
+
+**His unique style** emerged from a synthesis of Italian and French musical idioms, expertly combined with the rigorous German counterpoint tradition, significantly influencing later generations of composers.
+
 
 # Timeline of Johann Jakob Froberger
 
@@ -83,12 +83,12 @@ The **Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV**, F
 
 #### Instruments primarily used for
 <img src="./Harpsichord.jpg"
-alt="portrait" style="width:20%;" />
+alt="portrait" style="width:40%;" />
 
 **Harpsichord** - A keyboard instrument where a plectrum plucks the strings when a key is pressed.
 
 <img src="./Clavichord.jpg"
-alt="portrait" style="width:20%;" />
+alt="portrait" style="width:40%;" />
 
 **Clavichord** - A keyboard instrument, widely used since the Middle Ages, where small metal blades called tangents strike the strings to produce sound.
 
