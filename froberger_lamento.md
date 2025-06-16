@@ -54,6 +54,7 @@ alt="portrait" style="width:60%;" />
 
 The "c." placed before a year is an abbreviation of the Latin word **"circa"**. It means "approximately" or "around".
 It's used when the exact date or year is unknown, indicating that an event happened approximately at that time. For instance, "c. 1634" means "around 1634."
+
 [Back to TOC](#table-of-contents)
 
 
@@ -92,7 +93,9 @@ alt="portrait" style="width:50%;" />
 
 **The Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV, FBWV 612**, stands as one of Johann Jakob Froberger's **most expressive and intimate keyboard works**. Composed around 1657, it served as a heartfelt elegy for the unexpected death of Ferdinando IV, King of the Romans and heir to the Holy Roman Empire, that same year. Ferdinando IV's untimely passing at the age of 19 was a significant blow to the Habsburg dynasty, as he was highly regarded as a **promising successor**.
 
-Froberger, who maintained close connections with European courts and nobility, particularly the Imperial court in Vienna where he served for much of his career, conceived this Lamento as a deeply personal articulation of his grief and perhaps that of the court. The piece goes beyond mere formality, transforming personal sorrow into a universal musical language of lament. This work exemplifies his remarkable capacity to intertwine profound emotional depth with **sophisticated musical structure**, **showcasing his innovative use of dissonance**, **flexible rhythm**, and **dramatic contrasts** to convey a narrative of loss and mourning. It marks a pivotal moment in the development of expressive keyboard music during the **early Baroque period**, solidifying Froberger's reputation as a master of both technical virtuosity and emotional eloquence.[Back to TOC](#table-of-contents)
+Froberger, who maintained close connections with European courts and nobility, particularly the Imperial court in Vienna where he served for much of his career, conceived this Lamento as a deeply personal articulation of his grief and perhaps that of the court. The piece goes beyond mere formality, transforming personal sorrow into a universal musical language of lament. This work exemplifies his remarkable capacity to intertwine profound emotional depth with **sophisticated musical structure**, **showcasing his innovative use of dissonance**, **flexible rhythm**, and **dramatic contrasts** to convey a narrative of loss and mourning. It marks a pivotal moment in the development of expressive keyboard music during the **early Baroque period**, solidifying Froberger's reputation as a master of both technical virtuosity and emotional eloquence.
+
+[Back to TOC](#table-of-contents)
 
 
 # List of Other Important Works
@@ -121,7 +124,9 @@ alt="portrait" style="width:50%;" />
 <img src="./organ_f.jpg"
 alt="portrait" style="width:50%;" />
 
-**Organ** - A majestic wind instrument that produces sound by driving air (wind) through pipes, which are selected by pressing keys on a keyboard. Organs come in various sizes, from small portable instruments to massive church organs with thousands of pipes, offering an immense range of tonal colors and volumes. They were, and still are, central to religious music and classical compositions, renowned for their powerful and sustained sound.[Back to TOC](#table-of-contents)
+**Organ** - A majestic wind instrument that produces sound by driving air (wind) through pipes, which are selected by pressing keys on a keyboard. Organs come in various sizes, from small portable instruments to massive church organs with thousands of pipes, offering an immense range of tonal colors and volumes. They were, and still are, central to religious music and classical compositions, renowned for their powerful and sustained sound.
+
+[Back to TOC](#table-of-contents)
 
 
 
@@ -136,7 +141,9 @@ alt="portrait" style="width:70%;" />
 
 Froberger is particularly renowned for formalizing the standard order of movements—**Allemande, Courante, Sarabande, and Gigue**—within **keyboard suites**. This structural innovation provided a template that would be adopted and expanded upon by countless composers for generations. Beyond mere technical display, Froberger was ahead of his time in his ability to imbue his music with deeply personal feelings and experiences. His programmatic pieces and laments, like the poignant "Lamento sopra la dolorosa perdita della Real Maesta di Ferdinando IV," are prime examples of his innovative approach to emotional expression, a characteristic that became central to Baroque aesthetics.
 
-His works subsequently exerted considerable influence on towering figures such as **François Couperin** in France and **Johann Sebastian Bach** in Germany, both of whom undoubtedly studied and learned from Froberger's pioneering efforts. Even today, Froberger's compositions remain indispensable for understanding the historical evolution of harpsichord and keyboard music, offering a vital link between the Renaissance and the High Baroque and showcasing the depth and innovation present even in the earlier stages of this rich musical period. His legacy, though sometimes overshadowed, is a testament to his groundbreaking contributions.[Back to TOC](#table-of-contents)
+His works subsequently exerted considerable influence on towering figures such as **François Couperin** in France and **Johann Sebastian Bach** in Germany, both of whom undoubtedly studied and learned from Froberger's pioneering efforts. Even today, Froberger's compositions remain indispensable for understanding the historical evolution of harpsichord and keyboard music, offering a vital link between the Renaissance and the High Baroque and showcasing the depth and innovation present even in the earlier stages of this rich musical period. His legacy, though sometimes overshadowed, is a testament to his groundbreaking contributions.
+
+[Back to TOC](#table-of-contents)
 
 ---
 
