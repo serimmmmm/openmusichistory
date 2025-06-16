@@ -8,7 +8,7 @@ Composition: Lamento, FBWV 612
 instrument: Harpsichord, Clavichord
 ---
 # Table of Contents
-- [Johann Jakob Froberger](#johann-jakob-froberger)
+- [Johann Jakob Froberger](#johann-jakob-froberger-16161667)
 - [Timeline of Johann Jakob Froberger](#timeline-of-johann-jakob-froberger)
 - [Lamento sopra la dolorosa perdita della Real Maesta di Ferdinando IV FBWV 612](#lamento-sopra-la-dolorosa-perdita-della-real-maesta-di-ferdinando-iv-fbwv-612)
 
@@ -93,7 +93,8 @@ alt="portrait" style="width:50%;" />
 
 **The Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV, FBWV 612**, stands as one of Johann Jakob Froberger's **most expressive and intimate keyboard works**. Composed around 1657, it served as a heartfelt elegy for the unexpected death of Ferdinando IV, King of the Romans and heir to the Holy Roman Empire, that same year. Ferdinando IV's untimely passing at the age of 19 was a significant blow to the Habsburg dynasty, as he was highly regarded as a **promising successor**.
 
-Froberger, who maintained close connections with European courts and nobility, particularly the Imperial court in Vienna where he served for much of his career, conceived this Lamento as a deeply personal articulation of his grief and perhaps that of the court. The piece goes beyond mere formality, transforming personal sorrow into a universal musical language of lament. This work exemplifies his remarkable capacity to intertwine profound emotional depth with **sophisticated musical structure**, **showcasing his innovative use of dissonance**, **flexible rhythm**, and **dramatic contrasts** to convey a narrative of loss and mourning. It marks a pivotal moment in the development of expressive keyboard music during the **early Baroque period**, solidifying Froberger's reputation as a master of both technical virtuosity and emotional eloquence.
+Froberger, who maintained close connections with European courts and nobility, particularly the Imperial court in Vienna where he served for much of his career, conceived this Lamento as a deeply personal articulation of his grief and perhaps that of the court. The piece goes beyond mere formality, transforming personal sorrow into a universal musical language of lament. This work exemplifies his remarkable capacity to intertwine profound emotional depth with **sophisticated musical structure**, **showcasing his innovative use of dissonance**, **flexible rhythm**, and **dramatic contrasts** to convey a narrative of loss and mourning. It marks a pivotal moment in the development of expressive keyboard music during the **early Baroque period**, solidifying Froberger's reputation as a master of both technical virtuosity and emotional eloquence.[Back to TOC](#table-of-contents)
+
 
 # List of Other Important Works
 | Year | Works                                                                | YouTube |  
@@ -107,7 +108,7 @@ Froberger, who maintained close connections with European courts and nobility, p
 [Back to TOC](#table-of-contents)
 
 
-## Main instruments for Froberger's compositions
+# Main instruments for Froberger's compositions
 <img src="./Harpsichord.jpg"
 alt="portrait" style="width:50%;" />
 
@@ -121,10 +122,9 @@ alt="portrait" style="width:50%;" />
 <img src="./organ_f.jpg"
 alt="portrait" style="width:50%;" />
 
-**Organ** - A majestic wind instrument that produces sound by driving air (wind) through pipes, which are selected by pressing keys on a keyboard. Organs come in various sizes, from small portable instruments to massive church organs with thousands of pipes, offering an immense range of tonal colors and volumes. They were, and still are, central to religious music and classical compositions, renowned for their powerful and sustained sound.
+**Organ** - A majestic wind instrument that produces sound by driving air (wind) through pipes, which are selected by pressing keys on a keyboard. Organs come in various sizes, from small portable instruments to massive church organs with thousands of pipes, offering an immense range of tonal colors and volumes. They were, and still are, central to religious music and classical compositions, renowned for their powerful and sustained sound.[Back to TOC](#table-of-contents)
 
 
-[Back to TOC](#table-of-contents)
 
 
 # His Pioneering Role in Baroque Keyboard Development
