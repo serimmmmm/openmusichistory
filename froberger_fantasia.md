@@ -19,12 +19,6 @@ Instrument: Harpsichord
  ### Learning Objectives
 **Through this article, learners will understand that Johann Jakob Froberger played a crucial role during the early Baroque period by blending Italian, French, and German musical traditions to create distinctive keyboard works.** They will recognize how Froberger incorporated improvisatory and expressive qualities learned from Frescobaldi, French dance forms and ornamentation, as well as German contrapuntal techniques into his music. Learners will also grasp his pioneering role in systematizing keyboard suites, influencing later composers, especially Johann Sebastian Bach. Furthermore, they will appreciate the significance of emotional expression, individuality, and musical contrast in his compositions as central elements of Baroque aesthetics, and understand the lasting artistic value his music holds today.
 
-Johann Jakob Froberger (1616–1667) was a German composer who lived during the **early Baroque period**, a time of significant transformation in European music. This era saw the rise of expressive, dramatic musical forms and the development of new instrumental genres, particularly for keyboard instruments. Froberger lived and worked in a period shaped by the cultural exchanges among Italy, France, and Germany, and his travels throughout Europe deeply influenced his musical style.
-
-**[Frescobaldi](frescobaldi_gagliarda.md) was his teacher**, and under his guidance in Rome, Froberger absorbed the improvisatory and expressive qualities of the Italian keyboard tradition. At the same time, he was exposed to French dance forms and ornamentation, as well as the contrapuntal traditions of Germany. This fusion of styles is reflected in his keyboard compositions, especially in his toccatas, fantasias, and suites, which represent an important step in the evolution of Baroque keyboard music.
-
-He was the first among German composers to create suites specifically for keyboard instruments, establishing a model that would later influence composers like Johann Sebastian Bach. Froberger’s works demonstrate an early Baroque aesthetic marked by contrast, emotion, and individuality, and his music played a significant role in shaping the keyboard repertoire of the time.
-
 ## Table of Contents
 
 - [Life story](#life-story)
@@ -43,12 +37,9 @@ He was the first among German composers to create suites specifically for keyboa
 | 1650–1667 | Vienna and Germany | Composed keyboard works and developed suite form |
 | 1667 | Vienna, Austria | Died |
 
-Johann Jakob Froberger was a German composer who was born in 1616 in Stuttgart. Around 1634, he traveled to Rome, Italy, where he studied under the esteemed composer **Francesco Frescobaldi**, acquiring the improvisatory and expressive qualities characteristic of the Italian keyboard tradition. Between 1637 and 1649, Froberger extensively traveled across Europe—including Italy, France, and Germany—absorbing diverse musical styles, notably French dance forms and German contrapuntal techniques.
+**Johann Jakob Froberger (1616–1667)** was a German composer and keyboard virtuoso of the early Baroque period. Born in Stuttgart, he traveled to Rome around 1634 to study under the renowned composer [Girolamo Frescobaldi](frescobaldi_gagliarda.md), from whom he acquired the improvisatory and expressive qualities of the Italian keyboard tradition. Over the next decade, Froberger journeyed extensively through Italy, France, and Germany, absorbing a rich array of musical styles—French dance forms, German contrapuntal techniques, and the ornamentation and drama typical of Baroque expression.
 
-Around 1649, he settled in Vienna, Austria, and entered the service of the **Habsburg court**. From 1650 to 1667, he actively composed, contributing significantly to the development of the **keyboard suite**. His works exemplify early Baroque musical aesthetics, distinguished by clear contrasts, emotional depth, and individual expression. Froberger’s musical innovations profoundly influenced subsequent composers, particularly **Johann Sebastian Bach**.
-
-He passed away in Vienna in 1667, concluding a career whose legacy and innovations are recognized as pivotal to the evolution of European Baroque keyboard music.
-
+Around 1649, he entered the service of the Habsburg court in Vienna, where he continued composing until his death in 1667. Froberger played a **pioneering role in the development of the keyboard suite**, being among the first German composers to structure suites specifically for keyboard instruments. His works—including toccatas, fantasias, and dance suites—reflect a unique synthesis of European styles, characterized by contrast, emotional depth, and individual expression. His musical innovations had a lasting impact on later composers, especially Johann Sebastian Bach, and helped shape the evolution of Baroque keyboard music in Europe.
 ## List of Important works
 
 | Year | works | youTube |
