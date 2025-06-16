@@ -87,6 +87,9 @@ This work exemplifies the balance between emotion and technique typical of Baroq
 
 > **Rembrandt van Rijn – The Night Watch (1642), Rijksmuseum, Amsterdam**. A dynamic and dramatic group portrait that masterfully uses light and shadow to capture motion and individuality, epitomizing the Baroque emphasis on emotional intensity and realism.
 
+> <Credit: “Triumph of the Name of Jesus” by Giovanni Battista Gaulli (1672–1677). Image and information sourced from the blog: https://blog.naver.com/women06106/223258369794>
+
+
 Froberger’s music is important because he was the first German composer to systematically blend Italian expressiveness, French elegance, and German counterpoint in keyboard music. He pioneered the keyboard suite and helped define early Baroque aesthetics of emotional depth, contrast, and individuality, laying the groundwork for later composers like J.S. Bach.
 
 Similarly, Frescobaldi’s works and **Rembrandt**’s "**The Night Watch**" (1642) both embody key characteristics of **Baroque art**, such as **dramatic contrasts** and profound emotional expression. Frescobaldi’s music highlights dynamic shifts, rhythm, and improvisatory qualities, which parallel the striking chiaroscuro and energetic composition of The Night Watch. Both pieces powerfully engage their audiences, capturing the cultural spirit and artistic passion of their era.
