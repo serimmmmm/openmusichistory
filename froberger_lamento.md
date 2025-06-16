@@ -8,6 +8,7 @@ Composition: Lamento, FBWV 612
 instrument: Harpsichord, Clavichord
 ---
 # Table of Contents
+- [Johann Jakob Froberger](#johann-jakob-froberger)
 - [Timeline of Johann Jakob Froberger](#Timeline-of-Johann-Jakob-Froberger)
 - [Lamento sopra la dolorosa perdita della Real Maesta di Ferdinando IV FBWV 612](#lamento-sopra-la-dolorosa-perdita-della-real-maesta-di-ferdinando-iv-fbwv-612)
 
@@ -61,13 +62,13 @@ alt="portrait" style="width:80%;" />
 [Listen](https://www.youtube.com/watch?v=eJLRrH2oahU)
 
 ## Listening guide
-| XXXX | XXXX |
-| ---- | ---- |
-| XXXX | XXXX |
-| XXXX | XXXX |
-| XXXX | XXXX |
-| XXXX | XXXX |
-| XXXX | XXXX |
+| Time | Musical Contents |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0:00 - 1:30 | Begins with slow, descending melodic figures and frequent dissonances, immediately establishing sorrow with a free, recitative-like rhythm. |
+| 1:30 - 3:00 | Intensifies through chromatic progressions, repeated motives, and augmented/diminished chords, expressing mounting pain and unease.|
+| 3:00 - 4:30 | Transitions to a calmer diatonic and homophonic texture, with gentle melodies and more consonances evoking peaceful contemplation. |
+| 4:30 - 6:00 | Explodes with virtuosic passages, arpeggios, and intense dissonant clashes, reigniting emotional turmoil. |
+| 6:00 - end  | Concludes in a slow minor key with fading melodies and long rests, leaving a sense of resigned sorrow and deep resonance.|
 
 ### Background of the Work
 
