@@ -12,9 +12,12 @@ Instrument: Harpsichord
 
 <img src="./프로베르거.png" alt="portrait" style="width:25%;" />
 
+> Credit: An image of Henry Purcell sourced from Naver Blog (https://blog.naver.com/zkzkshsh/221889408853)
+
 # Johann Jakob Froberger: A Musical Bridge of the Early Baroque
-> ### Learning Objectives
-> **Through this article, learners will understand that Johann Jakob Froberger played a crucial role during the early Baroque period by blending Italian, French, and German musical traditions to create distinctive keyboard works.** They will recognize how Froberger incorporated improvisatory and expressive qualities learned from Frescobaldi, French dance forms and ornamentation, as well as German contrapuntal techniques into his music. Learners will also grasp his pioneering role in systematizing keyboard suites, influencing later composers, especially Johann Sebastian Bach. Furthermore, they will appreciate the significance of emotional expression, individuality, and musical contrast in his compositions as central elements of Baroque aesthetics, and understand the lasting artistic value his music holds today.
+
+ ### Learning Objectives
+**Through this article, learners will understand that Johann Jakob Froberger played a crucial role during the early Baroque period by blending Italian, French, and German musical traditions to create distinctive keyboard works.** They will recognize how Froberger incorporated improvisatory and expressive qualities learned from Frescobaldi, French dance forms and ornamentation, as well as German contrapuntal techniques into his music. Learners will also grasp his pioneering role in systematizing keyboard suites, influencing later composers, especially Johann Sebastian Bach. Furthermore, they will appreciate the significance of emotional expression, individuality, and musical contrast in his compositions as central elements of Baroque aesthetics, and understand the lasting artistic value his music holds today.
 
 Johann Jakob Froberger (1616–1667) was a German composer who lived during the **early Baroque period**, a time of significant transformation in European music. This era saw the rise of expressive, dramatic musical forms and the development of new instrumental genres, particularly for keyboard instruments. Froberger lived and worked in a period shaped by the cultural exchanges among Italy, France, and Germany, and his travels throughout Europe deeply influenced his musical style.
 
@@ -30,7 +33,7 @@ He was the first among German composers to create suites specifically for keyboa
 - [Listening Guide](#listening-guide)
 - [Why Important](#why-important)
 
-## Life journey 
+## Life story
 
 | Year | Location | Event |
 | ---- | -------- | ----- |
@@ -83,6 +86,8 @@ This work exemplifies the balance between emotion and technique typical of Baroq
 * Harpsichord
 
 <img src="./하프시코드.png" alt="portrait" style="width:20%;" />
+
+> Credit: An image of a harpsichord sourced from Naver Blog (https://blog.naver.com/opazizi/222088062836).
 
 ## Why Important 
 
