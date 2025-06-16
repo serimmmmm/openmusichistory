@@ -45,6 +45,8 @@ Although his life was short, Louis Couperin's musical legacy, particularly his h
 | c. 1659-1660 | Composed various pieces for viol, showcasing his versatility beyond keyboard instruments. |
 | 1661 | Died in Paris, aged around 35. His death was premature and prevented him from further developing his highly influential style. He was succeeded as organist at Saint-Gervais by his younger brother, Charles Couperin.|
 
+[Back to TOC](#table-of-contents)
+
 ## List of Important Works
 
 | Year | Works | Youtube |
@@ -76,6 +78,8 @@ Although his life was short, Louis Couperin's musical legacy, particularly his h
 | 1:55 - 2:13 | Fourth Couplet |
 | 2:13 - End | Refrain |
 
+[Back to TOC](#table-of-contents)
+
 [^4]: In chaconne form, particularly in the French Baroque style, a Refrain refers to the continuously repeating bass line or chord progression (the ostinato) that forms the structural backbone of the piece. The 4-measure excerpt repeats twice, making the total 8 measures, which serves as the refrain of this piece.
 [^5]: Couplets are the contrasting variations or episodes that appear between repetitions of this Refrain. They introduce melodic, rhythmic, or harmonic changes, offering diversity and developing the musical ideas while remaining rooted in the underlying bass pattern.
 
@@ -86,6 +90,8 @@ Although his life was short, Louis Couperin's musical legacy, particularly his h
 - Harpsichord[^7] Repertoire: Composed primarily for the harpsichord, this piece contributed to exploring the instrument's varied timbres and expressive potential during that era.
   
   <img src="./harpsichord_yehyeon.png" alt="portrait" style="width:25%;" />[^8]
+
+[Back to TOC](#table-of-contents)
 
 [^6]: A chaconne is a Baroque musical form originating from a slow, triple-meter dance. Its core feature is a repeating short bass line (ostinato bass) over which various variations are built. While initially a lively 16th-century dance, it evolved into a majestic instrumental piece in the 17th century, known for its solemn atmosphere and intricate variations within its consistent 3-beat framework.
 [^7]: The harpsichord is a keyboard instrument popular from the Renaissance to the Baroque era. Unlike a piano, which uses hammers, the harpsichord produces sound when a plectrum plucks the strings. This mechanism meant volume control was difficult, but it created a clear, metallic, and distinctive timbre. It played a crucial role in Baroque music and is still used today for period performances.
