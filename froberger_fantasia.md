@@ -27,7 +27,7 @@ He was the first among German composers to create suites specifically for keyboa
 
 ## Table of Contents
 
-- [Life journey](#life-journey)
+- [Life story](#life-story)
 - [List of Important works](#list-of-important-works)
 - [Fantasia in C Major, FbWV 201](#fantasia-in-c-major,-fbWV-201)
 - [Listening Guide](#listening-guide)
@@ -67,7 +67,7 @@ This work exemplifies the balance between emotion and technique typical of Baroq
 
 [Fantasia in C Major, FbWV 201](https://youtu.be/gCyescmLEs4?si=fvcnw6JXi1CTsDbG)
 
-<img src="./판타지아최종.pdf" alt="portrait" style="width:55%;" />
+<img src="./판타지아최종.jpg" alt="portrait" style="width:55%;" />
 
 ### Listening Guide
 
