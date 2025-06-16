@@ -9,7 +9,7 @@ instrument: Harpsichord, Clavichord
 ---
 # Table of Contents
 - [Johann Jakob Froberger](#johann-jakob-froberger)
-- [Timeline of Johann Jakob Froberger](#Timeline-of-Johann-Jakob-Froberger)
+- [Timeline of Johann Jakob Froberger](#timeline-of-johann-jakob-froberger)
 - [Lamento sopra la dolorosa perdita della Real Maesta di Ferdinando IV FBWV 612](#lamento-sopra-la-dolorosa-perdita-della-real-maesta-di-ferdinando-iv-fbwv-612)
 
   Listening guide
@@ -18,7 +18,7 @@ instrument: Harpsichord, Clavichord
   
   Description of the Work
   
-- [List of Other Important Works](#List-of-Other-Important-Works)
+- [List of Other Important Works](#list-of-other-important-works)
 - [Main instruments for Froberger's compositions](#main-instruments-for-froberger's-compositions)
 - [His Pioneering Role in Baroque Keyboard Development](#His-Pioneering-Role-in-Baroque-Keyboard-Development)
 
@@ -118,7 +118,7 @@ alt="portrait" style="width:50%;" />
 
 **Clavichord** - A keyboard instrument, widely used since the Middle Ages, where small metal blades called **tangents** strike the strings to produce sound. Unlike the harpsichord, the clavichord's unique mechanism allows for subtle control over dynamic nuances and even a vibrato effect called Bebung through finger pressure after the initial strike. This intimate and expressive instrument was primarily favored for private practice and small rooms due to its very soft volume.
 
-<img src="./Clavichord.jpg"
+<img src="./organ_f.jpg"
 alt="portrait" style="width:50%;" />
 
 **Organ** - A majestic wind instrument that produces sound by driving air (wind) through pipes, which are selected by pressing keys on a keyboard. Organs come in various sizes, from small portable instruments to massive church organs with thousands of pipes, offering an immense range of tonal colors and volumes. They were, and still are, central to religious music and classical compositions, renowned for their powerful and sustained sound.
