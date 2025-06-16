@@ -64,7 +64,7 @@ This work exemplifies the balance between emotion and technique typical of Baroq
 
 [Fantasia in C Major, FbWV 201](https://youtu.be/gCyescmLEs4?si=fvcnw6JXi1CTsDbG)
 
-<img src="./판타지아최종.mscz" alt="portrait" style="width:55%;" />
+<img src="./판타지아최종.pdf" alt="portrait" style="width:55%;" />
 
 ### Listening Guide
 
