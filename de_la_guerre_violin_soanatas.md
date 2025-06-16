@@ -18,12 +18,12 @@ Credit: Portrait of Elisabeth Jacquet De La Guerre by François de Troy and usin
 ## 📖Table of contents
 - [Timeline](#timeline)
 - [Who is Elisabeth Jacquet De La Guerre?](#WhoisElisabethJacquetDeLaGuerre?)
-- [List of works in table](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L56)  
-- [6 violin sonatas](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L67)   
-- [What is a violin?](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L134)  
-- [Listening Guide](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L146)  
-- [Question for review](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L149)  
-- [Guides for further studies](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L154)  
+- [List of works in table](#Listofworksintable)  
+- [6 violin sonatas](#6violinsonatas)   
+- [What is a violin?](#Whatisaviolin?)  
+- [Listening Guide](#listeningguide)  
+- [Question for review](#Questionforreview)  
+- [Guides for further studies](#guidesforfurtherstudies)  
 ***
 
   ## 🕐Timeline  
