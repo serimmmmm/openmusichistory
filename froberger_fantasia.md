@@ -14,8 +14,6 @@ Instrument: Harpsichord
 
 > Credit: An image of Henry Purcell sourced from Naver Blog (https://blog.naver.com/zkzkshsh/221889408853)
 
-# Johann Jakob Froberger: A Musical Bridge of the Early Baroque
-
  ### Learning Objectives
 **Through this article, learners will understand that Johann Jakob Froberger played a crucial role during the early Baroque period by blending Italian, French, and German musical traditions to create distinctive keyboard works.** They will recognize how Froberger incorporated improvisatory and expressive qualities learned from Frescobaldi, French dance forms and ornamentation, as well as German contrapuntal techniques into his music. Learners will also grasp his pioneering role in systematizing keyboard suites, influencing later composers, especially Johann Sebastian Bach. Furthermore, they will appreciate the significance of emotional expression, individuality, and musical contrast in his compositions as central elements of Baroque aesthetics, and understand the lasting artistic value his music holds today.
 
@@ -26,6 +24,8 @@ Instrument: Harpsichord
 - [Fantasia in C Major, FbWV 201](#fantasia-in-c-major,-fbWV-201)
 - [Listening Guide](#listening-guide)
 - [Why Important](#why-important)
+
+# Johann Jakob Froberger: A Musical Bridge of the Early Baroque
 
 ## Life story
 
