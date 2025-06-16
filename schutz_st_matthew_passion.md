@@ -1,4 +1,14 @@
-# Heinrich Schütz(1585-1672)
+---
+Composer: Heinrich Schutz
+Nationality: Germany 
+Born: 1585
+Died: 1672
+Period: Baroque
+Composition: St. Matthew Passion
+Instrument: Harpsichord
+---
+
+# Heinrich Schutz(1585-1672)
 
 <img src="./schutz portrait.png" alt="schutz portrait" style="width:35%;" />
 
