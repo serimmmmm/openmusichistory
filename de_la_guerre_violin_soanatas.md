@@ -17,24 +17,25 @@ Credit: Portrait of Elisabeth Jacquet De La Guerre by François de Troy and usin
 ***
 ## 📖Table of contents
 - [Timeline](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L28)  
-- [Who is Elisabeth Jacquet De La Guerre?](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L41)  
-- [6 violin sonatas](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L57)   
-- [What is a violin?](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L124)  
-- [Listening Guide](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L136)  
-- [Question for review](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L139)  
-- [Guides for further studies](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L144)  
+- [Who is Elisabeth Jacquet De La Guerre?](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L41)
+- [List of works in table](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L56)  
+- [6 violin sonatas](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L67)   
+- [What is a violin?](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L134)  
+- [Listening Guide](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L146)  
+- [Question for review](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L149)  
+- [Guides for further studies](https://github.com/lsb0306/openmusichistory/blob/main/de_la_guerre_violin_soanatas.md?plain=1#L154)  
 ***
 
   ## 🕐Timeline  
-| Year | Event/Activity |  Youtube |
-| ---- | -------------- |------------------------------------------------ |
+| Year | Event/Activity | 
+| ---- | -------------- |
 | 1665 | 	Born in Paris into a family of musicians. |
 | 1670 | 	Gained fame as a child prodigy harpsichordist at the court of Louis XIV. |
 | 1684 | 	Married Marin de La Guerre. Adopted the name **Jacquet de La Guerre**. |
-| 1687 | 	Published her **first collection of harpsichord suites** (Pièces de clavecin) | [Listen🔈](https://youtu.be/c9kJj0DnEGw?si=wRQ_OoFlZZJE8mPZ) |
-| 1694 | 	Premiered the opera **Céphale et Procris**—a rare example of an opera by a French woman composer. | [Listen🔈](https://youtu.be/HZDqqI0_dxo?si=aQve0TJq-Jo1iwM6) |
-| 1707 |	Published **sonatas for violin and harpsichord** | [Listen🔈](https://youtu.be/IUlW1Uj7G5E?si=AkYUVasKfqH5uP0S) |
-| 1711-1715 | Released a series of **sacred cantatas** (Cantates spirituelles) | [Watch📺](https://youtu.be/A1-RhwSfcwc?si=VY9NMAcB9mn_bnIK) |
+| 1687 | 	Published her **first collection of harpsichord suites** (Pièces de clavecin) |
+| 1694 | 	Premiered the opera **Céphale et Procris**—a rare example of an opera by a French woman composer. | 
+| 1707 |	Published **sonatas for violin and harpsichord** | 
+| 1711-1715 | Released a series of **sacred cantatas** (Cantates spirituelles) |
 | 1729 | Died in Paris. |  
   
 
@@ -51,6 +52,15 @@ This stylistic fusion positioned her at the forefront of a broader cultural move
 
 ![드라게르 바로크 시대 그림](https://github.com/user-attachments/assets/35dcf554-8adf-4d6a-8c97-b8f3f2bb983b)  
 Credit: An image of De La Guerre performing at the royal court created bt ChatGPT, Jun 1, 2025, 10:08:23 PM, with the prompt "draw a scene of Élisabeth Jacquet de La Guerre playing the harpsichord in a French salon during the reign of Louis XIV."
+
+## List of works in table
+
+| Year | Works | Youtube |
+| ---- | ------------------ | ------------------------------------------------ |
+| 1687 | Pièces de Clavecin | [Listen🔈](https://youtu.be/c9kJj0DnEGw?si=wRQ_OoFlZZJE8mPZ) |
+| 1694 | Cephale et Procris | [Listen🔈](https://youtu.be/HZDqqI0_dxo?si=aQve0TJq-Jo1iwM6) |
+| 1707 | 6 Violin Sonatas | [Listen🔈](https://youtu.be/IUlW1Uj7G5E?si=AkYUVasKfqH5uP0S) |
+| 1715 | Cantates francoises | [Watch📺](https://youtu.be/A1-RhwSfcwc?si=VY9NMAcB9mn_bnIK) |
 
 ***
   
