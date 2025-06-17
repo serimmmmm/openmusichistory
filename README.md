@@ -20,10 +20,6 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 [AhnIre](https://github.com/AhnIre)
 > 3rd-year student majoring in piano at Hanyang University
 
-### Name?
-[moon0520](https://github.com/moon0520)
-> Major?
-
 ### Dayeon CHOI
 [dayeon17](https://github.com/dayeon17)
 > 3rd-year student majoring in piano at Hanyang University
@@ -135,6 +131,10 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 ### Seungju YUN
 [Yunseungju](https://github.com/Yunseungju)  
 > 4th-year piano major at Hanyang University
+
+### Name?
+[moon0520](https://github.com/moon0520)
+> Major?
 
 ---
 
