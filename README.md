@@ -116,6 +116,12 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 
 ### _17th Century_
 
+### Arcangelo Corelli
+- [La Folia, Op. 5, No. 12](corelli_la_folia.md) by [miminu03](https://github.com/miminu03)
+
+### Louis Couperin
+- [Chaconne in D](couperin_chaconne.md) by [yehyeon-kim](https://github.com/yehyeon-kim)
+
 ### Girolamo Frescobaldi
 - [Gagliarda in G minor](frescobaldi_gagliarda.md) by [AhnIre](https://github.com/AhnIre)
 
@@ -125,12 +131,18 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 ### Claudio Monteverdi
 - [*L'incoronozione di Poppea*](monteverdi_lincoronazione_di_poppea.md) by [orikyumin](https://github.com/orikyumin)
 
+### Gaspar Sanz
+- [Canarios](sanz_canarios.md) by [noc92](https://github.com/noc92)
+
 ### Heinrich Schutz
 - [St. Matthew Passion](schutz_st_matthew_passion.md) by [hn020204](https://github.com/hn020204)
 
 ---
 
 ### _18th Century_
+
+### Georg Philipp Telemann
+- [Sonata for Bassoon in F minor, TWV 41:f1](telemann_sonata.md) by [Junseo-Kwon](https://github.com/Junseo-Kwon)
 
 ### Joseph Haydn
 - [Keyboard Sonata in C major, Hob.XVI:50](haydn-piano-sonata.md) by [eunhwan00](https://github.com/eunhwan00)
@@ -211,6 +223,12 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 - [Andante spianato et Grande polonaise brillante in E-flat major, Op. 22](chopin-polonaise.md) by [hobin2788](https://github.com/hobin2788)
 - [Piano Sonata No. 2 in B-flat minor, Op. 35](chopin-piano-sonata.md) by [Yunseungju](https://github.com/Yunseungju)
 
+### Arcangelo Corelli
+- [La Folia, Op. 5, No. 12](corelli_la_folia.md) by [miminu03](https://github.com/miminu03)
+
+### Louis Couperin
+- [Chaconne in D](couperin_chaconne.md) by [yehyeon-kim](https://github.com/yehyeon-kim)
+
 ### Girolamo Frescobaldi
 - [Gagliarda in G minor](frescobaldi_gagliarda.md) by [AhnIre](https://github.com/AhnIre)
 
@@ -240,7 +258,10 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 
 ### Sergei Prokofiev
 - [Piano Sonata No. 2 in D minor, Op. 14](prokofiev-sonata-no.2.md) by [Midda](https://github.com/Midda)
-  
+
+### Gaspar Sanz
+- [Canarios](sanz_canarios.md) by [noc92](https://github.com/noc92)
+
 ### Arnold Schönberg
 - [*Pierrot lunaire*, Op. 21](schonberg-pierro-lunaire.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
 
@@ -250,3 +271,6 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 
 ### Heinrich Schutz
 - [St. Matthew Passion](schutz_st_matthew_passion.md) by [hn020204](https://github.com/hn020204)
+
+### Georg Philipp Telemann
+- [Sonata for Bassoon in F minor, TWV 41:f1](telemann_sonata.md) by [Junseo-Kwon](https://github.com/Junseo-Kwon)
