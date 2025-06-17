@@ -122,6 +122,12 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 ### Johann Jakob Froberger
 - [Fantasia in C major, FbWV 201](froberger_fantasia.md) by [dayeon17](https://github.com/dayeon17)
 
+### Claudio Monteverdi
+- [*L'incoronozione di Poppea*](monteverdi_lincoronazione_di_poppea.md) by [orikyumin](https://github.com/orikyumin)
+
+### Heinrich Schutz
+- [St. Matthew Passion](schutz_st_matthew_passion.md) by [hn020204](https://github.com/hn020204)
+
 ---
 
 ### _18th Century_
@@ -226,6 +232,9 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 ### Gustav Mahler
 - [Symphony No. 1 in D major](mahler-symphony.md) by [Taegyun-Kim-Bassist](https://github.com/Taegyun-Kim-Bassist)
 
+### Claudio Monteverdi
+- [*L'incoronozione di Poppea*](monteverdi_lincoronazione_di_poppea.md) by [orikyumin](https://github.com/orikyumin)
+
 ### Wolfgang Amadeus Mozart
 - [Symphony No. 41 in C major, K. 551](mozart-symphony.md) by [hobin2788](https://github.com/hobin2788)
 
@@ -239,3 +248,5 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 - [*Fantasie* in C major, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110) and [xogus1194](https://github.com/xogus1194)
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
 
+### Heinrich Schutz
+- [St. Matthew Passion](schutz_st_matthew_passion.md) by [hn020204](https://github.com/hn020204)
