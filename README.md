@@ -68,13 +68,13 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 > 3rd-year viola major from Hanyang University
 
 ### Park, KunHee [@jjjkk99086](https://github.com/jjjkk99086)
-> Major?
+> Major? Last commits on May 5, 2025
 
 ### Park, Serim [@serimmmmm](https://github.com/serimmmmm)
 > 3rd-year student majoring in piano at Hanyang University
 
 ### Park, Sihyung [@CamelApex](https://github.com/CamelApex)
-> Double Bassist, Hanyang University
+> Double Bassist, Hanyang University; Last commits on May 20, 2025
 
 ### Pyo, Eun Hwan [@eunhwan00](https://github.com/eunhwan00)  
 > Pianist from the Republic of Korea; 4th-year piano major at Hanyang University
@@ -110,10 +110,6 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 
 ## Works (by periods)
 
-### _16th Century_
-
----
-
 ### _17th Century_
 
 ### Arcangelo Corelli
@@ -122,14 +118,15 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 ### Louis Couperin
 - [Chaconne in D](couperin_chaconne.md) by [yehyeon-kim](https://github.com/yehyeon-kim)
 
-### Elisabeth Jacquet de La Guerre
-- [6 Violin Sonatas](de_la_guerre_violin_soanatas.md) by [lsb0306](https://github.com/lsb0306)
-
 ### Girolamo Frescobaldi
 - [Gagliarda in G minor](frescobaldi_gagliarda.md) by [AhnIre](https://github.com/AhnIre)
 
 ### Johann Jakob Froberger
 - [Fantasia in C major, FbWV 201](froberger_fantasia.md) by [dayeon17](https://github.com/dayeon17)
+- [Lamento, FbWV 612](froberger_lamento.md) by [Yhkrj](https://github.com/Yhkrj)
+
+### Elisabeth Jacquet de La Guerre
+- [6 Violin Sonatas](de_la_guerre_violin_soanatas.md) by [lsb0306](https://github.com/lsb0306)
 
 ### Claudio Monteverdi
 - [*L'incoronozione di Poppea*](monteverdi_lincoronazione_di_poppea.md) by [orikyumin](https://github.com/orikyumin)
@@ -137,21 +134,24 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 ### Gaspar Sanz
 - [Canarios](sanz_canarios.md) by [noc92](https://github.com/noc92)
 
+### Alessandro Scarlatti
+- [*Gia il sole dal Gange*](scarlatti_alessandro_gia_il_sole.md) by [serimmmmm](https://github.com/serimmmmm)
+
 ### Heinrich Schutz
 - [St. Matthew Passion](schutz_st_matthew_passion.md) by [hn020204](https://github.com/hn020204)
+
+### Barbara Strozi
+- Unacceptable file name by [limjueon](https://github.com/limjueon)
 
 ---
 
 ### _18th Century_
 
-### Georg Philipp Telemann
-- [Sonata for Bassoon in F minor, TWV 41:f1](telemann_sonata.md) by [Junseo-Kwon](https://github.com/Junseo-Kwon)
+### Wilhelm Friedemann Bach
+- [Three Duets for Two Violas](bach_wilhelm_friedemann_three_duets_for_two_violas.md) by [jongwoong-song](https://github.com/jongwoong-song)
 
-### Joseph Haydn
-- [Keyboard Sonata in C major, Hob.XVI:50](haydn-piano-sonata.md) by [eunhwan00](https://github.com/eunhwan00)
-
-### Wolfgang Amadeus Mozart
-- [Symphony No. 41 in C major, K. 551](mozart-symphony.md) by [hobin2788](https://github.com/hobin2788)
+### Jean Baptiste Barrière
+- [La Boucon](barriere_sonata_for_duet_in_gmajor.md) by [CamelApex](https://github.com/CamelApex)
 
 ### Ludwig van Beethoven
 - [Piano Sonata No. 14 in C-sharp minor, Op.27, No.2 "Moonlight"](beethoven-piano-sonata-no.14.md) by [xogus1194](https://github.com/xogus1194)
@@ -161,42 +161,54 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 - [Symphony No. 9 in D minor, Op. 125](beethoven-symphony-no-9.md) by [taegyun-kim-bassist](https://github.com/Taegyun-Kim-Bassist)
 - [Rondo a carpriccio, Op. 129](beethoven-rondo.md) by [Yunseungju](https://github.com/Yunseungju)
 
+### Joseph Haydn
+- [Keyboard Sonata in C major, Hob.XVI:50](haydn-piano-sonata.md) by [eunhwan00](https://github.com/eunhwan00)
+
+### Wolfgang Amadeus Mozart
+- [Symphony No. 41 in C major, K. 551](mozart-symphony.md) by [hobin2788](https://github.com/hobin2788)
+
+### Domenico Scarlatti
+- [Sonata in G major, K. 80](scarlatti_domenico_keyboard_sonata_k80.md) by [korlegend](https://github.com/korlegend)
+
+### Georg Philipp Telemann
+- [Sonata for Bassoon in F minor, TWV 41:f1](telemann_sonata.md) by [Junseo-Kwon](https://github.com/Junseo-Kwon)
+
 ---
 
 ### _19th Century_
+
+### Ferruccio Busoni (Sample)
+- [Piano Sonata in F minor, BV 204](sample-busoni-piano-sonata.md) by [kyeser](https://github.com/kyeser)
 
 ### Frédéric Chopin
 - [Andante spianato et Grande polonaise brillante in E-flat major, Op. 22](chopin-polonaise.md) by [hobin2788](https://github.com/hobin2788)
 - [Piano Sonata No. 2 in B-flat minor, Op. 35](chopin-piano-sonata.md) by [Yunseungju](https://github.com/Yunseungju)
 
-### Robert Schumann
-- [*Fantasie* in C major, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110) and [xogus1194](https://github.com/xogus1194)
-- [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
+### Leopold Godowsky
+- [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
 
 ### Gustav Mahler
 - [Symphony No. 1 in D major](mahler-symphony.md) by [Taegyun-Kim-Bassist](https://github.com/Taegyun-Kim-Bassist)
 
-### Ferruccio Busoni (Sample)
-- [Piano Sonata in F minor, BV 204](sample-busoni-piano-sonata.md) by [kyeser](https://github.com/kyeser)
-
-### Leopold Godowsky
-- [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
+### Robert Schumann
+- [*Fantasie* in C major, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110) and [xogus1194](https://github.com/xogus1194)
+- [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
 
 ---
 
 ### _20th Century_
 
-### Arnold Schönberg
-- [*Pierrot lunaire*, Op. 21](schonberg-pierro-lunaire.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
+### John Adams
+- [*Doctor Atomic*](john_adams_doctor_atomic.md) by [eunhwan00](https://github.com/eunhwan00)
+
+### György Ligeti
+- [Études pour le piano](Ligeti-etudes.md) by [ziwonnnn](https://github.com/ziwonnnn)
 
 ### Sergei Prokofiev
 - [Piano Sonata No. 2 in D minor, Op. 14](prokofiev-sonata-no.2.md) by [Midda](https://github.com/Midda)
   
-### György Ligeti
-- [Études pour le piano](Ligeti-etudes.md) by [ziwonnnn](https://github.com/ziwonnnn)
-
-### John Adams
-- [*Doctor Atomic*](john_adams_doctor_atomic.md) by [eunhwan00](https://github.com/eunhwan00)
+### Arnold Schönberg
+- [*Pierrot lunaire*, Op. 21](schonberg-pierro-lunaire.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
 
 ---
 
@@ -211,6 +223,12 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 ### John Adams
 - [*Doctor Atomic*](john_adams_doctor_atomic.md) by [eunhwan00](https://github.com/eunhwan00)
 
+### Wilhelm Friedemann Bach
+- [Three Duets for Two Violas](bach_wilhelm_friedemann_three_duets_for_two_violas.md) by [jongwoong-song](https://github.com/jongwoong-song)
+
+### Jean Baptiste Barrière
+- [La Boucon](barriere_sonata_for_duet_in_gmajor.md) by [CamelApex](https://github.com/CamelApex)
+
 ### Ludwig van Beethoven
 - [Piano Sonata No. 14 in C-sharp minor, Op.27, No.2 "Moonlight"](beethoven-piano-sonata-no.14.md) by [xogus1194](https://github.com/xogus1194)
 - [Piano Sonata No. 21 in C major, Op. 53, "Waldstein"](beethoven-piano-sonata-no.21.md) by [Middaa](https://github.com/Middaa)
@@ -237,6 +255,7 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 
 ### Johann Jakob Froberger
 - [Fantasia in C major, FbWV 201](froberger_fantasia.md) by [dayeon17](https://github.com/dayeon17)
+- [Lamento, FbWV 612](froberger_lamento.md) by [Yhkrj](https://github.com/Yhkrj)
 
 ### Leopold Godowsky
 - [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
@@ -268,6 +287,12 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 ### Gaspar Sanz
 - [Canarios](sanz_canarios.md) by [noc92](https://github.com/noc92)
 
+### Alessandro Scarlatti
+- [*Gia il sole dal Gange*](scarlatti_alessandro_gia_il_sole.md) by [serimmmmm](https://github.com/serimmmmm)
+
+### Domenico Scarlatti
+- [Sonata in G major, K. 80](scarlatti_domenico_keyboard_sonata_k80.md) by [korlegend](https://github.com/korlegend)
+
 ### Arnold Schönberg
 - [*Pierrot lunaire*, Op. 21](schonberg-pierro-lunaire.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
 
@@ -277,6 +302,9 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 
 ### Heinrich Schutz
 - [St. Matthew Passion](schutz_st_matthew_passion.md) by [hn020204](https://github.com/hn020204)
+
+### Barbara Strozi
+- Unacceptable file name by [limjueon](https://github.com/limjueon)
 
 ### Georg Philipp Telemann
 - [Sonata for Bassoon in F minor, TWV 41:f1](telemann_sonata.md) by [Junseo-Kwon](https://github.com/Junseo-Kwon)
