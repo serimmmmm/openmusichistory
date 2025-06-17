@@ -56,7 +56,7 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 > Musicologist from Korea; Associate Professor of Music at Hanyang University
 
 ### Lee, Chang Hyun [@Leechanghyun316](https://github.com/Leechanghyun316)
-> Major?
+> Major? Last commits on May 13, 2025
 
 ### Lee, Minji [@leeminji0110](https://github.com/leeminji0110)  
 > 3rd-year piano major at Hanyang University in Seoul, Korea
@@ -121,6 +121,9 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 
 ### Louis Couperin
 - [Chaconne in D](couperin_chaconne.md) by [yehyeon-kim](https://github.com/yehyeon-kim)
+
+### Elisabeth Jacquet de La Guerre
+- [6 Violin Sonatas](de_la_guerre_violin_soanatas.md) by [lsb0306](https://github.com/lsb0306)
 
 ### Girolamo Frescobaldi
 - [Gagliarda in G minor](frescobaldi_gagliarda.md) by [AhnIre](https://github.com/AhnIre)
@@ -240,6 +243,9 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 
 ### Joseph Haydn
 - [Keyboard Sonata in C major, Hob.XVI:50](haydn-piano-sonata.md) by [eunhwan00](https://github.com/eunhwan00)
+
+### Elisabeth Jacquet de La Guerre
+- [6 Violin Sonatas](de_la_guerre_violin_soanatas.md) by [lsb0306](https://github.com/lsb0306)
 
 ### Moonhee Lee
 - [*The Proliferation of Dots*](moonheelee-The-Proliferation-of-Dots.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
