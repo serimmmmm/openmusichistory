@@ -116,6 +116,12 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 
 ### _17th Century_
 
+### Girolamo Frescobaldi
+- [Gagliarda in G minor](frescobaldi_gagliarda.md) by [AhnIre](https://github.com/AhnIre)
+
+### Johann Jakob Froberger
+- [Fantasia in C major, FbWV 201](froberger_fantasia.md) by [dayeon17](https://github.com/dayeon17)
+
 ---
 
 ### _18th Century_
@@ -198,6 +204,12 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 ### Frédéric Chopin
 - [Andante spianato et Grande polonaise brillante in E-flat major, Op. 22](chopin-polonaise.md) by [hobin2788](https://github.com/hobin2788)
 - [Piano Sonata No. 2 in B-flat minor, Op. 35](chopin-piano-sonata.md) by [Yunseungju](https://github.com/Yunseungju)
+
+### Girolamo Frescobaldi
+- [Gagliarda in G minor](frescobaldi_gagliarda.md) by [AhnIre](https://github.com/AhnIre)
+
+### Johann Jakob Froberger
+- [Fantasia in C major, FbWV 201](froberger_fantasia.md) by [dayeon17](https://github.com/dayeon17)
 
 ### Leopold Godowsky
 - [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
