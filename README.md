@@ -131,6 +131,10 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 ### Claudio Monteverdi
 - [*L'incoronozione di Poppea*](monteverdi_lincoronazione_di_poppea.md) by [orikyumin](https://github.com/orikyumin)
 
+### Henry Purcell
+- [*Dido and Aeneas*](purcell_dido_aeneas.md) by [goeun313316](https://github.com/goeun313316)
+- [Rondeau](purcell_rondeau.md) by [moon0520](https://github.com/moon0520)
+
 ### Gaspar Sanz
 - [Canarios](sanz_canarios.md) by [noc92](https://github.com/noc92)
 
@@ -283,6 +287,10 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 
 ### Sergei Prokofiev
 - [Piano Sonata No. 2 in D minor, Op. 14](prokofiev-sonata-no.2.md) by [Midda](https://github.com/Midda)
+
+### Henry Purcell
+- [*Dido and Aeneas*](purcell_dido_aeneas.md) by [goeun313316](https://github.com/goeun313316)
+- [Rondeau](purcell_rondeau.md) by [moon0520](https://github.com/moon0520)
 
 ### Gaspar Sanz
 - [Canarios](sanz_canarios.md) by [noc92](https://github.com/noc92)
