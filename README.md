@@ -16,75 +16,41 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 
 ## Contributors
 
-[miminu03](https://github.com/miminu03)
-> [Arcangelo_Corelli.md](Arcangelo_Corelli.md)
-
-[limjueon](https://github.com/limjueon)
-> [Barbara Strozi_compatiton.md](Barbara Strozi_compatiton.md)
-
-[jjjkk99086](https://github.com/jjjkk99086)
-> [Francois Couperin.md](Francois Couperin.md)
-
-[Leechanghyun316](https://github.com/Leechanghyun316)
-> ~~[J.Haydn.md](J.Haydn.md)~~
-
-[hn020204](https://github.com/hn020204)
-> [Terzi_Antonio_Giovanni.md](Terzi_Antonio_Giovanni.md)
-
-[jongwoong-song](https://github.com/jongwoong-song)
-> [bach_wilhelm_friedemann.md](bach_wilhelm_friedemann.md)
-
-[yehyeon-kim](https://github.com/yehyeon-kim)
-> [couperin_louis.md](couperin_louis.md)
-
-[korlegend](https://github.com/korlegend)
-> [domenicooscarlatti.md](domenicooscarlatti.md)
-
-[lsb0306](https://github.com/lsb0306)
-> [elisabethjacquetdelaguerre_6violinsoanatas.md](elisabethjacquetdelaguerre_6violinsoanatas.md)
-
+### IRe AHN
 [AhnIre](https://github.com/AhnIre)
-> [frescobaldi.md](frescobaldi.md)
+> 3rd-year student majoring in piano at Hanyang University
 
-[Yhkrj](https://github.com/Yhkrj)
-> [froberger.md](froberger.md)
-
+### Name?
 [moon0520](https://github.com/moon0520)
-> [henry_purcell.md](henry_purcell.md)
+> Major?
 
-[orikyumin](https://github.com/orikyumin)
-> [j.Albrechtsberger.md](j.Albrechtsberger.md)
-
-[CamelApex](https://github.com/CamelApex)
-> [jean-baptiste barriere_.md](jean-baptiste barriere_.md)
-
+### Dayeon CHOI
 [dayeon17](https://github.com/dayeon17)
-> [johann_jakob_froberger.md](johann_jakob_froberger.md)
+> 3rd-year student majoring in piano at Hanyang University
 
-[goeun313316](https://github.com/goeun313316)
-> [purcell_henry.md](purcell_henry.md)
+### Kyumin JANG
+[orikyumin](https://github.com/orikyumin)
+> Major?
 
-[noc92](https://github.com/noc92)
-> [sanz_gaspar.md](sanz_gaspar.md)
-
-[serimmmmm](https://github.com/serimmmmm)
-> [scarlatti_alessandro.md](scarlatti_alessandro.md)
-
-[Junseo-Kwon](https://github.com/Junseo-Kwon)
-> [telemann.md](telemann.md)
-
-[asdfasdafsas](https://github.com/asdfasdafsas)
-> [william_byrd.md](william_byrd.md)
-
-[Who else?]
+### Ha Neul JOO
+[hn020204](https://github.com/hn020204)
+> A 4th-year student majoring in Piano at Hanyang University
 
 ### Jiwon JUNG
 [ziwonnnn](https://github.com/ziwonnnn)  
 > 3rd-year student majoring in piano at Hanyang University
 
+### Min Woo JUNG
+[miminu03](https://github.com/miminu03)
+> Major?
+
 ### Hyunmin KIM
 [RYUSEI-KIM](https://github.com/RYUSEI-KIM)  
 > 3rd-year composition major at Hanyang University. A sweet soul full of love and kindness!
+
+### Minjun KIM
+[noc92](https://github.com/noc92)
+> Student of Department of Computer Science and Engineering at Hanyang University
 
 ### Minna KIM
 [Middaa](https://github.com/Middaa)  
@@ -94,13 +60,45 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 [Taegyun-Kim-Bassist](https://github.com/Taegyun-Kim-Bassist)  
 > Double bassist from the Republic of Korea; 4th-year double bass major at Hanyang University
 
+### Yehyeon KIM
+[yehyeon-kim](https://github.com/yehyeon-kim)
+> 3rd-year student majoring in piano at Hanyang University
+
+### Junseo KWON
+[Junseo-Kwon](https://github.com/Junseo-Kwon)
+> 3rd-year student majoring in piano at Hanyang University
+
 ### Hee Seng KYE
 [hskye79](https://github.com/hskye79)  
 > Musicologist from Korea; Associate Professor of Music at Hanyang University
 
+### Chang Hyun LEE
+[Leechanghyun316](https://github.com/Leechanghyun316)
+> Major?
+
 ### Minji LEE
 [leeminji0110](https://github.com/leeminji0110)  
 > 3rd-year piano major at Hanyang University in Seoul, Korea
+
+### Su Bin LEE
+[lsb0306](https://github.com/lsb0306)
+> 4th-year Majoring in Violin at Hanyang University
+
+### Ju Eon LIM
+[limjueon](https://github.com/limjueon)
+> 3rd-year viola major from Hanyang University
+
+### KunHee PARK
+[jjjkk99086](https://github.com/jjjkk99086)
+> Major?
+
+### Serim PARK
+[serimmmmm](https://github.com/serimmmmm)
+> 3rd-year student majoring in piano at Hanyang University
+
+### Sihyung PARK
+[CamelApex](https://github.com/CamelApex)
+> Double Bassist, Hanyang University
 
 ### Eun Hwan PYO
 [eunhwan00](https://github.com/eunhwan00)  
@@ -114,9 +112,25 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 [hobin2788](https://github.com/hobin2788)  
 > 3rd-year student in the Department of Piano at Hanyang University
 
+### Jong Woong SONG
+[jongwoong-song](https://github.com/jongwoong-song)
+> 3rd-year student majoring in composition major at Hanyang University
+
 ### Laurensius Pio TJAHJADI
 [piopio1248](https://github.com/piopio1248)  
 > 4th-year composition major and exchange student from Universitas Indonesia at Hanyang University
+
+### Hyeon Jun YANG
+[Yhkrj](https://github.com/Yhkrj)
+> 3rd-year student majoring in piano at Hanyang University
+
+### Kyeong Soo YOO
+[korlegend](https://github.com/korlegend)
+> 4th-year student majoring in piano at Hanyang University
+
+### Goeun YOON
+[goeun313316](https://github.com/goeun313316)
+> 3rd-year student majoring in piano at Hanyang University
 
 ### Seungju YUN
 [Yunseungju](https://github.com/Yunseungju)  
